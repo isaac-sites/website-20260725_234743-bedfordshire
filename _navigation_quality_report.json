@@ -1,0 +1,2562 @@
+{
+  "generated_at_utc": "2026-08-03T23:24:23.524257Z",
+  "summary": {
+    "total_pages_with_permalink": 552,
+    "visible_pages": 460,
+    "hidden_pages": 92,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1225,
+    "inline_internal_target_page_count": 460,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 446,
+    "visible_pages_without_inline_outbound_links": 14,
+    "average_inline_inbound_links_per_visible_page": 2.66,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 460,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Berwickshire_907858",
+        "title": "What Really Happened in Berwickshire's Skies?",
+        "permalink": "/what-really-happened-in-berwickshires/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246",
+        "title": "What Really Happened in Cambridgeshire's UFO Reports?",
+        "permalink": "/what-really-happened-in/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35",
+        "title": "Carmarthenshire UFOs: Claims, Cases And Explanations",
+        "permalink": "/carmarthenshire-ufos-claims-cases-and/"
+      },
+      {
+        "basename": "Cumberland_f993d3",
+        "title": "What Really Happened in Cumberland's UFO Cases?",
+        "permalink": "/what-really-happened-in-cumberlands-ufo/"
+      },
+      {
+        "basename": "East_Lothian_a7dd3d",
+        "title": "East Lothian's UFO Stories: Reports, Evidence and Doubts",
+        "permalink": "/east-lothians-ufo-stories-reports/"
+      },
+      {
+        "basename": "Fermanagh_69251a",
+        "title": "What Really Happened in Fermanagh's Skies?",
+        "permalink": "/what-really-happened-in-fermanaghs-skies/"
+      },
+      {
+        "basename": "Hampshire_5816c9",
+        "title": "What Really Happened in Hampshire's Skies?",
+        "permalink": "/what-really-happened-in-hampshires-skies/"
+      },
+      {
+        "basename": "Huntingdonshire_d54801",
+        "title": "What Really Flew Over Huntingdonshire?",
+        "permalink": "/what-really-flew-over-huntingdonshire/"
+      },
+      {
+        "basename": "Kent_4e168a_raf_manston_case_3b2a64",
+        "title": "Manston Case",
+        "permalink": "/manston-case/"
+      },
+      {
+        "basename": "Kent_4e168a_west_malling_sightin_a6b77c",
+        "title": "West Malling",
+        "permalink": "/west-malling/"
+      },
+      {
+        "basename": "Kincardineshire_6f0ed9",
+        "title": "What Really Happened Above Kincardineshire Skies",
+        "permalink": "/what-really-happened-above/"
+      },
+      {
+        "basename": "Lincolnshire_92cf52",
+        "title": "Lincolnshire's UFO Mysteries: Cases, Clues And...",
+        "permalink": "/lincolnshires-ufo-mysteries-cases-clues/"
+      },
+      {
+        "basename": "Peeblesshire_4beb86",
+        "title": "Peeblesshire's UFO Stories: Mystery, Evidence, Reality",
+        "permalink": "/peeblesshires-ufo-stories-mystery/"
+      },
+      {
+        "basename": "Sutherland_6dbe51",
+        "title": "What Really Happened in Sutherland's Skies?",
+        "permalink": "/what-really-happened-in-sutherlands/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Aberdeenshire_e04348",
+        "title": "What Really Happened in Aberdeenshire's Skies?",
+        "permalink": "/what-really-happened-in-aberdeenshires/"
+      },
+      {
+        "basename": "Aberdeenshire_e04348_aberdeen_hotspots_c884eb",
+        "title": "Sightings Clusters",
+        "permalink": "/sightings-clusters/"
+      },
+      {
+        "basename": "Aberdeenshire_e04348_fraserburgh_lights_c47747",
+        "title": "Fraserburgh Lights",
+        "permalink": "/fraserburgh-lights/"
+      },
+      {
+        "basename": "Aberdeenshire_e04348_mod_records_808c98",
+        "title": "Official Records",
+        "permalink": "/official-records-ff969d/"
+      },
+      {
+        "basename": "Aberdeenshire_e04348_sighting_explanation_473668",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations-2db86b/"
+      },
+      {
+        "basename": "Anglesey_35202a",
+        "title": "What Really Happened in Anglesey's UFO Stories?",
+        "permalink": "/what-really-happened-in-angleseys-ufo/"
+      },
+      {
+        "basename": "Anglesey_35202a_bodorgan_police_sigh_66c4b1",
+        "title": "Bodorgan Case",
+        "permalink": "/bodorgan-case/"
+      },
+      {
+        "basename": "Anglesey_35202a_local_sighting_clust_81ed26",
+        "title": "Local Clusters",
+        "permalink": "/local-clusters/"
+      },
+      {
+        "basename": "Anglesey_35202a_official_ufo_records_56a07f",
+        "title": "Official Records",
+        "permalink": "/official-records-7e4e2b/"
+      },
+      {
+        "basename": "Anglesey_35202a_raf_valley_links_ccd6e9",
+        "title": "RAF Valley",
+        "permalink": "/raf-valley/"
+      },
+      {
+        "basename": "Angus_34ab6d",
+        "title": "What Really Happened in Angus UFO Reports?",
+        "permalink": "/what-really-happened-in-angus-ufo/"
+      },
+      {
+        "basename": "Angus_34ab6d_aviation_links_07ea7f",
+        "title": "Aviation Links",
+        "permalink": "/aviation-links-bdd115/"
+      },
+      {
+        "basename": "Angus_34ab6d_montrose_sighting_fb0232",
+        "title": "Montrose Sighting",
+        "permalink": "/montrose-sighting/"
+      },
+      {
+        "basename": "Angus_34ab6d_night_lights_444ca3",
+        "title": "Night Lights",
+        "permalink": "/night-lights/"
+      },
+      {
+        "basename": "Angus_34ab6d_official_records_9b05ad",
+        "title": "Official Records",
+        "permalink": "/official-records-354ede/"
+      },
+      {
+        "basename": "Argyllshire_81dd43",
+        "title": "What Really Happened in Argyllshire Skies?",
+        "permalink": "/what-really-happened-in-argyllshire/"
+      },
+      {
+        "basename": "Argyllshire_81dd43_argyllshire_sighting_17edd0",
+        "title": "Sightings",
+        "permalink": "/sightings/"
+      },
+      {
+        "basename": "Argyllshire_81dd43_military_aviation_li_2978f5",
+        "title": "Military Aviation",
+        "permalink": "/military-aviation/"
+      },
+      {
+        "basename": "Argyllshire_81dd43_ufo_archives_records_ca6c00",
+        "title": "Archives",
+        "permalink": "/archives-790a93/"
+      },
+      {
+        "basename": "Argyllshire_81dd43_unresolved_claims_54cf1d",
+        "title": "Mysteries",
+        "permalink": "/mysteries/"
+      },
+      {
+        "basename": "Ayrshire_8acdee",
+        "title": "What Really Happened Above Ayrshire's Skies?",
+        "permalink": "/what-really-happened-above-ayrshires/"
+      },
+      {
+        "basename": "Ayrshire_8acdee_coastal_reports_a8f6f6",
+        "title": "Coastal Reports",
+        "permalink": "/coastal-reports/"
+      },
+      {
+        "basename": "Ayrshire_8acdee_kilmarnock_sightings_0282ba",
+        "title": "Kilmarnock Cases",
+        "permalink": "/kilmarnock-cases/"
+      },
+      {
+        "basename": "Ayrshire_8acdee_official_records_9b05ad",
+        "title": "Official Records",
+        "permalink": "/official-records-588b51/"
+      },
+      {
+        "basename": "Ayrshire_8acdee_prestwick_aviation_0ab2b6",
+        "title": "Aviation Links",
+        "permalink": "/aviation-links-93836f/"
+      },
+      {
+        "basename": "Banffshire_c00f44",
+        "title": "What Really Happened in Banffshire Skies?",
+        "permalink": "/what-really-happened-in-banffshire-skies/"
+      },
+      {
+        "basename": "Banffshire_c00f44_aviation_explanation_7af14d",
+        "title": "Sky Explanations",
+        "permalink": "/sky-explanations-062d06/"
+      },
+      {
+        "basename": "Banffshire_c00f44_evidence_assessment_fc7a03",
+        "title": "UFO Evidence",
+        "permalink": "/ufo-evidence/"
+      },
+      {
+        "basename": "Banffshire_c00f44_newspaper_archives_4315a5",
+        "title": "Archive Reports",
+        "permalink": "/archive-reports/"
+      },
+      {
+        "basename": "Banffshire_c00f44_tomintoul_mystery_a362d8",
+        "title": "Tomintoul Case",
+        "permalink": "/tomintoul-case/"
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3",
+        "title": "What Really Flew Over Bedfordshire?",
+        "permalink": "/what-really-flew-over-bedfordshire/"
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "title": "Key Reports",
+        "permalink": "/key-reports/"
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "title": "Military Skies",
+        "permalink": "/military-skies/"
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "title": "Luton Effects",
+        "permalink": "/luton-effects/"
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "title": "Orange Lights",
+        "permalink": "/orange-lights/"
+      },
+      {
+        "basename": "Berkshire_fa6d4a",
+        "title": "What Really Happened in Berkshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-berkshires-ufo/"
+      },
+      {
+        "basename": "Berkshire_fa6d4a_berkshire_1967_hoax_241919",
+        "title": "1967 Hoax",
+        "permalink": "/1967-hoax/"
+      },
+      {
+        "basename": "Berkshire_fa6d4a_heathrow_pilot_encou_f202e2",
+        "title": "Pilot Encounter",
+        "permalink": "/pilot-encounter/"
+      },
+      {
+        "basename": "Berkshire_fa6d4a_west_berkshire_ufo_f_393817",
+        "title": "West Berkshire",
+        "permalink": "/west-berkshire/"
+      },
+      {
+        "basename": "Berkshire_fa6d4a_windsor_great_meteor_30364c",
+        "title": "Windsor Meteor",
+        "permalink": "/windsor-meteor/"
+      },
+      {
+        "basename": "Berwickshire_907858",
+        "title": "What Really Happened in Berwickshire's Skies?",
+        "permalink": "/what-really-happened-in-berwickshires/"
+      },
+      {
+        "basename": "Berwickshire_907858_aviation_links_07ea7f",
+        "title": "Aviation Links",
+        "permalink": "/aviation-links-15287a/"
+      },
+      {
+        "basename": "Berwickshire_907858_local_sighting_clust_81ed26",
+        "title": "Local Sightings",
+        "permalink": "/local-sightings-ec9ecc/"
+      },
+      {
+        "basename": "Berwickshire_907858_official_records_9b05ad",
+        "title": "Official Records",
+        "permalink": "/official-records-defc3d/"
+      },
+      {
+        "basename": "Berwickshire_907858_paxton_lights_report_3caeca",
+        "title": "Paxton Lights",
+        "permalink": "/paxton-lights/"
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4",
+        "title": "Brecknockshire UFOs: Lights, Claims and Evidence",
+        "permalink": "/brecknockshire-ufos-lights-claims-and/"
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_1989_beacons_lights_aa55d6",
+        "title": "1989 Lights",
+        "permalink": "/1989-lights/"
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_2008_beacons_reports_d01b2d",
+        "title": "2008 Reports",
+        "permalink": "/2008-reports/"
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_brecon_ufo_archives_a1419b",
+        "title": "Archives",
+        "permalink": "/archives-2f9156/"
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_military_activity_re_a77114",
+        "title": "Military Activity",
+        "permalink": "/military-activity/"
+      },
+      {
+        "basename": "Buckinghamshire_40b834",
+        "title": "What Really Happened in Buckinghamshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-buckinghamshires/"
+      },
+      {
+        "basename": "Buckinghamshire_40b834_aylesbury_vale_corri_3d78b0",
+        "title": "UFO Corridor",
+        "permalink": "/ufo-corridor/"
+      },
+      {
+        "basename": "Buckinghamshire_40b834_cuddington_film_f111_513c50",
+        "title": "Cuddington Film",
+        "permalink": "/cuddington-film/"
+      },
+      {
+        "basename": "Buckinghamshire_40b834_raf_high_wycombe_ufo_48bb33",
+        "title": "MOD UFO Desk",
+        "permalink": "/mod-ufo-desk/"
+      },
+      {
+        "basename": "Buckinghamshire_40b834_wildman_road_encount_b4eecb",
+        "title": "Wildman Case",
+        "permalink": "/wildman-case/"
+      },
+      {
+        "basename": "Buteshire_f23202",
+        "title": "What Really Happened in Buteshire Skies?",
+        "permalink": "/what-really-happened-in-buteshire-skies/"
+      },
+      {
+        "basename": "Buteshire_f23202_aviation_maritime_ca_17d1a0",
+        "title": "Explanations",
+        "permalink": "/explanations-8fa4f3/"
+      },
+      {
+        "basename": "Buteshire_f23202_buteshire_sightings_910675",
+        "title": "Sightings",
+        "permalink": "/sightings-930f68/"
+      },
+      {
+        "basename": "Buteshire_f23202_mod_ufo_records_b5fe35",
+        "title": "Official Records",
+        "permalink": "/official-records-850069/"
+      },
+      {
+        "basename": "Buteshire_f23202_scottish_case_compar_de9234",
+        "title": "Scottish Comparisons",
+        "permalink": "/scottish-comparisons/"
+      },
+      {
+        "basename": "Caernarfonshire_667de6",
+        "title": "What Really Happened in Caernarfonshire's UFO Stories?",
+        "permalink": "/what-really-happened-in-caernarfonshires/"
+      },
+      {
+        "basename": "Caernarfonshire_667de6_aviation_explanation_7af14d",
+        "title": "Aviation Explanations",
+        "permalink": "/aviation-explanations/"
+      },
+      {
+        "basename": "Caernarfonshire_667de6_berwyn_mountains_inc_223891",
+        "title": "Berwyn Incident",
+        "permalink": "/berwyn-incident/"
+      },
+      {
+        "basename": "Caernarfonshire_667de6_llandudno_reports_3ee6ec",
+        "title": "Llandudno Reports",
+        "permalink": "/llandudno-reports/"
+      },
+      {
+        "basename": "Caernarfonshire_667de6_mod_ufo_records_b5fe35",
+        "title": "Official Records",
+        "permalink": "/official-records-50fcde/"
+      },
+      {
+        "basename": "Caithness_d273a3",
+        "title": "What Really Happened in Caithness Skies?",
+        "permalink": "/what-really-happened-in-caithness-skies/"
+      },
+      {
+        "basename": "Caithness_d273a3_dounreay_speculation_b142d2",
+        "title": "Dounreay",
+        "permalink": "/dounreay/"
+      },
+      {
+        "basename": "Caithness_d273a3_official_records_9b05ad",
+        "title": "Official Records",
+        "permalink": "/official-records-5e8163/"
+      },
+      {
+        "basename": "Caithness_d273a3_possible_explanation_a70fcb",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations-f6239b/"
+      },
+      {
+        "basename": "Caithness_d273a3_thurso_sightings_956bb7",
+        "title": "Thurso Sightings",
+        "permalink": "/thurso-sightings/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246",
+        "title": "What Really Happened in Cambridgeshire's UFO Reports?",
+        "permalink": "/what-really-happened-in/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246_fenland_sky_explanat_680a61",
+        "title": "Sky Explanations",
+        "permalink": "/sky-explanations/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246_police_ufo_records_a691cf",
+        "title": "Police Records",
+        "permalink": "/police-records/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246_recent_sighting_clus_b14c5a",
+        "title": "Recent Sightings",
+        "permalink": "/recent-sightings/"
+      },
+      {
+        "basename": "Cambridgeshire_f74246_waterbeach_1956_rada_d99833",
+        "title": "1956 Radar Case",
+        "permalink": "/1956-radar-case/"
+      },
+      {
+        "basename": "Cardiganshire_0418d7",
+        "title": "What Really Happened in Cardiganshire Skies?",
+        "permalink": "/what-really-happened-in-cardiganshire/"
+      },
+      {
+        "basename": "Cardiganshire_0418d7_aberporth_military_l_22b5a5",
+        "title": "Aberporth Links",
+        "permalink": "/aberporth-links/"
+      },
+      {
+        "basename": "Cardiganshire_0418d7_cardigan_orange_ligh_79cf2a",
+        "title": "Cardigan 2009",
+        "permalink": "/cardigan-2009/"
+      },
+      {
+        "basename": "Cardiganshire_0418d7_ufo_archive_records_1260c9",
+        "title": "Records",
+        "permalink": "/records-6c9686/"
+      },
+      {
+        "basename": "Cardiganshire_0418d7_west_wales_patterns_b97bec",
+        "title": "West Wales",
+        "permalink": "/west-wales/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35",
+        "title": "Carmarthenshire UFOs: Claims, Cases And Explanations",
+        "permalink": "/carmarthenshire-ufos-claims-cases-and/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35_1993_lights_case_56548e",
+        "title": "1993 Lights",
+        "permalink": "/1993-lights-eea8f1/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35_dyfed_connections_4aaf62",
+        "title": "Dyfed Links",
+        "permalink": "/dyfed-links/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35_newspaper_reports_f6e373",
+        "title": "Press Archive",
+        "permalink": "/press-archive/"
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35_pendine_military_lin_77a5c4",
+        "title": "Military Links",
+        "permalink": "/military-links-96ca0d/"
+      },
+      {
+        "basename": "Cheshire_f5f9e8",
+        "title": "What Really Happened in Cheshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-cheshires-ufo/"
+      },
+      {
+        "basename": "Cheshire_f5f9e8_cheshire_official_uf_524b96",
+        "title": "Official Files",
+        "permalink": "/official-files/"
+      },
+      {
+        "basename": "Cheshire_f5f9e8_frodsham_encounter_e_68f6a4",
+        "title": "Frodsham",
+        "permalink": "/frodsham/"
+      },
+      {
+        "basename": "Cheshire_f5f9e8_manchester_airport_u_91c4f7",
+        "title": "Aviation",
+        "permalink": "/aviation/"
+      },
+      {
+        "basename": "Cheshire_f5f9e8_widnes_cemetery_fire_d871e4",
+        "title": "Widnes",
+        "permalink": "/widnes/"
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc",
+        "title": "What Really Happened in Clackmannanshire Skies?",
+        "permalink": "/what-really-happened-in-clackmannanshire/"
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_alloa_sightings_537e85",
+        "title": "Alloa Sightings",
+        "permalink": "/alloa-sightings/"
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_possible_explanation_a70fcb",
+        "title": "Explanations",
+        "permalink": "/explanations-ec9bc1/"
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_regional_links_886a56",
+        "title": "Regional Links",
+        "permalink": "/regional-links/"
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_ufo_records_f52d0c",
+        "title": "Records",
+        "permalink": "/records/"
+      },
+      {
+        "basename": "Cornwall_4c96d0",
+        "title": "What Really Lies Behind Cornwall's UFO Reports?",
+        "permalink": "/what-really-lies-behind-cornwalls-ufo/"
+      },
+      {
+        "basename": "Cornwall_4c96d0_bodmin_1993_ufo_wave_37c3dd",
+        "title": "Bodmin 1993",
+        "permalink": "/bodmin-1993/"
+      },
+      {
+        "basename": "Cornwall_4c96d0_cornwall_airfields_u_4380da",
+        "title": "Airfields",
+        "permalink": "/airfields/"
+      },
+      {
+        "basename": "Cornwall_4c96d0_cornwall_official_uf_8660c1",
+        "title": "Official Records",
+        "permalink": "/official-records-f89ff9/"
+      },
+      {
+        "basename": "Cornwall_4c96d0_orange_lights_2008_2_ddf7ab",
+        "title": "Orange Lights",
+        "permalink": "/orange-lights-4cd6d2/"
+      },
+      {
+        "basename": "County_Antrim_405799",
+        "title": "What Really Happened in County Antrim's Skies?",
+        "permalink": "/what-really-happened-in-county-antrims/"
+      },
+      {
+        "basename": "County_Antrim_405799_aldergrove_aviation_5cdd63",
+        "title": "Aldergrove",
+        "permalink": "/aldergrove/"
+      },
+      {
+        "basename": "County_Antrim_405799_antrim_1970s_ufo_fla_e32b53",
+        "title": "1970 s Flaps",
+        "permalink": "/1970-s-flaps/"
+      },
+      {
+        "basename": "County_Antrim_405799_antrim_official_ufo_4e370d",
+        "title": "Official Records",
+        "permalink": "/official-records-1d1178/"
+      },
+      {
+        "basename": "County_Antrim_405799_antrim_unresolved_uf_33c908",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases/"
+      },
+      {
+        "basename": "County_Armagh_f58b12",
+        "title": "What Really Flew Over County Armagh?",
+        "permalink": "/what-really-flew-over-county-armagh/"
+      },
+      {
+        "basename": "County_Armagh_f58b12_armagh_light_explana_9d995d",
+        "title": "Likely Causes",
+        "permalink": "/likely-causes-ca01a2/"
+      },
+      {
+        "basename": "County_Armagh_f58b12_armagh_ufo_geography_e810b1",
+        "title": "County Boundaries",
+        "permalink": "/county-boundaries-b8b5fb/"
+      },
+      {
+        "basename": "County_Armagh_f58b12_police_ufo_reports_af2cee",
+        "title": "Police Reports",
+        "permalink": "/police-reports-2313c6/"
+      },
+      {
+        "basename": "County_Armagh_f58b12_portadown_iss_sighti_87893e",
+        "title": "Portadown Case",
+        "permalink": "/portadown-case/"
+      },
+      {
+        "basename": "County_Down_8f4eb4",
+        "title": "What Really Flew Over County Down?",
+        "permalink": "/what-really-flew-over-county-down/"
+      },
+      {
+        "basename": "County_Down_8f4eb4_bangor_hotel_lasers_f2fb81",
+        "title": "Bangor Lasers",
+        "permalink": "/bangor-lasers/"
+      },
+      {
+        "basename": "County_Down_8f4eb4_coastal_light_explan_0a3c67",
+        "title": "Coastal Lights",
+        "permalink": "/coastal-lights/"
+      },
+      {
+        "basename": "County_Down_8f4eb4_police_ufo_reports_af2cee",
+        "title": "Police Reports",
+        "permalink": "/police-reports-211814/"
+      },
+      {
+        "basename": "County_Down_8f4eb4_raf_bishopscourt_rad_125307",
+        "title": "Radar Legacy",
+        "permalink": "/radar-legacy/"
+      },
+      {
+        "basename": "County_Durham_9c5285",
+        "title": "What Really Happened in County Durham's Skies?",
+        "permalink": "/what-really-happened-in-county-durhams/"
+      },
+      {
+        "basename": "County_Durham_9c5285_durham_explained_ufo_e4d2e7",
+        "title": "Explained Waves",
+        "permalink": "/explained-waves/"
+      },
+      {
+        "basename": "County_Durham_9c5285_durham_official_ufo_b7f3d2",
+        "title": "Official Files",
+        "permalink": "/official-files-e776b7/"
+      },
+      {
+        "basename": "County_Durham_9c5285_fencehouses_encounte_258b31",
+        "title": "Fencehouses",
+        "permalink": "/fencehouses/"
+      },
+      {
+        "basename": "County_Durham_9c5285_wolsingham_police_si_796dcc",
+        "title": "Wolsingham",
+        "permalink": "/wolsingham/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Aberdeenshire_e04348",
+        "title": "What Really Happened in Aberdeenshire's Skies?",
+        "permalink": "/what-really-happened-in-aberdeenshires/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Anglesey_35202a",
+        "title": "What Really Happened in Anglesey's UFO Stories?",
+        "permalink": "/what-really-happened-in-angleseys-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Anglesey_35202a_raf_valley_links_ccd6e9",
+        "title": "RAF Valley",
+        "permalink": "/raf-valley/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Angus_34ab6d",
+        "title": "What Really Happened in Angus UFO Reports?",
+        "permalink": "/what-really-happened-in-angus-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Argyllshire_81dd43",
+        "title": "What Really Happened in Argyllshire Skies?",
+        "permalink": "/what-really-happened-in-argyllshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Argyllshire_81dd43_argyllshire_sighting_17edd0",
+        "title": "Sightings",
+        "permalink": "/sightings/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Argyllshire_81dd43_ufo_archives_records_ca6c00",
+        "title": "Archives",
+        "permalink": "/archives-790a93/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Ayrshire_8acdee",
+        "title": "What Really Happened Above Ayrshire's Skies?",
+        "permalink": "/what-really-happened-above-ayrshires/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Banffshire_c00f44",
+        "title": "What Really Happened in Banffshire Skies?",
+        "permalink": "/what-really-happened-in-banffshire-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Bedfordshire_5c5bc3",
+        "title": "What Really Flew Over Bedfordshire?",
+        "permalink": "/what-really-flew-over-bedfordshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Berkshire_fa6d4a",
+        "title": "What Really Happened in Berkshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-berkshires-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Berwickshire_907858",
+        "title": "What Really Happened in Berwickshire's Skies?",
+        "permalink": "/what-really-happened-in-berwickshires/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4",
+        "title": "Brecknockshire UFOs: Lights, Claims and Evidence",
+        "permalink": "/brecknockshire-ufos-lights-claims-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_brecon_ufo_archives_a1419b",
+        "title": "Archives",
+        "permalink": "/archives-2f9156/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Brecknockshire_d4a3d4_military_activity_re_a77114",
+        "title": "Military Activity",
+        "permalink": "/military-activity/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Buckinghamshire_40b834",
+        "title": "What Really Happened in Buckinghamshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-buckinghamshires/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Buteshire_f23202",
+        "title": "What Really Happened in Buteshire Skies?",
+        "permalink": "/what-really-happened-in-buteshire-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Buteshire_f23202_aviation_maritime_ca_17d1a0",
+        "title": "Explanations",
+        "permalink": "/explanations-8fa4f3/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Buteshire_f23202_buteshire_sightings_910675",
+        "title": "Sightings",
+        "permalink": "/sightings-930f68/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Caernarfonshire_667de6",
+        "title": "What Really Happened in Caernarfonshire's UFO Stories?",
+        "permalink": "/what-really-happened-in-caernarfonshires/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Caithness_d273a3",
+        "title": "What Really Happened in Caithness Skies?",
+        "permalink": "/what-really-happened-in-caithness-skies/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Caithness_d273a3_dounreay_speculation_b142d2",
+        "title": "Dounreay",
+        "permalink": "/dounreay/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cambridgeshire_f74246",
+        "title": "What Really Happened in Cambridgeshire's UFO Reports?",
+        "permalink": "/what-really-happened-in/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cardiganshire_0418d7",
+        "title": "What Really Happened in Cardiganshire Skies?",
+        "permalink": "/what-really-happened-in-cardiganshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cardiganshire_0418d7_ufo_archive_records_1260c9",
+        "title": "Records",
+        "permalink": "/records-6c9686/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Carmarthenshire_0d1a35",
+        "title": "Carmarthenshire UFOs: Claims, Cases And Explanations",
+        "permalink": "/carmarthenshire-ufos-claims-cases-and/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cheshire_f5f9e8",
+        "title": "What Really Happened in Cheshire's UFO Cases?",
+        "permalink": "/what-really-happened-in-cheshires-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc",
+        "title": "What Really Happened in Clackmannanshire Skies?",
+        "permalink": "/what-really-happened-in-clackmannanshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_possible_explanation_a70fcb",
+        "title": "Explanations",
+        "permalink": "/explanations-ec9bc1/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Clackmannanshire_a9d2bc_ufo_records_f52d0c",
+        "title": "Records",
+        "permalink": "/records/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cornwall_4c96d0",
+        "title": "What Really Lies Behind Cornwall's UFO Reports?",
+        "permalink": "/what-really-lies-behind-cornwalls-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "County_Antrim_405799",
+        "title": "What Really Happened in County Antrim's Skies?",
+        "permalink": "/what-really-happened-in-county-antrims/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "County_Armagh_f58b12",
+        "title": "What Really Flew Over County Armagh?",
+        "permalink": "/what-really-flew-over-county-armagh/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "County_Down_8f4eb4",
+        "title": "What Really Flew Over County Down?",
+        "permalink": "/what-really-flew-over-county-down/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "County_Durham_9c5285",
+        "title": "What Really Happened in County Durham's Skies?",
+        "permalink": "/what-really-happened-in-county-durhams/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "County_Londonderry_6c8609",
+        "title": "What Really Flew Over County Londonderry?",
+        "permalink": "/what-really-flew-over-county-londonderry/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cromartyshire_1a46f2",
+        "title": "What Really Lies Behind Cromartyshire UFO Reports?",
+        "permalink": "/what-really-lies-behind-cromartyshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Cumberland_f993d3",
+        "title": "What Really Happened in Cumberland's UFO Cases?",
+        "permalink": "/what-really-happened-in-cumberlands-ufo/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Denbighshire_fc7d7c",
+        "title": "What Really Happened in Denbighshire Skies?",
+        "permalink": "/what-really-happened-in-denbighshire/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "Denbighshire_fc7d7c_aviation_explanation_7af14d",
+        "title": "Explanations",
+        "permalink": "/explanations-209456/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Aberdeenshire_e04348",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Anglesey_35202a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Angus_34ab6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Argyllshire_81dd43",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Ayrshire_8acdee",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Banffshire_c00f44",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Berkshire_fa6d4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Berwickshire_907858",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Brecknockshire_d4a3d4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Buckinghamshire_40b834",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Buteshire_f23202",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Caernarfonshire_667de6",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Caithness_d273a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cambridgeshire_f74246",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cardiganshire_0418d7",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Carmarthenshire_0d1a35",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cheshire_f5f9e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Clackmannanshire_a9d2bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cornwall_4c96d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "County_Antrim_405799",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "County_Armagh_f58b12",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "County_Down_8f4eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "County_Durham_9c5285",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "County_Londonderry_6c8609",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cromartyshire_1a46f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Cumberland_f993d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Denbighshire_fc7d7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Derbyshire_ebae69",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Devon_a55796",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Dorset_51e44a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Dumfriesshire_3b4eaf",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Dunbartonshire_abd4f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "East_Lothian_a7dd3d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Essex_17957d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Fermanagh_69251a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Fife_ef689b",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Flintshire_823310",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Glamorgan_7b8978",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Gloucestershire_03cc40",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Hampshire_5816c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Herefordshire_be57fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Hertfordshire_38dc7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Huntingdonshire_d54801",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Inverness-shire_f61896",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Kent_4e168a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Kincardineshire_6f0ed9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Kinross-shire_c6236f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Kirkcudbrightshire_97fbf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Lanarkshire_60db75",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Lancashire_07656d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Leicestershire_f2eb49",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Lincolnshire_92cf52",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Merionethshire_8af4e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Middlesex_8498da",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Midlothian_ff4e39",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Monmouthshire_e09701",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Montgomeryshire_1814c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Morayshire_6abd28",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Nairnshire_82a7a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Norfolk_72ff17",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Northamptonshire_ad0dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Northumberland_98885a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Nottinghamshire_a5a895",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Orkney_9ae683",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Oxfordshire_491609",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Peeblesshire_4beb86",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Pembrokeshire_b220ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Perthshire_258bcb",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Radnorshire_2d75e1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Renfrewshire_6a148e",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Ross-shire_c9caea",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Roxburghshire_8333b2",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Rutland_424243",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Selkirkshire_8fd2aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Shetland_ce055c",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Shropshire_83e582",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Somerset_24710f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Staffordshire_e11f30",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Stirlingshire_47078a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Suffolk_831058",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Surrey_aeac76",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Sussex_0f32ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Sutherland_6dbe51",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Tyrone_619a59",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Warwickshire_17be07",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "West_Lothian_1c9504",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Westmorland_dec0c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Wigtownshire_1186ed",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Wiltshire_7b9f94",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Worcestershire_9671d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Yorkshire_f09525",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "type": "child"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "type": "child"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_index",
+        "type": "child"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "type": "child"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "child"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "parent"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "parent"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "parent"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "parent"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "ancestor"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Aberdeenshire_e04348",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Anglesey_35202a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Angus_34ab6d",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Argyllshire_81dd43",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Ayrshire_8acdee",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Banffshire_c00f44",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Berkshire_fa6d4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Berwickshire_907858",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Brecknockshire_d4a3d4",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Buteshire_f23202",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Caernarfonshire_667de6",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Caithness_d273a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cambridgeshire_f74246",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cardiganshire_0418d7",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Carmarthenshire_0d1a35",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cheshire_f5f9e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Clackmannanshire_a9d2bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cornwall_4c96d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "County_Antrim_405799",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "County_Armagh_f58b12",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "County_Down_8f4eb4",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "County_Durham_9c5285",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "County_Londonderry_6c8609",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cromartyshire_1a46f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Cumberland_f993d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Denbighshire_fc7d7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Derbyshire_ebae69",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Devon_a55796",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Dorset_51e44a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Dumfriesshire_3b4eaf",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Dunbartonshire_abd4f2",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "East_Lothian_a7dd3d",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Essex_17957d",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Fermanagh_69251a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Fife_ef689b",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Flintshire_823310",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Glamorgan_7b8978",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Gloucestershire_03cc40",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Hampshire_5816c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Herefordshire_be57fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Hertfordshire_38dc7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Huntingdonshire_d54801",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Inverness-shire_f61896",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Kent_4e168a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Kincardineshire_6f0ed9",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Kinross-shire_c6236f",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Kirkcudbrightshire_97fbf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Lanarkshire_60db75",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Lancashire_07656d",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Leicestershire_f2eb49",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Lincolnshire_92cf52",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Merionethshire_8af4e7",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Middlesex_8498da",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Midlothian_ff4e39",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Monmouthshire_e09701",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Montgomeryshire_1814c4",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Morayshire_6abd28",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Nairnshire_82a7a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Norfolk_72ff17",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Northamptonshire_ad0dee",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Northumberland_98885a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Nottinghamshire_a5a895",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Orkney_9ae683",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Oxfordshire_491609",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Peeblesshire_4beb86",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Pembrokeshire_b220ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Perthshire_258bcb",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Radnorshire_2d75e1",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Renfrewshire_6a148e",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Ross-shire_c9caea",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Roxburghshire_8333b2",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Rutland_424243",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Selkirkshire_8fd2aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Shetland_ce055c",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Shropshire_83e582",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Somerset_24710f",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Staffordshire_e11f30",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Stirlingshire_47078a",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Suffolk_831058",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Surrey_aeac76",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Sussex_0f32ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Sutherland_6dbe51",
+        "type": "sibling"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Tyrone_619a59",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Bedfordshire_5c5bc3",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_best_documented_repo_8025d4",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_cardington_henlow_sk_b2a383",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_luton_flight_misiden_bf11bb",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bedfordshire_5c5bc3_orange_lights_lanter_bd9f0f",
+        "to": "Bedfordshire_5c5bc3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Buckinghamshire_40b834_cuddington_film_f111_513c50",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834",
+        "to": "Buckinghamshire_40b834_aylesbury_vale_corri_3d78b0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834_aylesbury_vale_corri_3d78b0",
+        "to": "Buckinghamshire_40b834",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834_cuddington_film_f111_513c50",
+        "to": "Buckinghamshire_40b834_aylesbury_vale_corri_3d78b0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834_cuddington_film_f111_513c50",
+        "to": "Buckinghamshire_40b834",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834_raf_high_wycombe_ufo_48bb33",
+        "to": "Buckinghamshire_40b834",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Buckinghamshire_40b834_wildman_road_encount_b4eecb",
+        "to": "Buckinghamshire_40b834",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cambridgeshire_f74246_police_ufo_records_a691cf",
+        "to": "Cambridgeshire_f74246",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cambridgeshire_f74246_fenland_sky_explanat_680a61",
+        "to": "Cambridgeshire_f74246",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cambridgeshire_f74246_recent_sighting_clus_b14c5a",
+        "to": "Cambridgeshire_f74246",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cambridgeshire_f74246_waterbeach_1956_rada_d99833",
+        "to": "Cambridgeshire_f74246",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8",
+        "to": "Cheshire_f5f9e8_manchester_airport_u_91c4f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8",
+        "to": "Cheshire_f5f9e8_frodsham_encounter_e_68f6a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8",
+        "to": "Cheshire_f5f9e8_widnes_cemetery_fire_d871e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_cheshire_official_uf_524b96",
+        "to": "Cheshire_f5f9e8_manchester_airport_u_91c4f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_cheshire_official_uf_524b96",
+        "to": "Cheshire_f5f9e8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_cheshire_official_uf_524b96",
+        "to": "Cheshire_f5f9e8_widnes_cemetery_fire_d871e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_frodsham_encounter_e_68f6a4",
+        "to": "Cheshire_f5f9e8_cheshire_official_uf_524b96",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_frodsham_encounter_e_68f6a4",
+        "to": "Cheshire_f5f9e8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_manchester_airport_u_91c4f7",
+        "to": "Cheshire_f5f9e8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_widnes_cemetery_fire_d871e4",
+        "to": "Cheshire_f5f9e8_manchester_airport_u_91c4f7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cheshire_f5f9e8_widnes_cemetery_fire_d871e4",
+        "to": "Cheshire_f5f9e8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cumberland_f993d3_2009_coastal_sightin_100ab4",
+        "to": "Cumberland_f993d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cumberland_f993d3_cumberland_light_mis_b5d14a",
+        "to": "Cumberland_f993d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cumberland_f993d3_solway_spaceman_phot_1fb252",
+        "to": "Cumberland_f993d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cumberland_f993d3_spadeadam_military_l_3eeaa0",
+        "to": "Cumberland_f993d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69",
+        "to": "Derbyshire_ebae69_howden_moor_crash_sc_3a77c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69_glossop_police_venus_3744cf",
+        "to": "Derbyshire_ebae69",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69_howden_moor_crash_sc_3a77c4",
+        "to": "Derbyshire_ebae69",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69_peak_district_1993_l_33c6cc",
+        "to": "Derbyshire_ebae69_howden_moor_crash_sc_3a77c4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69_peak_district_1993_l_33c6cc",
+        "to": "Derbyshire_ebae69",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Derbyshire_ebae69_peak_district_sighti_6a5de2",
+        "to": "Derbyshire_ebae69",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a",
+        "to": "Dorset_51e44a_angus_brooks_flying_9920aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a",
+        "to": "Dorset_51e44a_dorset_police_ufo_re_75c407",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_angus_brooks_flying_9920aa",
+        "to": "Dorset_51e44a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_military_ufo_24ce98",
+        "to": "Dorset_51e44a_angus_brooks_flying_9920aa",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_military_ufo_24ce98",
+        "to": "Dorset_51e44a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_ufo_hotspots_464a98",
+        "to": "Dorset_51e44a_dorset_police_ufo_re_75c407",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_ufo_hotspots_464a98",
+        "to": "Dorset_51e44a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_police_ufo_re_75c407",
+        "to": "Dorset_51e44a_dorset_ufo_hotspots_464a98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Dorset_51e44a_dorset_police_ufo_re_75c407",
+        "to": "Dorset_51e44a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d",
+        "to": "Essex_17957d_aveley_abduction_cla_79e276",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d",
+        "to": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d",
+        "to": "Essex_17957d_stansted_flight_safe_e749fc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_aveley_abduction_cla_79e276",
+        "to": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_aveley_abduction_cla_79e276",
+        "to": "Essex_17957d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "to": "Essex_17957d_stansted_flight_safe_e749fc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "to": "Essex_17957d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_mod_essex_sighting_r_607af4",
+        "to": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_mod_essex_sighting_r_607af4",
+        "to": "Essex_17957d_stansted_flight_safe_e749fc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_mod_essex_sighting_r_607af4",
+        "to": "Essex_17957d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_stansted_flight_safe_e749fc",
+        "to": "Essex_17957d_essex_ufo_explanatio_83c533",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Essex_17957d_stansted_flight_safe_e749fc",
+        "to": "Essex_17957d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hampshire_5816c9_farnborough_1950_sig_2f007e",
+        "to": "Hampshire_5816c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hampshire_5816c9_hampshire_aviation_m_613496",
+        "to": "Hampshire_5816c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hampshire_5816c9_hampshire_mod_ufo_fi_eabf02",
+        "to": "Hampshire_5816c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hampshire_5816c9_southern_tv_alien_br_9bc19c",
+        "to": "Hampshire_5816c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe",
+        "to": "Herefordshire_be57fe_hereford_triangle_ca_6cf9e5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe_mod_ufo_records_b5fe35",
+        "to": "Herefordshire_be57fe",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe_hereford_triangle_ca_6cf9e5",
+        "to": "Herefordshire_be57fe",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe_herefordshire_ufo_fl_a8a512",
+        "to": "Herefordshire_be57fe",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe_likely_ufo_explanati_01bddc",
+        "to": "Herefordshire_be57fe_hereford_triangle_ca_6cf9e5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Herefordshire_be57fe_likely_ufo_explanati_01bddc",
+        "to": "Herefordshire_be57fe",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Huntingdonshire_d54801_air_bases_and_sighti_c6491b",
+        "to": "Huntingdonshire_d54801",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Huntingdonshire_d54801_county_boundaries_ca_db9afd",
+        "to": "Huntingdonshire_d54801_official_ufo_records_56a07f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Huntingdonshire_d54801_county_boundaries_ca_db9afd",
+        "to": "Huntingdonshire_d54801",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Huntingdonshire_d54801_likely_ufo_explanati_01bddc",
+        "to": "Huntingdonshire_d54801",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Huntingdonshire_d54801_official_ufo_records_56a07f",
+        "to": "Huntingdonshire_d54801",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kent_4e168a",
+        "to": "Kent_4e168a_raf_manston_case_3b2a64",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kent_4e168a",
+        "to": "Kent_4e168a_west_malling_sightin_a6b77c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kent_4e168a_kent_ufo_archives_5f9ece",
+        "to": "Kent_4e168a_west_malling_sightin_a6b77c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kent_4e168a_kent_civilian_report_0a737c",
+        "to": "Kent_4e168a_west_malling_sightin_a6b77c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d",
+        "to": "Lancashire_07656d_aviation_explanation_7af14d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d",
+        "to": "Lancashire_07656d_mod_ufo_files_ec837b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_mod_ufo_files_ec837b",
+        "to": "Lancashire_07656d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_blackpool_ufo_photo_883902",
+        "to": "Lancashire_07656d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_blackpool_ufo_photo_883902",
+        "to": "Lancashire_07656d_mod_ufo_files_ec837b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_aviation_explanation_7af14d",
+        "to": "Lancashire_07656d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_lancashire_sightings_907e13",
+        "to": "Lancashire_07656d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Lancashire_07656d_lancashire_sightings_907e13",
+        "to": "Lancashire_07656d_mod_ufo_files_ec837b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49",
+        "to": "Leicestershire_f2eb49_aviation_explanation_7af14d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49",
+        "to": "Leicestershire_f2eb49_victoria_park_kite_78cc72",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49_1988_yellow_ufo_b69d82",
+        "to": "Leicestershire_f2eb49",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49_victoria_park_kite_78cc72",
+        "to": "Leicestershire_f2eb49",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49_aviation_explanation_7af14d",
+        "to": "Leicestershire_f2eb49",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Leicestershire_f2eb49_modern_leicester_lig_300f20",
+        "to": "Leicestershire_f2eb49",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17",
+        "to": "Norfolk_72ff17_raf_wattisham_1989_d2e4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17",
+        "to": "Norfolk_72ff17_raf_marham_sightings_c10632",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17_raf_wattisham_1989_d2e4c9",
+        "to": "Norfolk_72ff17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17_1909_airship_reports_ae0284",
+        "to": "Norfolk_72ff17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17_norwich_light_sighti_0fbc8a",
+        "to": "Norfolk_72ff17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Norfolk_72ff17_raf_marham_sightings_c10632",
+        "to": "Norfolk_72ff17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a",
+        "to": "Berkshire_fa6d4a_berkshire_1967_hoax_241919",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a",
+        "to": "Berkshire_fa6d4a_west_berkshire_ufo_f_393817",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a_berkshire_1967_hoax_241919",
+        "to": "Berkshire_fa6d4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a_heathrow_pilot_encou_f202e2",
+        "to": "Berkshire_fa6d4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a_west_berkshire_ufo_f_393817",
+        "to": "Berkshire_fa6d4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Berkshire_fa6d4a_windsor_great_meteor_30364c",
+        "to": "Berkshire_fa6d4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796",
+        "to": "Devon_a55796_brixham_coastguard_r_c5dc1e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796",
+        "to": "Devon_a55796_devon_official_ufo_r_4bb885",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796",
+        "to": "Devon_a55796_holsworthy_police_pu_945886",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796_brixham_coastguard_r_c5dc1e",
+        "to": "Devon_a55796",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796_devon_official_ufo_r_4bb885",
+        "to": "Devon_a55796",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796_holsworthy_police_pu_945886",
+        "to": "Devon_a55796_north_devon_1967_wav_40d452",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796_holsworthy_police_pu_945886",
+        "to": "Devon_a55796",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Devon_a55796_north_devon_1967_wav_40d452",
+        "to": "Devon_a55796",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a",
+        "to": "Hertfordshire_38dc7a_great_munden_close_e_306d71",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a",
+        "to": "Hertfordshire_38dc7a_orange_lights_and_la_104c20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_aviation_astronomy_e_681bb2",
+        "to": "Hertfordshire_38dc7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_great_munden_close_e_306d71",
+        "to": "Hertfordshire_38dc7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_mod_records_and_sigh_3d64f5",
+        "to": "Hertfordshire_38dc7a_great_munden_close_e_306d71",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_mod_records_and_sigh_3d64f5",
+        "to": "Hertfordshire_38dc7a_orange_lights_and_la_104c20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_mod_records_and_sigh_3d64f5",
+        "to": "Hertfordshire_38dc7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Hertfordshire_38dc7a_orange_lights_and_la_104c20",
+        "to": "Hertfordshire_38dc7a",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

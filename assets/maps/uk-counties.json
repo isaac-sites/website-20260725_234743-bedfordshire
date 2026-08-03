@@ -1,0 +1,3542 @@
+{
+  "kind": "uk-counties",
+  "mapLayout": "uk-counties",
+  "mapFit": "linked-bounds",
+  "initialItemId": "UK-HC-SUFFOLK",
+  "itemType": "county",
+  "mapAsset": "uk-historic-counties.svg",
+  "dataAsset": "uk-counties.json",
+  "mapLabel": "UFO and UAP historic UK counties map",
+  "fallbackSummary": "Open this historic UK county file from the map.",
+  "panelCopy": "Use the map to jump into a historic UK county file, or browse the full county list below.",
+  "items": [
+    {
+      "id": "UK-HC-BRECKNOCKSHIRE",
+      "iso": "UK-HC-BRECKNOCKSHIRE",
+      "basename": "Brecknockshire_d4a3d4",
+      "county": "Brecknockshire",
+      "mapName": "Brecknockshire",
+      "label": "Brecknockshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-brecknockshire",
+        "brecknockshire"
+      ],
+      "title": "Brecknockshire UFOs: Lights, Claims and Evidence",
+      "summary": "Brecknockshire, the historic county centred on Brecon and the upland landscapes of the Brecon Beacons, has a modest but distinctive place in Welsh UFO history.",
+      "url": "brecknockshire-ufos-lights-claims-and/",
+      "image": "assets/images/Brecknockshire_d4a3d4-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CARMARTHENSHIRE",
+      "iso": "UK-HC-CARMARTHENSHIRE",
+      "basename": "Carmarthenshire_0d1a35",
+      "county": "Carmarthenshire",
+      "mapName": "Carmarthenshire",
+      "label": "Carmarthenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-carmarthenshire",
+        "carmarthenshire"
+      ],
+      "title": "Carmarthenshire UFOs: Claims, Cases And Explanations",
+      "summary": "Carmarthenshire has a modest but distinctive place in Welsh UFO history.",
+      "url": "carmarthenshire-ufos-claims-cases-and/",
+      "image": "assets/images/Carmarthenshire_0d1a35-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-EAST-LOTHIAN",
+      "iso": "UK-HC-EAST-LOTHIAN",
+      "basename": "East_Lothian_a7dd3d",
+      "county": "East Lothian",
+      "mapName": "East Lothian",
+      "label": "East Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-east-lothian",
+        "east lothian"
+      ],
+      "title": "East Lothian's UFO Stories: Reports, Evidence and Doubts",
+      "summary": "East Lothian has a small but distinctive place in Scottish UFO history.",
+      "url": "east-lothians-ufo-stories-reports/",
+      "image": "assets/images/East_Lothian_a7dd3d-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-GLAMORGAN",
+      "iso": "UK-HC-GLAMORGAN",
+      "basename": "Glamorgan_7b8978",
+      "county": "Glamorgan",
+      "mapName": "Glamorgan",
+      "label": "Glamorgan",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-glamorgan",
+        "glamorgan"
+      ],
+      "title": "Glamorgan's UFO Mysteries: Cases, Claims And Evidence",
+      "summary": "Glamorgan has a long and varied UFO history, but the strongest evidence is not a single proven mystery.",
+      "url": "glamorgans-ufo-mysteries-cases-claims/",
+      "image": "assets/images/Glamorgan_7b8978-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-KENT",
+      "iso": "UK-HC-KENT",
+      "basename": "Kent_4e168a",
+      "county": "Kent",
+      "mapName": "Kent",
+      "label": "Kent",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kent",
+        "kent"
+      ],
+      "title": "Kent's UFO Cases: Evidence, Witnesses and Mysteries",
+      "summary": "Kent has a long and varied history of UFO reports, largely shaped by its position as a south-east England county with major military airfields, busy aviation...",
+      "url": "kents-ufo-cases-evidence-witnesses-and/",
+      "image": "assets/images/Kent_4e168a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LANCASHIRE",
+      "iso": "UK-HC-LANCASHIRE",
+      "basename": "Lancashire_07656d",
+      "county": "Lancashire",
+      "mapName": "Lancashire",
+      "label": "Lancashire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lancashire",
+        "lancashire"
+      ],
+      "title": "Lancashire UFO Reports: Mystery, Evidence and Reality",
+      "summary": "Lancashire has a long but uneven record of UFO reports, with most cases consisting of ordinary people describing unusual lights, shapes or movements in the...",
+      "url": "lancashire-ufo-reports-mystery-evidence/",
+      "image": "assets/images/Lancashire_07656d-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LINCOLNSHIRE",
+      "iso": "UK-HC-LINCOLNSHIRE",
+      "basename": "Lincolnshire_92cf52",
+      "county": "Lincolnshire",
+      "mapName": "Lincolnshire",
+      "label": "Lincolnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lincolnshire",
+        "lincolnshire"
+      ],
+      "title": "Lincolnshire's UFO Mysteries: Cases, Clues And...",
+      "summary": "Lincolnshire’s UFO history is shaped less by a single unexplained event than by the county’s unusual combination of open countryside, North Sea air routes,...",
+      "url": "lincolnshires-ufo-mysteries-cases-clues/",
+      "image": "assets/images/Lincolnshire_92cf52-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORFOLK",
+      "iso": "UK-HC-NORFOLK",
+      "basename": "Norfolk_72ff17",
+      "county": "Norfolk",
+      "mapName": "Norfolk",
+      "label": "Norfolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-norfolk",
+        "norfolk"
+      ],
+      "title": "Norfolk's UFO Stories: Sightings, Secrets and Evidence",
+      "summary": "Norfolk has a long but relatively low-profile UFO history, shaped less by one single famous incident than by a combination of military aviation, coastal...",
+      "url": "norfolks-ufo-stories-sightings-secrets/",
+      "image": "assets/images/Norfolk_72ff17-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHUMBERLAND",
+      "iso": "UK-HC-NORTHUMBERLAND",
+      "basename": "Northumberland_98885a",
+      "county": "Northumberland",
+      "mapName": "Northumberland",
+      "label": "Northumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northumberland",
+        "northumberland"
+      ],
+      "title": "Northumberland's UFO Mysteries: Reports, Evidence And...",
+      "summary": "Northumberland has a long-running but relatively low-profile UFO history shaped more by individual reports, dark skies, aviation activity and occasional...",
+      "url": "northumberlands-ufo-mysteries-reports/",
+      "image": "assets/images/Northumberland_98885a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEEBLESSHIRE",
+      "iso": "UK-HC-PEEBLESSHIRE",
+      "basename": "Peeblesshire_4beb86",
+      "county": "Peeblesshire",
+      "mapName": "Peeblesshire",
+      "label": "Peeblesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-peeblesshire",
+        "peeblesshire"
+      ],
+      "title": "Peeblesshire's UFO Stories: Mystery, Evidence, Reality",
+      "summary": "Peeblesshire has a small but interesting place in Scottish UFO history, although it is not one of the country’s best-documented UFO areas.",
+      "url": "peeblesshires-ufo-stories-mystery/",
+      "image": "assets/images/Peeblesshire_4beb86-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROSS-SHIRE",
+      "iso": "UK-HC-ROSS-SHIRE",
+      "basename": "Ross-shire_c9caea",
+      "county": "Ross-shire",
+      "mapName": "Ross-shire",
+      "label": "Ross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ross-shire",
+        "ross shire"
+      ],
+      "title": "Ross shire's UFO Stories: What Really Happened?",
+      "summary": "Ross-shire has a small but interesting place in UK UFO history.",
+      "url": "ross-shires-ufo-stories-what-really/",
+      "image": "assets/images/Ross-shire_c9caea-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DUMFRIESSHIRE",
+      "iso": "UK-HC-DUMFRIESSHIRE",
+      "basename": "Dumfriesshire_3b4eaf",
+      "county": "Dumfriesshire",
+      "mapName": "Dumfriesshire",
+      "label": "Dumfriesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dumfriesshire",
+        "dumfriesshire"
+      ],
+      "title": "What Happened in Dumfriesshire's Skies?",
+      "summary": "Dumfriesshire has a small but notable place in Scottish UFO history, centred less on a large, organised “flap” than on a handful of striking reports,...",
+      "url": "what-happened-in-dumfriesshires-skies/",
+      "image": "assets/images/Dumfriesshire_3b4eaf-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SUFFOLK",
+      "iso": "UK-HC-SUFFOLK",
+      "basename": "Suffolk_831058",
+      "county": "Suffolk",
+      "mapName": "Suffolk",
+      "label": "Suffolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-suffolk",
+        "suffolk"
+      ],
+      "title": "What Happened in Suffolk's UFO Mysteries?",
+      "summary": "Suffolk has one of the most significant UFO histories in the United Kingdom, largely because of its Cold War military landscape and one case that became...",
+      "url": "what-happened-in-suffolks-ufo-mysteries/",
+      "image": "assets/images/Suffolk_831058-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BEDFORDSHIRE",
+      "iso": "UK-HC-BEDFORDSHIRE",
+      "basename": "Bedfordshire_5c5bc3",
+      "county": "Bedfordshire",
+      "mapName": "Bedfordshire",
+      "label": "Bedfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-bedfordshire",
+        "bedfordshire"
+      ],
+      "title": "What Really Flew Over Bedfordshire?",
+      "summary": "Bedfordshire has a genuine UFO history, but not one dominated by a single landmark encounter.",
+      "url": "what-really-flew-over-bedfordshire/",
+      "image": "assets/images/Bedfordshire_5c5bc3-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-COUNTY-ARMAGH",
+      "iso": "UK-HC-COUNTY-ARMAGH",
+      "basename": "County_Armagh_f58b12",
+      "county": "County Armagh",
+      "mapName": "County Armagh",
+      "label": "County Armagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-armagh",
+        "county armagh",
+        "armagh"
+      ],
+      "title": "What Really Flew Over County Armagh?",
+      "summary": "County Armagh has no single landmark UFO incident comparable with Britain’s best-known military or radar cases.",
+      "url": "what-really-flew-over-county-armagh/",
+      "image": "assets/images/County_Armagh_f58b12-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DOWN",
+      "iso": "UK-HC-COUNTY-DOWN",
+      "basename": "County_Down_8f4eb4",
+      "county": "County Down",
+      "mapName": "County Down",
+      "label": "County Down",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-down",
+        "county down",
+        "down"
+      ],
+      "title": "What Really Flew Over County Down?",
+      "summary": "County Down has a genuine UFO history, but not one built around a single dramatic, well-evidenced encounter.",
+      "url": "what-really-flew-over-county-down/",
+      "image": "assets/images/County_Down_8f4eb4-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-LONDONDERRY",
+      "iso": "UK-HC-COUNTY-LONDONDERRY",
+      "basename": "County_Londonderry_6c8609",
+      "county": "County Londonderry",
+      "mapName": "County Londonderry",
+      "label": "County Londonderry",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-londonderry",
+        "county londonderry",
+        "londonderry",
+        "derry"
+      ],
+      "title": "What Really Flew Over County Londonderry?",
+      "summary": "County Londonderry has a genuine record of reported unidentified flying objects, but not a single landmark case supported by radar traces, official aviation...",
+      "url": "what-really-flew-over-county-londonderry/",
+      "image": "assets/images/County_Londonderry_6c8609-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-HERTFORDSHIRE",
+      "iso": "UK-HC-HERTFORDSHIRE",
+      "basename": "Hertfordshire_38dc7a",
+      "county": "Hertfordshire",
+      "mapName": "Hertfordshire",
+      "label": "Hertfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hertfordshire",
+        "hertfordshire"
+      ],
+      "title": "What Really Flew Over Hertfordshire?",
+      "summary": "Hertfordshire has no single UFO incident with the national standing of Rendlesham Forest or the photographs associated with Calvine.",
+      "url": "what-really-flew-over-hertfordshire/",
+      "image": "assets/images/Hertfordshire_38dc7a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HUNTINGDONSHIRE",
+      "iso": "UK-HC-HUNTINGDONSHIRE",
+      "basename": "Huntingdonshire_d54801",
+      "county": "Huntingdonshire",
+      "mapName": "Huntingdonshire",
+      "label": "Huntingdonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-huntingdonshire",
+        "huntingdonshire"
+      ],
+      "title": "What Really Flew Over Huntingdonshire?",
+      "summary": "Huntingdonshire has a credible place in Britain’s UFO history, but not because it possesses a single landmark encounter comparable with Rendlesham Forest.",
+      "url": "what-really-flew-over-huntingdonshire/",
+      "image": "assets/images/Huntingdonshire_d54801-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MONMOUTHSHIRE",
+      "iso": "UK-HC-MONMOUTHSHIRE",
+      "basename": "Monmouthshire_e09701",
+      "county": "Monmouthshire",
+      "mapName": "Monmouthshire",
+      "label": "Monmouthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-monmouthshire",
+        "monmouthshire"
+      ],
+      "title": "What Really Flew Over Monmouthshire?",
+      "summary": "Monmouthshire has a genuine UFO history, but not one built around a single nationally famous encounter.",
+      "url": "what-really-flew-over-monmouthshire/",
+      "image": "assets/images/Monmouthshire_e09701-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MONTGOMERYSHIRE",
+      "iso": "UK-HC-MONTGOMERYSHIRE",
+      "basename": "Montgomeryshire_1814c4",
+      "county": "Montgomeryshire",
+      "mapName": "Montgomeryshire",
+      "label": "Montgomeryshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-montgomeryshire",
+        "montgomeryshire"
+      ],
+      "title": "What Really Flew Over Montgomeryshire?",
+      "summary": "Montgomeryshire has a genuine but thinly documented UFO history.",
+      "url": "what-really-flew-over-montgomeryshire/",
+      "image": "assets/images/Montgomeryshire_1814c4-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-RADNORSHIRE",
+      "iso": "UK-HC-RADNORSHIRE",
+      "basename": "Radnorshire_2d75e1",
+      "county": "Radnorshire",
+      "mapName": "Radnorshire",
+      "label": "Radnorshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-radnorshire",
+        "radnorshire"
+      ],
+      "title": "What Really Flew Over Radnorshire's Dark Skies?",
+      "summary": "Radnorshire has a modest, fragmented UFO history rather than a single landmark incident.",
+      "url": "what-really-flew-over-radnorshires-dark/",
+      "image": "assets/images/Radnorshire_2d75e1-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-AYRSHIRE",
+      "iso": "UK-HC-AYRSHIRE",
+      "basename": "Ayrshire_8acdee",
+      "county": "Ayrshire",
+      "mapName": "Ayrshire",
+      "label": "Ayrshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ayrshire",
+        "ayrshire"
+      ],
+      "title": "What Really Happened Above Ayrshire's Skies?",
+      "summary": "Ayrshire has a long-running but relatively low-profile place in Scotland’s UFO history.",
+      "url": "what-really-happened-above-ayrshires/",
+      "image": "assets/images/Ayrshire_8acdee-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINCARDINESHIRE",
+      "iso": "UK-HC-KINCARDINESHIRE",
+      "basename": "Kincardineshire_6f0ed9",
+      "county": "Kincardineshire",
+      "mapName": "Kincardineshire",
+      "label": "Kincardineshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kincardineshire",
+        "kincardineshire"
+      ],
+      "title": "What Really Happened Above Kincardineshire Skies",
+      "summary": "Kincardineshire has a small but interesting place in Scotland’s UFO history.",
+      "url": "what-really-happened-above/",
+      "image": "assets/images/Kincardineshire_6f0ed9-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-NAIRNSHIRE",
+      "iso": "UK-HC-NAIRNSHIRE",
+      "basename": "Nairnshire_82a7a8",
+      "county": "Nairnshire",
+      "mapName": "Nairnshire",
+      "label": "Nairnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nairnshire",
+        "nairnshire"
+      ],
+      "title": "What Really Happened Above Nairnshire's Skies?",
+      "summary": "Nairnshire has a small but interesting place in Scotland’s UFO history, although the surviving evidence is very different from the famous Scottish cases that...",
+      "url": "what-really-happened-above-nairnshires/",
+      "image": "assets/images/Nairnshire_82a7a8-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SELKIRKSHIRE",
+      "iso": "UK-HC-SELKIRKSHIRE",
+      "basename": "Selkirkshire_8fd2aa",
+      "county": "Selkirkshire",
+      "mapName": "Selkirkshire",
+      "label": "Selkirkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-selkirkshire",
+        "selkirkshire"
+      ],
+      "title": "What Really Happened Above Selkirkshire Skies?",
+      "summary": "Selkirkshire has a small but interesting place in the history of UFO reports in Scotland, although it is not known for a major, well-documented UFO case...",
+      "url": "what-really-happened-above-selkirkshire/",
+      "image": "assets/images/Selkirkshire_8fd2aa-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WESTMORLAND",
+      "iso": "UK-HC-WESTMORLAND",
+      "basename": "Westmorland_dec0c1",
+      "county": "Westmorland",
+      "mapName": "Westmorland",
+      "label": "Westmorland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-westmorland",
+        "westmorland"
+      ],
+      "title": "What Really Happened Above Westmorland?",
+      "summary": "Westmorland has a modest but interesting place in the history of reported UFO sightings in Britain.",
+      "url": "what-really-happened-above-westmorland/",
+      "image": "assets/images/Westmorland_dec0c1-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ABERDEENSHIRE",
+      "iso": "UK-HC-ABERDEENSHIRE",
+      "basename": "Aberdeenshire_e04348",
+      "county": "Aberdeenshire",
+      "mapName": "Aberdeenshire",
+      "label": "Aberdeenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-aberdeenshire",
+        "aberdeenshire"
+      ],
+      "title": "What Really Happened in Aberdeenshire's Skies?",
+      "summary": "Aberdeenshire has a long record of reported UFO sightings, but it is not known for one single defining “classic” case on the scale of Scotland’s best-known...",
+      "url": "what-really-happened-in-aberdeenshires/",
+      "image": "assets/images/Aberdeenshire_e04348-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ANGLESEY",
+      "iso": "UK-HC-ANGLESEY",
+      "basename": "Anglesey_35202a",
+      "county": "Anglesey",
+      "mapName": "Anglesey",
+      "label": "Anglesey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-anglesey",
+        "anglesey"
+      ],
+      "title": "What Really Happened in Anglesey's UFO Stories?",
+      "summary": "Anglesey (Ynys Môn) has a small but distinctive place in Welsh UFO history, largely because of its location, its open skies, and its long association with...",
+      "url": "what-really-happened-in-angleseys-ufo/",
+      "image": "assets/images/Anglesey_35202a-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ANGUS",
+      "iso": "UK-HC-ANGUS",
+      "basename": "Angus_34ab6d",
+      "county": "Angus",
+      "mapName": "Angus",
+      "label": "Angus",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-angus",
+        "angus"
+      ],
+      "title": "What Really Happened in Angus UFO Reports?",
+      "summary": "Angus has a modest but interesting UFO history, shaped less by a single famous “mystery case” and more by a pattern of occasional local reports, unusual...",
+      "url": "what-really-happened-in-angus-ufo/",
+      "image": "assets/images/Angus_34ab6d-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ARGYLLSHIRE",
+      "iso": "UK-HC-ARGYLLSHIRE",
+      "basename": "Argyllshire_81dd43",
+      "county": "Argyllshire",
+      "mapName": "Argyllshire",
+      "label": "Argyllshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-argyllshire",
+        "argyllshire"
+      ],
+      "title": "What Really Happened in Argyllshire Skies?",
+      "summary": "Argyllshire has a small but intriguing place in the history of reported UFO phenomena in Britain.",
+      "url": "what-really-happened-in-argyllshire/",
+      "image": "assets/images/Argyllshire_81dd43-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BANFFSHIRE",
+      "iso": "UK-HC-BANFFSHIRE",
+      "basename": "Banffshire_c00f44",
+      "county": "Banffshire",
+      "mapName": "Banffshire",
+      "label": "Banffshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-banffshire",
+        "banffshire"
+      ],
+      "title": "What Really Happened in Banffshire Skies?",
+      "summary": "Banffshire has a relatively small and poorly documented UFO history compared with better-known Scottish areas such as Bonnybridge, but it contains several...",
+      "url": "what-really-happened-in-banffshire-skies/",
+      "image": "assets/images/Banffshire_c00f44-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BERKSHIRE",
+      "iso": "UK-HC-BERKSHIRE",
+      "basename": "Berkshire_fa6d4a",
+      "county": "Berkshire",
+      "mapName": "Berkshire",
+      "label": "Berkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berkshire",
+        "berkshire"
+      ],
+      "title": "What Really Happened in Berkshire's UFO Cases?",
+      "summary": "Berkshire has no single, well-documented UFO incident comparable with the best-known British cases, but it does have a revealing mixture of historical sky...",
+      "url": "what-really-happened-in-berkshires-ufo/",
+      "image": "assets/images/Berkshire_fa6d4a-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERWICKSHIRE",
+      "iso": "UK-HC-BERWICKSHIRE",
+      "basename": "Berwickshire_907858",
+      "county": "Berwickshire",
+      "mapName": "Berwickshire",
+      "label": "Berwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berwickshire",
+        "berwickshire"
+      ],
+      "title": "What Really Happened in Berwickshire's Skies?",
+      "summary": "Berwickshire has a relatively small and lightly documented UFO history compared with better-known Scottish areas such as Bonnybridge, West Lothian or the...",
+      "url": "what-really-happened-in-berwickshires/",
+      "image": "assets/images/Berwickshire_907858-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BUCKINGHAMSHIRE",
+      "iso": "UK-HC-BUCKINGHAMSHIRE",
+      "basename": "Buckinghamshire_40b834",
+      "county": "Buckinghamshire",
+      "mapName": "Buckinghamshire",
+      "label": "Buckinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buckinghamshire",
+        "buckinghamshire"
+      ],
+      "title": "What Really Happened in Buckinghamshire's UFO Cases?",
+      "summary": "Buckinghamshire has a long but fragmented UFO history rather than one defining, nationally famous incident.",
+      "url": "what-really-happened-in-buckinghamshires/",
+      "image": "assets/images/Buckinghamshire_40b834-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BUTESHIRE",
+      "iso": "UK-HC-BUTESHIRE",
+      "basename": "Buteshire_f23202",
+      "county": "Buteshire",
+      "mapName": "Buteshire",
+      "label": "Buteshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buteshire",
+        "buteshire"
+      ],
+      "title": "What Really Happened in Buteshire Skies?",
+      "summary": "Buteshire, the historic county centred on the Isle of Bute and surrounding islands in Scotland’s Firth of Clyde, has a limited documented UFO history...",
+      "url": "what-really-happened-in-buteshire-skies/",
+      "image": "assets/images/Buteshire_f23202-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAERNARFONSHIRE",
+      "iso": "UK-HC-CAERNARFONSHIRE",
+      "basename": "Caernarfonshire_667de6",
+      "county": "Caernarfonshire",
+      "mapName": "Caernarfonshire",
+      "label": "Caernarfonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caernarfonshire",
+        "caernarfonshire"
+      ],
+      "title": "What Really Happened in Caernarfonshire's UFO Stories?",
+      "summary": "Caernarfonshire, the historic county covering much of north-west Wales, has a modest but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-caernarfonshires/",
+      "image": "assets/images/Caernarfonshire_667de6-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CAITHNESS",
+      "iso": "UK-HC-CAITHNESS",
+      "basename": "Caithness_d273a3",
+      "county": "Caithness",
+      "mapName": "Caithness",
+      "label": "Caithness",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caithness",
+        "caithness"
+      ],
+      "title": "What Really Happened in Caithness Skies?",
+      "summary": "Caithness has a modest but distinctive place in UK UFO history, centred less on a single famous “mystery” and more on a series of local reports, newspaper...",
+      "url": "what-really-happened-in-caithness-skies/",
+      "image": "assets/images/Caithness_d273a3-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAMBRIDGESHIRE",
+      "iso": "UK-HC-CAMBRIDGESHIRE",
+      "basename": "Cambridgeshire_f74246",
+      "county": "Cambridgeshire",
+      "mapName": "Cambridgeshire",
+      "label": "Cambridgeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cambridgeshire",
+        "cambridgeshire"
+      ],
+      "title": "What Really Happened in Cambridgeshire's UFO Reports?",
+      "summary": "Cambridgeshire has no single, well-documented “landing” case comparable with the best-known British UFO stories.",
+      "url": "what-really-happened-in/",
+      "image": "assets/images/Cambridgeshire_f74246-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CARDIGANSHIRE",
+      "iso": "UK-HC-CARDIGANSHIRE",
+      "basename": "Cardiganshire_0418d7",
+      "county": "Cardiganshire",
+      "mapName": "Cardiganshire",
+      "label": "Cardiganshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cardiganshire",
+        "cardiganshire"
+      ],
+      "title": "What Really Happened in Cardiganshire Skies?",
+      "summary": "Cardiganshire, the historic Welsh county now largely corresponding to Ceredigion, has a modest but distinctive place in the history of reported UFO sightings...",
+      "url": "what-really-happened-in-cardiganshire/",
+      "image": "assets/images/Cardiganshire_0418d7-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CHESHIRE",
+      "iso": "UK-HC-CHESHIRE",
+      "basename": "Cheshire_f5f9e8",
+      "county": "Cheshire",
+      "mapName": "Cheshire",
+      "label": "Cheshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cheshire",
+        "cheshire"
+      ],
+      "title": "What Really Happened in Cheshire's UFO Cases?",
+      "summary": "Cheshire has no single UFO incident on the scale of Rendlesham Forest, but it has a long, varied record of strange-light reports, close-encounter claims,...",
+      "url": "what-really-happened-in-cheshires-ufo/",
+      "image": "assets/images/Cheshire_f5f9e8-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CLACKMANNANSHIRE",
+      "iso": "UK-HC-CLACKMANNANSHIRE",
+      "basename": "Clackmannanshire_a9d2bc",
+      "county": "Clackmannanshire",
+      "mapName": "Clackmannanshire",
+      "label": "Clackmannanshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-clackmannanshire",
+        "clackmannanshire"
+      ],
+      "title": "What Really Happened in Clackmannanshire Skies?",
+      "summary": "Clackmannanshire has a small but persistent place in Scotland’s UFO history, although it is not one of the country’s major recognised UFO centres.",
+      "url": "what-really-happened-in-clackmannanshire/",
+      "image": "assets/images/Clackmannanshire_a9d2bc-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ANTRIM",
+      "iso": "UK-HC-COUNTY-ANTRIM",
+      "basename": "County_Antrim_405799",
+      "county": "County Antrim",
+      "mapName": "County Antrim",
+      "label": "County Antrim",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-antrim",
+        "county antrim",
+        "antrim"
+      ],
+      "title": "What Really Happened in County Antrim's Skies?",
+      "summary": "County Antrim has a long record of reported strange lights and unidentified objects, but no single incident stands out as a well-documented British “classic”...",
+      "url": "what-really-happened-in-county-antrims/",
+      "image": "assets/images/County_Antrim_405799-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DURHAM",
+      "iso": "UK-HC-COUNTY-DURHAM",
+      "basename": "County_Durham_9c5285",
+      "county": "County Durham",
+      "mapName": "County Durham",
+      "label": "County Durham",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-durham",
+        "county durham",
+        "durham"
+      ],
+      "title": "What Really Happened in County Durham's Skies?",
+      "summary": "County Durham has a genuine UFO history, but not one dominated by a single, well-documented “classic” comparable with Rendlesham Forest.",
+      "url": "what-really-happened-in-county-durhams/",
+      "image": "assets/images/County_Durham_9c5285-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CUMBERLAND",
+      "iso": "UK-HC-CUMBERLAND",
+      "basename": "Cumberland_f993d3",
+      "county": "Cumberland",
+      "mapName": "Cumberland",
+      "label": "Cumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cumberland",
+        "cumberland"
+      ],
+      "title": "What Really Happened in Cumberland's UFO Cases?",
+      "summary": "Cumberland’s UFO history is dominated by one internationally famous image: the 1964 “Solway Spaceman” photograph taken near Burgh by Sands.",
+      "url": "what-really-happened-in-cumberlands-ufo/",
+      "image": "assets/images/Cumberland_f993d3-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DENBIGHSHIRE",
+      "iso": "UK-HC-DENBIGHSHIRE",
+      "basename": "Denbighshire_fc7d7c",
+      "county": "Denbighshire",
+      "mapName": "Denbighshire",
+      "label": "Denbighshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-denbighshire",
+        "denbighshire"
+      ],
+      "title": "What Really Happened in Denbighshire Skies?",
+      "summary": "Denbighshire has one of the more interesting UFO histories in north Wales, not because of a large number of officially unexplained cases, but because a small...",
+      "url": "what-really-happened-in-denbighshire/",
+      "image": "assets/images/Denbighshire_fc7d7c-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-DERBYSHIRE",
+      "iso": "UK-HC-DERBYSHIRE",
+      "basename": "Derbyshire_ebae69",
+      "county": "Derbyshire",
+      "mapName": "Derbyshire",
+      "label": "Derbyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-derbyshire",
+        "derbyshire"
+      ],
+      "title": "What Really Happened in Derbyshire's UFO Cases?",
+      "summary": "Derbyshire has a substantial UFO folklore, but its history is better understood as a series of very different episodes than as evidence of one continuous...",
+      "url": "what-really-happened-in-derbyshires-ufo/",
+      "image": "assets/images/Derbyshire_ebae69-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DEVON",
+      "iso": "UK-HC-DEVON",
+      "basename": "Devon_a55796",
+      "county": "Devon",
+      "mapName": "Devon",
+      "label": "Devon",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-devon",
+        "devon"
+      ],
+      "title": "What Really Happened in Devon's UFO Cases?",
+      "summary": "Devon’s UFO history is dominated by one unusually well-documented episode: the North Devon sightings of October 1967, especially the report by two police...",
+      "url": "what-really-happened-in-devons-ufo-cases/",
+      "image": "assets/images/Devon_a55796-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DORSET",
+      "iso": "UK-HC-DORSET",
+      "basename": "Dorset_51e44a",
+      "county": "Dorset",
+      "mapName": "Dorset",
+      "label": "Dorset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dorset",
+        "dorset"
+      ],
+      "title": "What Really Happened in Dorset's UFO Skies?",
+      "summary": "Dorset’s UFO history is not dominated by a long sequence of famous encounters.",
+      "url": "what-really-happened-in-dorsets-ufo/",
+      "image": "assets/images/Dorset_51e44a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DUNBARTONSHIRE",
+      "iso": "UK-HC-DUNBARTONSHIRE",
+      "basename": "Dunbartonshire_abd4f2",
+      "county": "Dunbartonshire",
+      "mapName": "Dunbartonshire",
+      "label": "Dunbartonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dunbartonshire",
+        "dunbartonshire"
+      ],
+      "title": "What Really Happened in Dunbartonshire's UFO Reports?",
+      "summary": "Dunbartonshire has a modest but recognisable place in Scotland’s UFO history, centred less on one internationally famous case and more on a series of local...",
+      "url": "what-really-happened-in-728f91/",
+      "image": "assets/images/Dunbartonshire_abd4f2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ESSEX",
+      "iso": "UK-HC-ESSEX",
+      "basename": "Essex_17957d",
+      "county": "Essex",
+      "mapName": "Essex",
+      "label": "Essex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-essex",
+        "essex"
+      ],
+      "title": "What Really Happened in Essex Skies?",
+      "summary": "Essex has a long record of reported unidentified objects, but no single incident combines strong physical evidence, reliable radar data and independently...",
+      "url": "what-really-happened-in-essex-skies/",
+      "image": "assets/images/Essex_17957d-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FERMANAGH",
+      "iso": "UK-HC-FERMANAGH",
+      "basename": "Fermanagh_69251a",
+      "county": "Fermanagh",
+      "mapName": "Fermanagh",
+      "label": "Fermanagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fermanagh",
+        "fermanagh"
+      ],
+      "title": "What Really Happened in Fermanagh's Skies?",
+      "summary": "Fermanagh has a modest UFO history rather than a famous “flap” or landmark close-encounter case.",
+      "url": "what-really-happened-in-fermanaghs-skies/",
+      "image": "assets/images/Fermanagh_69251a-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-FIFE",
+      "iso": "UK-HC-FIFE",
+      "basename": "Fife_ef689b",
+      "county": "Fife",
+      "mapName": "Fife",
+      "label": "Fife",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fife",
+        "fife"
+      ],
+      "title": "What Really Happened in Fife's UFO Cases?",
+      "summary": "Fife has a small but well-documented place in Scotland’s UFO history, mainly because of its long association with aviation, military activity and a number of...",
+      "url": "what-really-happened-in-fifes-ufo-cases/",
+      "image": "assets/images/Fife_ef689b-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-FLINTSHIRE",
+      "iso": "UK-HC-FLINTSHIRE",
+      "basename": "Flintshire_823310",
+      "county": "Flintshire",
+      "mapName": "Flintshire",
+      "label": "Flintshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-flintshire",
+        "flintshire"
+      ],
+      "title": "What Really Happened in Flintshire's Skies?",
+      "summary": "Flintshire has a modest but distinctive place in Welsh UFO history.",
+      "url": "what-really-happened-in-flintshires/",
+      "image": "assets/images/Flintshire_823310-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-GLOUCESTERSHIRE",
+      "iso": "UK-HC-GLOUCESTERSHIRE",
+      "basename": "Gloucestershire_03cc40",
+      "county": "Gloucestershire",
+      "mapName": "Gloucestershire",
+      "label": "Gloucestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-gloucestershire",
+        "gloucestershire"
+      ],
+      "title": "What Really Happened in Gloucestershire's Skies?",
+      "summary": "Gloucestershire’s UFO history is dominated by one unusually strong case: the 21 October 1952 encounter involving two military pilots from RAF Little Rissington.",
+      "url": "what-really-happened-in-gloucestershires/",
+      "image": "assets/images/Gloucestershire_03cc40-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HAMPSHIRE",
+      "iso": "UK-HC-HAMPSHIRE",
+      "basename": "Hampshire_5816c9",
+      "county": "Hampshire",
+      "mapName": "Hampshire",
+      "label": "Hampshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hampshire",
+        "hampshire"
+      ],
+      "title": "What Really Happened in Hampshire's Skies?",
+      "summary": "Hampshire’s UFO history is less a story of one celebrated “landing” than of repeated encounters between unusual reports and an unusually busy aerospace...",
+      "url": "what-really-happened-in-hampshires-skies/",
+      "image": "assets/images/Hampshire_5816c9-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HEREFORDSHIRE",
+      "iso": "UK-HC-HEREFORDSHIRE",
+      "basename": "Herefordshire_be57fe",
+      "county": "Herefordshire",
+      "mapName": "Herefordshire",
+      "label": "Herefordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-herefordshire",
+        "herefordshire"
+      ],
+      "title": "What Really Happened in Herefordshire's UFO Skies?",
+      "summary": "Herefordshire has a genuine UFO record, but not a single landmark incident comparable with Rendlesham Forest or the Welsh “Broad Haven Triangle”.",
+      "url": "what-really-happened-in-herefordshires/",
+      "image": "assets/images/Herefordshire_be57fe-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-INVERNESS-SHIRE",
+      "iso": "UK-HC-INVERNESS-SHIRE",
+      "basename": "Inverness-shire_f61896",
+      "county": "Inverness-shire",
+      "mapName": "Inverness-shire",
+      "label": "Inverness-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-inverness-shire",
+        "inverness shire"
+      ],
+      "title": "What Really Happened In Inverness shire Skies?",
+      "summary": "Inverness-shire has a modest but distinctive place in the history of reported UFO sightings in Scotland.",
+      "url": "what-really-happened-in-inverness-shire/",
+      "image": "assets/images/Inverness-shire_f61896-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINROSS-SHIRE",
+      "iso": "UK-HC-KINROSS-SHIRE",
+      "basename": "Kinross-shire_c6236f",
+      "county": "Kinross-shire",
+      "mapName": "Kinross-shire",
+      "label": "Kinross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kinross-shire",
+        "kinross shire"
+      ],
+      "title": "What Really Happened in Kinross shire Skies?",
+      "summary": "Kinross-shire has a relatively small but significant place in Scotland’s UFO history, mainly because of its connection to the wider Perth and Kinross area...",
+      "url": "what-really-happened-in-kinross-shire/",
+      "image": "assets/images/Kinross-shire_c6236f-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "iso": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "basename": "Kirkcudbrightshire_97fbf2",
+      "county": "Kirkcudbrightshire",
+      "mapName": "Kirkcudbrightshire",
+      "label": "Kirkcudbrightshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kirkcudbrightshire",
+        "kirkcudbrightshire"
+      ],
+      "title": "What Really Happened in Kirkcudbrightshire's UFO Cases?",
+      "summary": "Kirkcudbrightshire has one particularly notable place in British UFO history: the Galloway village of Balmaclellan, where a 1955 “flying saucer” report...",
+      "url": "what-really-happened-in-37fddb/",
+      "image": "assets/images/Kirkcudbrightshire_97fbf2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANARKSHIRE",
+      "iso": "UK-HC-LANARKSHIRE",
+      "basename": "Lanarkshire_60db75",
+      "county": "Lanarkshire",
+      "mapName": "Lanarkshire",
+      "label": "Lanarkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lanarkshire",
+        "lanarkshire"
+      ],
+      "title": "What Really Happened in Lanarkshire's UFO Skies?",
+      "summary": "Lanarkshire has a place in Scotland’s UFO history, but it is not because of one universally recognised “classic” case comparable with West Lothian’s Dechmont...",
+      "url": "what-really-happened-in-lanarkshires-ufo/",
+      "image": "assets/images/Lanarkshire_60db75-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LEICESTERSHIRE",
+      "iso": "UK-HC-LEICESTERSHIRE",
+      "basename": "Leicestershire_f2eb49",
+      "county": "Leicestershire",
+      "mapName": "Leicestershire",
+      "label": "Leicestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-leicestershire",
+        "leicestershire"
+      ],
+      "title": "What Really Happened in Leicestershire Skies?",
+      "summary": "Leicestershire has a long record of UFO reports, but it is not known for a single nationally famous “close encounter” comparable with cases such as...",
+      "url": "what-really-happened-in-leicestershire/",
+      "image": "assets/images/Leicestershire_f2eb49-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MERIONETHSHIRE",
+      "iso": "UK-HC-MERIONETHSHIRE",
+      "basename": "Merionethshire_8af4e7",
+      "county": "Merionethshire",
+      "mapName": "Merionethshire",
+      "label": "Merionethshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-merionethshire",
+        "merionethshire"
+      ],
+      "title": "What Really Happened in Merionethshire Skies?",
+      "summary": "Merionethshire, the historic county of north-west Wales, is best known in UFO history for one dramatic event: the Berwyn Mountains incident of 23 January...",
+      "url": "what-really-happened-in-merionethshire/",
+      "image": "assets/images/Merionethshire_8af4e7-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MIDDLESEX",
+      "iso": "UK-HC-MIDDLESEX",
+      "basename": "Middlesex_8498da",
+      "county": "Middlesex",
+      "mapName": "Middlesex",
+      "label": "Middlesex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-middlesex",
+        "middlesex"
+      ],
+      "title": "What Really Happened in Middlesex Skies?",
+      "summary": "Middlesex has a long association with reports of unidentified flying objects, but the county’s UFO history is better understood as a record of unusual...",
+      "url": "what-really-happened-in-middlesex-skies/",
+      "image": "assets/images/Middlesex_8498da-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MIDLOTHIAN",
+      "iso": "UK-HC-MIDLOTHIAN",
+      "basename": "Midlothian_ff4e39",
+      "county": "Midlothian",
+      "mapName": "Midlothian",
+      "label": "Midlothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-midlothian",
+        "midlothian"
+      ],
+      "title": "What Really Happened in Midlothian's Skies?",
+      "summary": "Midlothian has a smaller and less documented UFO history than some Scottish areas, but it is not absent from the record.",
+      "url": "what-really-happened-in-midlothians/",
+      "image": "assets/images/Midlothian_ff4e39-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MORAYSHIRE",
+      "iso": "UK-HC-MORAYSHIRE",
+      "basename": "Morayshire_6abd28",
+      "county": "Morayshire",
+      "mapName": "Morayshire",
+      "label": "Morayshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-morayshire",
+        "morayshire"
+      ],
+      "title": "What Really Happened in Morayshire Skies?",
+      "summary": "Morayshire has a modest but interesting place in Scottish UFO history, shaped less by a single famous “mystery craft” and more by the area’s long association...",
+      "url": "what-really-happened-in-morayshire-skies/",
+      "image": "assets/images/Morayshire_6abd28-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-NORTHAMPTONSHIRE",
+      "iso": "UK-HC-NORTHAMPTONSHIRE",
+      "basename": "Northamptonshire_ad0dee",
+      "county": "Northamptonshire",
+      "mapName": "Northamptonshire",
+      "label": "Northamptonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northamptonshire",
+        "northamptonshire"
+      ],
+      "title": "What Really Happened in Northamptonshire's UFO Stories?",
+      "summary": "Northamptonshire has a long-running but relatively low-profile UFO history, centred less on large-scale “flap” events and more on a small number of memorable...",
+      "url": "what-really-happened-in-86c9dc/",
+      "image": "assets/images/Northamptonshire_ad0dee-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NOTTINGHAMSHIRE",
+      "iso": "UK-HC-NOTTINGHAMSHIRE",
+      "basename": "Nottinghamshire_a5a895",
+      "county": "Nottinghamshire",
+      "mapName": "Nottinghamshire",
+      "label": "Nottinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nottinghamshire",
+        "nottinghamshire"
+      ],
+      "title": "What Really Happened in Nottinghamshire Skies?",
+      "summary": "Nottinghamshire has a long but relatively low-profile history of UFO reports, centred less on a single famous “mystery” and more on repeated local sightings,...",
+      "url": "what-really-happened-in-nottinghamshire/",
+      "image": "assets/images/Nottinghamshire_a5a895-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ORKNEY",
+      "iso": "UK-HC-ORKNEY",
+      "basename": "Orkney_9ae683",
+      "county": "Orkney",
+      "mapName": "Orkney",
+      "label": "Orkney",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-orkney",
+        "orkney"
+      ],
+      "title": "What Really Happened in Orkney Skies?",
+      "summary": "Orkney has a long association with unusual sky reports, but it is not one of the best-documented UFO hotspots in the UK.",
+      "url": "what-really-happened-in-orkney-skies/",
+      "image": "assets/images/Orkney_9ae683-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-OXFORDSHIRE",
+      "iso": "UK-HC-OXFORDSHIRE",
+      "basename": "Oxfordshire_491609",
+      "county": "Oxfordshire",
+      "mapName": "Oxfordshire",
+      "label": "Oxfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-oxfordshire",
+        "oxfordshire"
+      ],
+      "title": "What Really Happened in Oxfordshire's Skies?",
+      "summary": "Oxfordshire has a long but relatively low-profile UFO history compared with better-known British locations such as Rendlesham Forest in Suffolk or Warminster...",
+      "url": "what-really-happened-in-oxfordshires/",
+      "image": "assets/images/Oxfordshire_491609-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEMBROKESHIRE",
+      "iso": "UK-HC-PEMBROKESHIRE",
+      "basename": "Pembrokeshire_b220ff",
+      "county": "Pembrokeshire",
+      "mapName": "Pembrokeshire",
+      "label": "Pembrokeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-pembrokeshire",
+        "pembrokeshire"
+      ],
+      "title": "What Really Happened in Pembrokeshire's Welsh Triangle?",
+      "summary": "Pembrokeshire’s UFO history is dominated by the extraordinary wave of reports that began around Broad Haven in 1977.",
+      "url": "what-really-happened-in-pembrokeshires/",
+      "image": "assets/images/Pembrokeshire_b220ff-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-PERTHSHIRE",
+      "iso": "UK-HC-PERTHSHIRE",
+      "basename": "Perthshire_258bcb",
+      "county": "Perthshire",
+      "mapName": "Perthshire",
+      "label": "Perthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-perthshire",
+        "perthshire"
+      ],
+      "title": "What Really Happened in Perthshire's UFO Cases?",
+      "summary": "Perthshire has one of the most recognisable UFO cases in Scottish history: the Calvine incident of August 1990, in which two walkers reported seeing and...",
+      "url": "what-really-happened-in-perthshires-ufo/",
+      "image": "assets/images/Perthshire_258bcb-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-RENFREWSHIRE",
+      "iso": "UK-HC-RENFREWSHIRE",
+      "basename": "Renfrewshire_6a148e",
+      "county": "Renfrewshire",
+      "mapName": "Renfrewshire",
+      "label": "Renfrewshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-renfrewshire",
+        "renfrewshire"
+      ],
+      "title": "What Really Happened in Renfrewshire Skies?",
+      "summary": "Renfrewshire has a small but interesting place in Scotland’s UFO history.",
+      "url": "what-really-happened-in-renfrewshire/",
+      "image": "assets/images/Renfrewshire_6a148e-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROXBURGHSHIRE",
+      "iso": "UK-HC-ROXBURGHSHIRE",
+      "basename": "Roxburghshire_8333b2",
+      "county": "Roxburghshire",
+      "mapName": "Roxburghshire",
+      "label": "Roxburghshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-roxburghshire",
+        "roxburghshire"
+      ],
+      "title": "What Really Happened in Roxburghshire Skies?",
+      "summary": "Roxburghshire, the historic Scottish county covering the Borders towns and countryside around places such as Kelso, Hawick, Jedburgh and Roxburgh, does not...",
+      "url": "what-really-happened-in-roxburghshire/",
+      "image": "assets/images/Roxburghshire_8333b2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-RUTLAND",
+      "iso": "UK-HC-RUTLAND",
+      "basename": "Rutland_424243",
+      "county": "Rutland",
+      "mapName": "Rutland",
+      "label": "Rutland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-rutland",
+        "rutland"
+      ],
+      "title": "What Really Happened in Rutland Skies?",
+      "summary": "Rutland has a small but distinctive place in the history of reported UFO sightings in England.",
+      "url": "what-really-happened-in-rutland-skies/",
+      "image": "assets/images/Rutland_424243-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SHETLAND",
+      "iso": "UK-HC-SHETLAND",
+      "basename": "Shetland_ce055c",
+      "county": "Shetland",
+      "mapName": "Shetland",
+      "label": "Shetland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shetland",
+        "shetland"
+      ],
+      "title": "What Really Happened in Shetland's Skies?",
+      "summary": "Shetland has a small but distinctive place in UK UFO history.",
+      "url": "what-really-happened-in-shetlands-skies/",
+      "image": "assets/images/Shetland_ce055c-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SHROPSHIRE",
+      "iso": "UK-HC-SHROPSHIRE",
+      "basename": "Shropshire_83e582",
+      "county": "Shropshire",
+      "mapName": "Shropshire",
+      "label": "Shropshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shropshire",
+        "shropshire"
+      ],
+      "title": "What Really Happened in Shropshire's Skies?",
+      "summary": "Shropshire has a long-running reputation among UFO researchers as one of England’s more active counties for reported unusual aerial sightings, with clusters...",
+      "url": "what-really-happened-in-shropshires/",
+      "image": "assets/images/Shropshire_83e582-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SOMERSET",
+      "iso": "UK-HC-SOMERSET",
+      "basename": "Somerset_24710f",
+      "county": "Somerset",
+      "mapName": "Somerset",
+      "label": "Somerset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-somerset",
+        "somerset"
+      ],
+      "title": "What Really Happened in Somerset's Skies?",
+      "summary": "Somerset has a long but relatively modest UFO history compared with better-known British hotspots such as Wiltshire’s Warminster or Suffolk’s Rendlesham Forest.",
+      "url": "what-really-happened-in-somersets-skies/",
+      "image": "assets/images/Somerset_24710f-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STAFFORDSHIRE",
+      "iso": "UK-HC-STAFFORDSHIRE",
+      "basename": "Staffordshire_e11f30",
+      "county": "Staffordshire",
+      "mapName": "Staffordshire",
+      "label": "Staffordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-staffordshire",
+        "staffordshire"
+      ],
+      "title": "What Really Happened in Staffordshire Skies?",
+      "summary": "Staffordshire has a small but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-staffordshire/",
+      "image": "assets/images/Staffordshire_e11f30-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STIRLINGSHIRE",
+      "iso": "UK-HC-STIRLINGSHIRE",
+      "basename": "Stirlingshire_47078a",
+      "county": "Stirlingshire",
+      "mapName": "Stirlingshire",
+      "label": "Stirlingshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-stirlingshire",
+        "stirlingshire"
+      ],
+      "title": "What Really Happened in Stirlingshire's UFO Hotspot?",
+      "summary": "Stirlingshire has one of the best-known UFO reputations in Scotland, largely because of the Bonnybridge and wider Falkirk Triangle wave of reports that...",
+      "url": "what-really-happened-in-stirlingshires/",
+      "image": "assets/images/Stirlingshire_47078a-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SURREY",
+      "iso": "UK-HC-SURREY",
+      "basename": "Surrey_aeac76",
+      "county": "Surrey",
+      "mapName": "Surrey",
+      "label": "Surrey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-surrey",
+        "surrey"
+      ],
+      "title": "What Really Happened in Surrey's UFO Cases?",
+      "summary": "Surrey has a long but relatively low-profile UFO history, shaped less by one universally recognised “classic” case and more by a steady record of local...",
+      "url": "what-really-happened-in-surreys-ufo/",
+      "image": "assets/images/Surrey_aeac76-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUSSEX",
+      "iso": "UK-HC-SUSSEX",
+      "basename": "Sussex_0f32ec",
+      "county": "Sussex",
+      "mapName": "Sussex",
+      "label": "Sussex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sussex",
+        "east sussex",
+        "west sussex",
+        "sussex"
+      ],
+      "title": "What Really Happened in Sussex Skies?",
+      "summary": "Sussex has one of the better-known local UFO traditions in southern England, although the strongest evidence is usually for unusual sightings rather than...",
+      "url": "what-really-happened-in-sussex-skies/",
+      "image": "assets/images/Sussex_0f32ec-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUTHERLAND",
+      "iso": "UK-HC-SUTHERLAND",
+      "basename": "Sutherland_6dbe51",
+      "county": "Sutherland",
+      "mapName": "Sutherland",
+      "label": "Sutherland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sutherland",
+        "sutherland"
+      ],
+      "title": "What Really Happened in Sutherland's Skies?",
+      "summary": "Sutherland, the historic county in the far north of Scotland, has a small but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-sutherlands/",
+      "image": "assets/images/Sutherland_6dbe51-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-TYRONE",
+      "iso": "UK-HC-TYRONE",
+      "basename": "Tyrone_619a59",
+      "county": "Tyrone",
+      "mapName": "Tyrone",
+      "label": "Tyrone",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-tyrone",
+        "tyrone"
+      ],
+      "title": "What Really Happened in Tyrone's UFO Reports?",
+      "summary": "County Tyrone has no single UFO incident comparable with Britain’s best-known cases, and the surviving evidence is patchy.",
+      "url": "what-really-happened-in-tyrones-ufo/",
+      "image": "assets/images/Tyrone_619a59-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-WARWICKSHIRE",
+      "iso": "UK-HC-WARWICKSHIRE",
+      "basename": "Warwickshire_17be07",
+      "county": "Warwickshire",
+      "mapName": "Warwickshire",
+      "label": "Warwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-warwickshire",
+        "warwickshire"
+      ],
+      "title": "What Really Happened in Warwickshire's Skies?",
+      "summary": "Warwickshire has a long but uneven record of UFO reports, with most cases involving lights, unusual shapes, or distant objects rather than close encounters...",
+      "url": "what-really-happened-in-warwickshires/",
+      "image": "assets/images/Warwickshire_17be07-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-WEST-LOTHIAN",
+      "iso": "UK-HC-WEST-LOTHIAN",
+      "basename": "West_Lothian_1c9504",
+      "county": "West Lothian",
+      "mapName": "West Lothian",
+      "label": "West Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-west-lothian",
+        "west lothian"
+      ],
+      "title": "What Really Happened in West Lothian Skies?",
+      "summary": "West Lothian is best known in UFO history for one extraordinary case: the Dechmont Woods encounter near Livingston on 9 November 1979.",
+      "url": "what-really-happened-in-west-lothian/",
+      "image": "assets/images/West_Lothian_1c9504-photo1.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WIGTOWNSHIRE",
+      "iso": "UK-HC-WIGTOWNSHIRE",
+      "basename": "Wigtownshire_1186ed",
+      "county": "Wigtownshire",
+      "mapName": "Wigtownshire",
+      "label": "Wigtownshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wigtownshire",
+        "wigtownshire"
+      ],
+      "title": "What Really Happened in Wigtownshire Skies?",
+      "summary": "Wigtownshire, the historic county in south-west Scotland now largely within Dumfries and Galloway, has one of the strongest military-linked UFO stories in...",
+      "url": "what-really-happened-in-wigtownshire/",
+      "image": "assets/images/Wigtownshire_1186ed-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WORCESTERSHIRE",
+      "iso": "UK-HC-WORCESTERSHIRE",
+      "basename": "Worcestershire_9671d5",
+      "county": "Worcestershire",
+      "mapName": "Worcestershire",
+      "label": "Worcestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-worcestershire",
+        "worcestershire"
+      ],
+      "title": "What Really Happened in Worcestershire Skies?",
+      "summary": "Worcestershire has a long association with reports of unusual objects in the sky, but it is not one of Britain’s best-documented “UFO hotspot” counties.",
+      "url": "what-really-happened-in-worcestershire/",
+      "image": "assets/images/Worcestershire_9671d5-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CORNWALL",
+      "iso": "UK-HC-CORNWALL",
+      "basename": "Cornwall_4c96d0",
+      "county": "Cornwall",
+      "mapName": "Cornwall",
+      "label": "Cornwall",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cornwall",
+        "cornwall"
+      ],
+      "title": "What Really Lies Behind Cornwall's UFO Reports?",
+      "summary": "Cornwall has a long trail of reported UFO sightings, but no single incident has achieved the evidential weight or national prominence of Britain’s best-known...",
+      "url": "what-really-lies-behind-cornwalls-ufo/",
+      "image": "assets/images/Cornwall_4c96d0-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CROMARTYSHIRE",
+      "iso": "UK-HC-CROMARTYSHIRE",
+      "basename": "Cromartyshire_1a46f2",
+      "county": "Cromartyshire",
+      "mapName": "Cromartyshire",
+      "label": "Cromartyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cromartyshire",
+        "cromartyshire"
+      ],
+      "title": "What Really Lies Behind Cromartyshire UFO Reports?",
+      "summary": "Cromartyshire has a small but interesting place in the wider history of reported UFO phenomena in Scotland, although it is not known for a large,...",
+      "url": "what-really-lies-behind-cromartyshire/",
+      "image": "assets/images/Cromartyshire_1a46f2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WILTSHIRE",
+      "iso": "UK-HC-WILTSHIRE",
+      "basename": "Wiltshire_7b9f94",
+      "county": "Wiltshire",
+      "mapName": "Wiltshire",
+      "label": "Wiltshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wiltshire",
+        "wiltshire"
+      ],
+      "title": "Wiltshire UFO Stories: Claims, Cases And Evidence",
+      "summary": "Wiltshire has one of the most recognisable UFO histories in the United Kingdom, largely because of the Warminster “Thing” flap of the 1960s, later reports...",
+      "url": "wiltshire-ufo-stories-claims-cases-and/",
+      "image": "assets/images/Wiltshire_7b9f94-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-YORKSHIRE",
+      "iso": "UK-HC-YORKSHIRE",
+      "basename": "Yorkshire_f09525",
+      "county": "Yorkshire",
+      "mapName": "Yorkshire",
+      "label": "Yorkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "east riding of yorkshire",
+        "north yorkshire",
+        "south yorkshire",
+        "uk-hc-yorkshire",
+        "west yorkshire",
+        "yorkshire"
+      ],
+      "title": "Yorkshire UFO Stories Between Mystery And Evidence",
+      "summary": "Yorkshire has one of the richer UFO traditions in Britain, not because it contains a single proven extraordinary event, but because it combines several...",
+      "url": "yorkshire-ufo-stories-between-mystery/",
+      "image": "assets/images/Yorkshire_f09525-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    }
+  ],
+  "counties": [
+    {
+      "id": "UK-HC-BRECKNOCKSHIRE",
+      "iso": "UK-HC-BRECKNOCKSHIRE",
+      "basename": "Brecknockshire_d4a3d4",
+      "county": "Brecknockshire",
+      "mapName": "Brecknockshire",
+      "label": "Brecknockshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-brecknockshire",
+        "brecknockshire"
+      ],
+      "title": "Brecknockshire UFOs: Lights, Claims and Evidence",
+      "summary": "Brecknockshire, the historic county centred on Brecon and the upland landscapes of the Brecon Beacons, has a modest but distinctive place in Welsh UFO history.",
+      "url": "brecknockshire-ufos-lights-claims-and/",
+      "image": "assets/images/Brecknockshire_d4a3d4-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CARMARTHENSHIRE",
+      "iso": "UK-HC-CARMARTHENSHIRE",
+      "basename": "Carmarthenshire_0d1a35",
+      "county": "Carmarthenshire",
+      "mapName": "Carmarthenshire",
+      "label": "Carmarthenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-carmarthenshire",
+        "carmarthenshire"
+      ],
+      "title": "Carmarthenshire UFOs: Claims, Cases And Explanations",
+      "summary": "Carmarthenshire has a modest but distinctive place in Welsh UFO history.",
+      "url": "carmarthenshire-ufos-claims-cases-and/",
+      "image": "assets/images/Carmarthenshire_0d1a35-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-EAST-LOTHIAN",
+      "iso": "UK-HC-EAST-LOTHIAN",
+      "basename": "East_Lothian_a7dd3d",
+      "county": "East Lothian",
+      "mapName": "East Lothian",
+      "label": "East Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-east-lothian",
+        "east lothian"
+      ],
+      "title": "East Lothian's UFO Stories: Reports, Evidence and Doubts",
+      "summary": "East Lothian has a small but distinctive place in Scottish UFO history.",
+      "url": "east-lothians-ufo-stories-reports/",
+      "image": "assets/images/East_Lothian_a7dd3d-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-GLAMORGAN",
+      "iso": "UK-HC-GLAMORGAN",
+      "basename": "Glamorgan_7b8978",
+      "county": "Glamorgan",
+      "mapName": "Glamorgan",
+      "label": "Glamorgan",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-glamorgan",
+        "glamorgan"
+      ],
+      "title": "Glamorgan's UFO Mysteries: Cases, Claims And Evidence",
+      "summary": "Glamorgan has a long and varied UFO history, but the strongest evidence is not a single proven mystery.",
+      "url": "glamorgans-ufo-mysteries-cases-claims/",
+      "image": "assets/images/Glamorgan_7b8978-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-KENT",
+      "iso": "UK-HC-KENT",
+      "basename": "Kent_4e168a",
+      "county": "Kent",
+      "mapName": "Kent",
+      "label": "Kent",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kent",
+        "kent"
+      ],
+      "title": "Kent's UFO Cases: Evidence, Witnesses and Mysteries",
+      "summary": "Kent has a long and varied history of UFO reports, largely shaped by its position as a south-east England county with major military airfields, busy aviation...",
+      "url": "kents-ufo-cases-evidence-witnesses-and/",
+      "image": "assets/images/Kent_4e168a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LANCASHIRE",
+      "iso": "UK-HC-LANCASHIRE",
+      "basename": "Lancashire_07656d",
+      "county": "Lancashire",
+      "mapName": "Lancashire",
+      "label": "Lancashire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lancashire",
+        "lancashire"
+      ],
+      "title": "Lancashire UFO Reports: Mystery, Evidence and Reality",
+      "summary": "Lancashire has a long but uneven record of UFO reports, with most cases consisting of ordinary people describing unusual lights, shapes or movements in the...",
+      "url": "lancashire-ufo-reports-mystery-evidence/",
+      "image": "assets/images/Lancashire_07656d-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LINCOLNSHIRE",
+      "iso": "UK-HC-LINCOLNSHIRE",
+      "basename": "Lincolnshire_92cf52",
+      "county": "Lincolnshire",
+      "mapName": "Lincolnshire",
+      "label": "Lincolnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lincolnshire",
+        "lincolnshire"
+      ],
+      "title": "Lincolnshire's UFO Mysteries: Cases, Clues And...",
+      "summary": "Lincolnshire’s UFO history is shaped less by a single unexplained event than by the county’s unusual combination of open countryside, North Sea air routes,...",
+      "url": "lincolnshires-ufo-mysteries-cases-clues/",
+      "image": "assets/images/Lincolnshire_92cf52-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORFOLK",
+      "iso": "UK-HC-NORFOLK",
+      "basename": "Norfolk_72ff17",
+      "county": "Norfolk",
+      "mapName": "Norfolk",
+      "label": "Norfolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-norfolk",
+        "norfolk"
+      ],
+      "title": "Norfolk's UFO Stories: Sightings, Secrets and Evidence",
+      "summary": "Norfolk has a long but relatively low-profile UFO history, shaped less by one single famous incident than by a combination of military aviation, coastal...",
+      "url": "norfolks-ufo-stories-sightings-secrets/",
+      "image": "assets/images/Norfolk_72ff17-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHUMBERLAND",
+      "iso": "UK-HC-NORTHUMBERLAND",
+      "basename": "Northumberland_98885a",
+      "county": "Northumberland",
+      "mapName": "Northumberland",
+      "label": "Northumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northumberland",
+        "northumberland"
+      ],
+      "title": "Northumberland's UFO Mysteries: Reports, Evidence And...",
+      "summary": "Northumberland has a long-running but relatively low-profile UFO history shaped more by individual reports, dark skies, aviation activity and occasional...",
+      "url": "northumberlands-ufo-mysteries-reports/",
+      "image": "assets/images/Northumberland_98885a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEEBLESSHIRE",
+      "iso": "UK-HC-PEEBLESSHIRE",
+      "basename": "Peeblesshire_4beb86",
+      "county": "Peeblesshire",
+      "mapName": "Peeblesshire",
+      "label": "Peeblesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-peeblesshire",
+        "peeblesshire"
+      ],
+      "title": "Peeblesshire's UFO Stories: Mystery, Evidence, Reality",
+      "summary": "Peeblesshire has a small but interesting place in Scottish UFO history, although it is not one of the country’s best-documented UFO areas.",
+      "url": "peeblesshires-ufo-stories-mystery/",
+      "image": "assets/images/Peeblesshire_4beb86-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROSS-SHIRE",
+      "iso": "UK-HC-ROSS-SHIRE",
+      "basename": "Ross-shire_c9caea",
+      "county": "Ross-shire",
+      "mapName": "Ross-shire",
+      "label": "Ross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ross-shire",
+        "ross shire"
+      ],
+      "title": "Ross shire's UFO Stories: What Really Happened?",
+      "summary": "Ross-shire has a small but interesting place in UK UFO history.",
+      "url": "ross-shires-ufo-stories-what-really/",
+      "image": "assets/images/Ross-shire_c9caea-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DUMFRIESSHIRE",
+      "iso": "UK-HC-DUMFRIESSHIRE",
+      "basename": "Dumfriesshire_3b4eaf",
+      "county": "Dumfriesshire",
+      "mapName": "Dumfriesshire",
+      "label": "Dumfriesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dumfriesshire",
+        "dumfriesshire"
+      ],
+      "title": "What Happened in Dumfriesshire's Skies?",
+      "summary": "Dumfriesshire has a small but notable place in Scottish UFO history, centred less on a large, organised “flap” than on a handful of striking reports,...",
+      "url": "what-happened-in-dumfriesshires-skies/",
+      "image": "assets/images/Dumfriesshire_3b4eaf-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SUFFOLK",
+      "iso": "UK-HC-SUFFOLK",
+      "basename": "Suffolk_831058",
+      "county": "Suffolk",
+      "mapName": "Suffolk",
+      "label": "Suffolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-suffolk",
+        "suffolk"
+      ],
+      "title": "What Happened in Suffolk's UFO Mysteries?",
+      "summary": "Suffolk has one of the most significant UFO histories in the United Kingdom, largely because of its Cold War military landscape and one case that became...",
+      "url": "what-happened-in-suffolks-ufo-mysteries/",
+      "image": "assets/images/Suffolk_831058-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BEDFORDSHIRE",
+      "iso": "UK-HC-BEDFORDSHIRE",
+      "basename": "Bedfordshire_5c5bc3",
+      "county": "Bedfordshire",
+      "mapName": "Bedfordshire",
+      "label": "Bedfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-bedfordshire",
+        "bedfordshire"
+      ],
+      "title": "What Really Flew Over Bedfordshire?",
+      "summary": "Bedfordshire has a genuine UFO history, but not one dominated by a single landmark encounter.",
+      "url": "what-really-flew-over-bedfordshire/",
+      "image": "assets/images/Bedfordshire_5c5bc3-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-COUNTY-ARMAGH",
+      "iso": "UK-HC-COUNTY-ARMAGH",
+      "basename": "County_Armagh_f58b12",
+      "county": "County Armagh",
+      "mapName": "County Armagh",
+      "label": "County Armagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-armagh",
+        "county armagh",
+        "armagh"
+      ],
+      "title": "What Really Flew Over County Armagh?",
+      "summary": "County Armagh has no single landmark UFO incident comparable with Britain’s best-known military or radar cases.",
+      "url": "what-really-flew-over-county-armagh/",
+      "image": "assets/images/County_Armagh_f58b12-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DOWN",
+      "iso": "UK-HC-COUNTY-DOWN",
+      "basename": "County_Down_8f4eb4",
+      "county": "County Down",
+      "mapName": "County Down",
+      "label": "County Down",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-down",
+        "county down",
+        "down"
+      ],
+      "title": "What Really Flew Over County Down?",
+      "summary": "County Down has a genuine UFO history, but not one built around a single dramatic, well-evidenced encounter.",
+      "url": "what-really-flew-over-county-down/",
+      "image": "assets/images/County_Down_8f4eb4-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-LONDONDERRY",
+      "iso": "UK-HC-COUNTY-LONDONDERRY",
+      "basename": "County_Londonderry_6c8609",
+      "county": "County Londonderry",
+      "mapName": "County Londonderry",
+      "label": "County Londonderry",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-londonderry",
+        "county londonderry",
+        "londonderry",
+        "derry"
+      ],
+      "title": "What Really Flew Over County Londonderry?",
+      "summary": "County Londonderry has a genuine record of reported unidentified flying objects, but not a single landmark case supported by radar traces, official aviation...",
+      "url": "what-really-flew-over-county-londonderry/",
+      "image": "assets/images/County_Londonderry_6c8609-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-HERTFORDSHIRE",
+      "iso": "UK-HC-HERTFORDSHIRE",
+      "basename": "Hertfordshire_38dc7a",
+      "county": "Hertfordshire",
+      "mapName": "Hertfordshire",
+      "label": "Hertfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hertfordshire",
+        "hertfordshire"
+      ],
+      "title": "What Really Flew Over Hertfordshire?",
+      "summary": "Hertfordshire has no single UFO incident with the national standing of Rendlesham Forest or the photographs associated with Calvine.",
+      "url": "what-really-flew-over-hertfordshire/",
+      "image": "assets/images/Hertfordshire_38dc7a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HUNTINGDONSHIRE",
+      "iso": "UK-HC-HUNTINGDONSHIRE",
+      "basename": "Huntingdonshire_d54801",
+      "county": "Huntingdonshire",
+      "mapName": "Huntingdonshire",
+      "label": "Huntingdonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-huntingdonshire",
+        "huntingdonshire"
+      ],
+      "title": "What Really Flew Over Huntingdonshire?",
+      "summary": "Huntingdonshire has a credible place in Britain’s UFO history, but not because it possesses a single landmark encounter comparable with Rendlesham Forest.",
+      "url": "what-really-flew-over-huntingdonshire/",
+      "image": "assets/images/Huntingdonshire_d54801-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MONMOUTHSHIRE",
+      "iso": "UK-HC-MONMOUTHSHIRE",
+      "basename": "Monmouthshire_e09701",
+      "county": "Monmouthshire",
+      "mapName": "Monmouthshire",
+      "label": "Monmouthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-monmouthshire",
+        "monmouthshire"
+      ],
+      "title": "What Really Flew Over Monmouthshire?",
+      "summary": "Monmouthshire has a genuine UFO history, but not one built around a single nationally famous encounter.",
+      "url": "what-really-flew-over-monmouthshire/",
+      "image": "assets/images/Monmouthshire_e09701-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MONTGOMERYSHIRE",
+      "iso": "UK-HC-MONTGOMERYSHIRE",
+      "basename": "Montgomeryshire_1814c4",
+      "county": "Montgomeryshire",
+      "mapName": "Montgomeryshire",
+      "label": "Montgomeryshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-montgomeryshire",
+        "montgomeryshire"
+      ],
+      "title": "What Really Flew Over Montgomeryshire?",
+      "summary": "Montgomeryshire has a genuine but thinly documented UFO history.",
+      "url": "what-really-flew-over-montgomeryshire/",
+      "image": "assets/images/Montgomeryshire_1814c4-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-RADNORSHIRE",
+      "iso": "UK-HC-RADNORSHIRE",
+      "basename": "Radnorshire_2d75e1",
+      "county": "Radnorshire",
+      "mapName": "Radnorshire",
+      "label": "Radnorshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-radnorshire",
+        "radnorshire"
+      ],
+      "title": "What Really Flew Over Radnorshire's Dark Skies?",
+      "summary": "Radnorshire has a modest, fragmented UFO history rather than a single landmark incident.",
+      "url": "what-really-flew-over-radnorshires-dark/",
+      "image": "assets/images/Radnorshire_2d75e1-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-AYRSHIRE",
+      "iso": "UK-HC-AYRSHIRE",
+      "basename": "Ayrshire_8acdee",
+      "county": "Ayrshire",
+      "mapName": "Ayrshire",
+      "label": "Ayrshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ayrshire",
+        "ayrshire"
+      ],
+      "title": "What Really Happened Above Ayrshire's Skies?",
+      "summary": "Ayrshire has a long-running but relatively low-profile place in Scotland’s UFO history.",
+      "url": "what-really-happened-above-ayrshires/",
+      "image": "assets/images/Ayrshire_8acdee-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINCARDINESHIRE",
+      "iso": "UK-HC-KINCARDINESHIRE",
+      "basename": "Kincardineshire_6f0ed9",
+      "county": "Kincardineshire",
+      "mapName": "Kincardineshire",
+      "label": "Kincardineshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kincardineshire",
+        "kincardineshire"
+      ],
+      "title": "What Really Happened Above Kincardineshire Skies",
+      "summary": "Kincardineshire has a small but interesting place in Scotland’s UFO history.",
+      "url": "what-really-happened-above/",
+      "image": "assets/images/Kincardineshire_6f0ed9-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-NAIRNSHIRE",
+      "iso": "UK-HC-NAIRNSHIRE",
+      "basename": "Nairnshire_82a7a8",
+      "county": "Nairnshire",
+      "mapName": "Nairnshire",
+      "label": "Nairnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nairnshire",
+        "nairnshire"
+      ],
+      "title": "What Really Happened Above Nairnshire's Skies?",
+      "summary": "Nairnshire has a small but interesting place in Scotland’s UFO history, although the surviving evidence is very different from the famous Scottish cases that...",
+      "url": "what-really-happened-above-nairnshires/",
+      "image": "assets/images/Nairnshire_82a7a8-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SELKIRKSHIRE",
+      "iso": "UK-HC-SELKIRKSHIRE",
+      "basename": "Selkirkshire_8fd2aa",
+      "county": "Selkirkshire",
+      "mapName": "Selkirkshire",
+      "label": "Selkirkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-selkirkshire",
+        "selkirkshire"
+      ],
+      "title": "What Really Happened Above Selkirkshire Skies?",
+      "summary": "Selkirkshire has a small but interesting place in the history of UFO reports in Scotland, although it is not known for a major, well-documented UFO case...",
+      "url": "what-really-happened-above-selkirkshire/",
+      "image": "assets/images/Selkirkshire_8fd2aa-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WESTMORLAND",
+      "iso": "UK-HC-WESTMORLAND",
+      "basename": "Westmorland_dec0c1",
+      "county": "Westmorland",
+      "mapName": "Westmorland",
+      "label": "Westmorland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-westmorland",
+        "westmorland"
+      ],
+      "title": "What Really Happened Above Westmorland?",
+      "summary": "Westmorland has a modest but interesting place in the history of reported UFO sightings in Britain.",
+      "url": "what-really-happened-above-westmorland/",
+      "image": "assets/images/Westmorland_dec0c1-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ABERDEENSHIRE",
+      "iso": "UK-HC-ABERDEENSHIRE",
+      "basename": "Aberdeenshire_e04348",
+      "county": "Aberdeenshire",
+      "mapName": "Aberdeenshire",
+      "label": "Aberdeenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-aberdeenshire",
+        "aberdeenshire"
+      ],
+      "title": "What Really Happened in Aberdeenshire's Skies?",
+      "summary": "Aberdeenshire has a long record of reported UFO sightings, but it is not known for one single defining “classic” case on the scale of Scotland’s best-known...",
+      "url": "what-really-happened-in-aberdeenshires/",
+      "image": "assets/images/Aberdeenshire_e04348-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ANGLESEY",
+      "iso": "UK-HC-ANGLESEY",
+      "basename": "Anglesey_35202a",
+      "county": "Anglesey",
+      "mapName": "Anglesey",
+      "label": "Anglesey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-anglesey",
+        "anglesey"
+      ],
+      "title": "What Really Happened in Anglesey's UFO Stories?",
+      "summary": "Anglesey (Ynys Môn) has a small but distinctive place in Welsh UFO history, largely because of its location, its open skies, and its long association with...",
+      "url": "what-really-happened-in-angleseys-ufo/",
+      "image": "assets/images/Anglesey_35202a-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ANGUS",
+      "iso": "UK-HC-ANGUS",
+      "basename": "Angus_34ab6d",
+      "county": "Angus",
+      "mapName": "Angus",
+      "label": "Angus",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-angus",
+        "angus"
+      ],
+      "title": "What Really Happened in Angus UFO Reports?",
+      "summary": "Angus has a modest but interesting UFO history, shaped less by a single famous “mystery case” and more by a pattern of occasional local reports, unusual...",
+      "url": "what-really-happened-in-angus-ufo/",
+      "image": "assets/images/Angus_34ab6d-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ARGYLLSHIRE",
+      "iso": "UK-HC-ARGYLLSHIRE",
+      "basename": "Argyllshire_81dd43",
+      "county": "Argyllshire",
+      "mapName": "Argyllshire",
+      "label": "Argyllshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-argyllshire",
+        "argyllshire"
+      ],
+      "title": "What Really Happened in Argyllshire Skies?",
+      "summary": "Argyllshire has a small but intriguing place in the history of reported UFO phenomena in Britain.",
+      "url": "what-really-happened-in-argyllshire/",
+      "image": "assets/images/Argyllshire_81dd43-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BANFFSHIRE",
+      "iso": "UK-HC-BANFFSHIRE",
+      "basename": "Banffshire_c00f44",
+      "county": "Banffshire",
+      "mapName": "Banffshire",
+      "label": "Banffshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-banffshire",
+        "banffshire"
+      ],
+      "title": "What Really Happened in Banffshire Skies?",
+      "summary": "Banffshire has a relatively small and poorly documented UFO history compared with better-known Scottish areas such as Bonnybridge, but it contains several...",
+      "url": "what-really-happened-in-banffshire-skies/",
+      "image": "assets/images/Banffshire_c00f44-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BERKSHIRE",
+      "iso": "UK-HC-BERKSHIRE",
+      "basename": "Berkshire_fa6d4a",
+      "county": "Berkshire",
+      "mapName": "Berkshire",
+      "label": "Berkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berkshire",
+        "berkshire"
+      ],
+      "title": "What Really Happened in Berkshire's UFO Cases?",
+      "summary": "Berkshire has no single, well-documented UFO incident comparable with the best-known British cases, but it does have a revealing mixture of historical sky...",
+      "url": "what-really-happened-in-berkshires-ufo/",
+      "image": "assets/images/Berkshire_fa6d4a-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERWICKSHIRE",
+      "iso": "UK-HC-BERWICKSHIRE",
+      "basename": "Berwickshire_907858",
+      "county": "Berwickshire",
+      "mapName": "Berwickshire",
+      "label": "Berwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berwickshire",
+        "berwickshire"
+      ],
+      "title": "What Really Happened in Berwickshire's Skies?",
+      "summary": "Berwickshire has a relatively small and lightly documented UFO history compared with better-known Scottish areas such as Bonnybridge, West Lothian or the...",
+      "url": "what-really-happened-in-berwickshires/",
+      "image": "assets/images/Berwickshire_907858-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BUCKINGHAMSHIRE",
+      "iso": "UK-HC-BUCKINGHAMSHIRE",
+      "basename": "Buckinghamshire_40b834",
+      "county": "Buckinghamshire",
+      "mapName": "Buckinghamshire",
+      "label": "Buckinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buckinghamshire",
+        "buckinghamshire"
+      ],
+      "title": "What Really Happened in Buckinghamshire's UFO Cases?",
+      "summary": "Buckinghamshire has a long but fragmented UFO history rather than one defining, nationally famous incident.",
+      "url": "what-really-happened-in-buckinghamshires/",
+      "image": "assets/images/Buckinghamshire_40b834-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BUTESHIRE",
+      "iso": "UK-HC-BUTESHIRE",
+      "basename": "Buteshire_f23202",
+      "county": "Buteshire",
+      "mapName": "Buteshire",
+      "label": "Buteshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buteshire",
+        "buteshire"
+      ],
+      "title": "What Really Happened in Buteshire Skies?",
+      "summary": "Buteshire, the historic county centred on the Isle of Bute and surrounding islands in Scotland’s Firth of Clyde, has a limited documented UFO history...",
+      "url": "what-really-happened-in-buteshire-skies/",
+      "image": "assets/images/Buteshire_f23202-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAERNARFONSHIRE",
+      "iso": "UK-HC-CAERNARFONSHIRE",
+      "basename": "Caernarfonshire_667de6",
+      "county": "Caernarfonshire",
+      "mapName": "Caernarfonshire",
+      "label": "Caernarfonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caernarfonshire",
+        "caernarfonshire"
+      ],
+      "title": "What Really Happened in Caernarfonshire's UFO Stories?",
+      "summary": "Caernarfonshire, the historic county covering much of north-west Wales, has a modest but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-caernarfonshires/",
+      "image": "assets/images/Caernarfonshire_667de6-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CAITHNESS",
+      "iso": "UK-HC-CAITHNESS",
+      "basename": "Caithness_d273a3",
+      "county": "Caithness",
+      "mapName": "Caithness",
+      "label": "Caithness",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caithness",
+        "caithness"
+      ],
+      "title": "What Really Happened in Caithness Skies?",
+      "summary": "Caithness has a modest but distinctive place in UK UFO history, centred less on a single famous “mystery” and more on a series of local reports, newspaper...",
+      "url": "what-really-happened-in-caithness-skies/",
+      "image": "assets/images/Caithness_d273a3-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAMBRIDGESHIRE",
+      "iso": "UK-HC-CAMBRIDGESHIRE",
+      "basename": "Cambridgeshire_f74246",
+      "county": "Cambridgeshire",
+      "mapName": "Cambridgeshire",
+      "label": "Cambridgeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cambridgeshire",
+        "cambridgeshire"
+      ],
+      "title": "What Really Happened in Cambridgeshire's UFO Reports?",
+      "summary": "Cambridgeshire has no single, well-documented “landing” case comparable with the best-known British UFO stories.",
+      "url": "what-really-happened-in/",
+      "image": "assets/images/Cambridgeshire_f74246-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CARDIGANSHIRE",
+      "iso": "UK-HC-CARDIGANSHIRE",
+      "basename": "Cardiganshire_0418d7",
+      "county": "Cardiganshire",
+      "mapName": "Cardiganshire",
+      "label": "Cardiganshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cardiganshire",
+        "cardiganshire"
+      ],
+      "title": "What Really Happened in Cardiganshire Skies?",
+      "summary": "Cardiganshire, the historic Welsh county now largely corresponding to Ceredigion, has a modest but distinctive place in the history of reported UFO sightings...",
+      "url": "what-really-happened-in-cardiganshire/",
+      "image": "assets/images/Cardiganshire_0418d7-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-CHESHIRE",
+      "iso": "UK-HC-CHESHIRE",
+      "basename": "Cheshire_f5f9e8",
+      "county": "Cheshire",
+      "mapName": "Cheshire",
+      "label": "Cheshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cheshire",
+        "cheshire"
+      ],
+      "title": "What Really Happened in Cheshire's UFO Cases?",
+      "summary": "Cheshire has no single UFO incident on the scale of Rendlesham Forest, but it has a long, varied record of strange-light reports, close-encounter claims,...",
+      "url": "what-really-happened-in-cheshires-ufo/",
+      "image": "assets/images/Cheshire_f5f9e8-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CLACKMANNANSHIRE",
+      "iso": "UK-HC-CLACKMANNANSHIRE",
+      "basename": "Clackmannanshire_a9d2bc",
+      "county": "Clackmannanshire",
+      "mapName": "Clackmannanshire",
+      "label": "Clackmannanshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-clackmannanshire",
+        "clackmannanshire"
+      ],
+      "title": "What Really Happened in Clackmannanshire Skies?",
+      "summary": "Clackmannanshire has a small but persistent place in Scotland’s UFO history, although it is not one of the country’s major recognised UFO centres.",
+      "url": "what-really-happened-in-clackmannanshire/",
+      "image": "assets/images/Clackmannanshire_a9d2bc-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ANTRIM",
+      "iso": "UK-HC-COUNTY-ANTRIM",
+      "basename": "County_Antrim_405799",
+      "county": "County Antrim",
+      "mapName": "County Antrim",
+      "label": "County Antrim",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-antrim",
+        "county antrim",
+        "antrim"
+      ],
+      "title": "What Really Happened in County Antrim's Skies?",
+      "summary": "County Antrim has a long record of reported strange lights and unidentified objects, but no single incident stands out as a well-documented British “classic”...",
+      "url": "what-really-happened-in-county-antrims/",
+      "image": "assets/images/County_Antrim_405799-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DURHAM",
+      "iso": "UK-HC-COUNTY-DURHAM",
+      "basename": "County_Durham_9c5285",
+      "county": "County Durham",
+      "mapName": "County Durham",
+      "label": "County Durham",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-durham",
+        "county durham",
+        "durham"
+      ],
+      "title": "What Really Happened in County Durham's Skies?",
+      "summary": "County Durham has a genuine UFO history, but not one dominated by a single, well-documented “classic” comparable with Rendlesham Forest.",
+      "url": "what-really-happened-in-county-durhams/",
+      "image": "assets/images/County_Durham_9c5285-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CUMBERLAND",
+      "iso": "UK-HC-CUMBERLAND",
+      "basename": "Cumberland_f993d3",
+      "county": "Cumberland",
+      "mapName": "Cumberland",
+      "label": "Cumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cumberland",
+        "cumberland"
+      ],
+      "title": "What Really Happened in Cumberland's UFO Cases?",
+      "summary": "Cumberland’s UFO history is dominated by one internationally famous image: the 1964 “Solway Spaceman” photograph taken near Burgh by Sands.",
+      "url": "what-really-happened-in-cumberlands-ufo/",
+      "image": "assets/images/Cumberland_f993d3-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DENBIGHSHIRE",
+      "iso": "UK-HC-DENBIGHSHIRE",
+      "basename": "Denbighshire_fc7d7c",
+      "county": "Denbighshire",
+      "mapName": "Denbighshire",
+      "label": "Denbighshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-denbighshire",
+        "denbighshire"
+      ],
+      "title": "What Really Happened in Denbighshire Skies?",
+      "summary": "Denbighshire has one of the more interesting UFO histories in north Wales, not because of a large number of officially unexplained cases, but because a small...",
+      "url": "what-really-happened-in-denbighshire/",
+      "image": "assets/images/Denbighshire_fc7d7c-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-DERBYSHIRE",
+      "iso": "UK-HC-DERBYSHIRE",
+      "basename": "Derbyshire_ebae69",
+      "county": "Derbyshire",
+      "mapName": "Derbyshire",
+      "label": "Derbyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-derbyshire",
+        "derbyshire"
+      ],
+      "title": "What Really Happened in Derbyshire's UFO Cases?",
+      "summary": "Derbyshire has a substantial UFO folklore, but its history is better understood as a series of very different episodes than as evidence of one continuous...",
+      "url": "what-really-happened-in-derbyshires-ufo/",
+      "image": "assets/images/Derbyshire_ebae69-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DEVON",
+      "iso": "UK-HC-DEVON",
+      "basename": "Devon_a55796",
+      "county": "Devon",
+      "mapName": "Devon",
+      "label": "Devon",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-devon",
+        "devon"
+      ],
+      "title": "What Really Happened in Devon's UFO Cases?",
+      "summary": "Devon’s UFO history is dominated by one unusually well-documented episode: the North Devon sightings of October 1967, especially the report by two police...",
+      "url": "what-really-happened-in-devons-ufo-cases/",
+      "image": "assets/images/Devon_a55796-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DORSET",
+      "iso": "UK-HC-DORSET",
+      "basename": "Dorset_51e44a",
+      "county": "Dorset",
+      "mapName": "Dorset",
+      "label": "Dorset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dorset",
+        "dorset"
+      ],
+      "title": "What Really Happened in Dorset's UFO Skies?",
+      "summary": "Dorset’s UFO history is not dominated by a long sequence of famous encounters.",
+      "url": "what-really-happened-in-dorsets-ufo/",
+      "image": "assets/images/Dorset_51e44a-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DUNBARTONSHIRE",
+      "iso": "UK-HC-DUNBARTONSHIRE",
+      "basename": "Dunbartonshire_abd4f2",
+      "county": "Dunbartonshire",
+      "mapName": "Dunbartonshire",
+      "label": "Dunbartonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dunbartonshire",
+        "dunbartonshire"
+      ],
+      "title": "What Really Happened in Dunbartonshire's UFO Reports?",
+      "summary": "Dunbartonshire has a modest but recognisable place in Scotland’s UFO history, centred less on one internationally famous case and more on a series of local...",
+      "url": "what-really-happened-in-728f91/",
+      "image": "assets/images/Dunbartonshire_abd4f2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ESSEX",
+      "iso": "UK-HC-ESSEX",
+      "basename": "Essex_17957d",
+      "county": "Essex",
+      "mapName": "Essex",
+      "label": "Essex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-essex",
+        "essex"
+      ],
+      "title": "What Really Happened in Essex Skies?",
+      "summary": "Essex has a long record of reported unidentified objects, but no single incident combines strong physical evidence, reliable radar data and independently...",
+      "url": "what-really-happened-in-essex-skies/",
+      "image": "assets/images/Essex_17957d-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FERMANAGH",
+      "iso": "UK-HC-FERMANAGH",
+      "basename": "Fermanagh_69251a",
+      "county": "Fermanagh",
+      "mapName": "Fermanagh",
+      "label": "Fermanagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fermanagh",
+        "fermanagh"
+      ],
+      "title": "What Really Happened in Fermanagh's Skies?",
+      "summary": "Fermanagh has a modest UFO history rather than a famous “flap” or landmark close-encounter case.",
+      "url": "what-really-happened-in-fermanaghs-skies/",
+      "image": "assets/images/Fermanagh_69251a-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-FIFE",
+      "iso": "UK-HC-FIFE",
+      "basename": "Fife_ef689b",
+      "county": "Fife",
+      "mapName": "Fife",
+      "label": "Fife",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fife",
+        "fife"
+      ],
+      "title": "What Really Happened in Fife's UFO Cases?",
+      "summary": "Fife has a small but well-documented place in Scotland’s UFO history, mainly because of its long association with aviation, military activity and a number of...",
+      "url": "what-really-happened-in-fifes-ufo-cases/",
+      "image": "assets/images/Fife_ef689b-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-FLINTSHIRE",
+      "iso": "UK-HC-FLINTSHIRE",
+      "basename": "Flintshire_823310",
+      "county": "Flintshire",
+      "mapName": "Flintshire",
+      "label": "Flintshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-flintshire",
+        "flintshire"
+      ],
+      "title": "What Really Happened in Flintshire's Skies?",
+      "summary": "Flintshire has a modest but distinctive place in Welsh UFO history.",
+      "url": "what-really-happened-in-flintshires/",
+      "image": "assets/images/Flintshire_823310-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-GLOUCESTERSHIRE",
+      "iso": "UK-HC-GLOUCESTERSHIRE",
+      "basename": "Gloucestershire_03cc40",
+      "county": "Gloucestershire",
+      "mapName": "Gloucestershire",
+      "label": "Gloucestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-gloucestershire",
+        "gloucestershire"
+      ],
+      "title": "What Really Happened in Gloucestershire's Skies?",
+      "summary": "Gloucestershire’s UFO history is dominated by one unusually strong case: the 21 October 1952 encounter involving two military pilots from RAF Little Rissington.",
+      "url": "what-really-happened-in-gloucestershires/",
+      "image": "assets/images/Gloucestershire_03cc40-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HAMPSHIRE",
+      "iso": "UK-HC-HAMPSHIRE",
+      "basename": "Hampshire_5816c9",
+      "county": "Hampshire",
+      "mapName": "Hampshire",
+      "label": "Hampshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hampshire",
+        "hampshire"
+      ],
+      "title": "What Really Happened in Hampshire's Skies?",
+      "summary": "Hampshire’s UFO history is less a story of one celebrated “landing” than of repeated encounters between unusual reports and an unusually busy aerospace...",
+      "url": "what-really-happened-in-hampshires-skies/",
+      "image": "assets/images/Hampshire_5816c9-photo1.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HEREFORDSHIRE",
+      "iso": "UK-HC-HEREFORDSHIRE",
+      "basename": "Herefordshire_be57fe",
+      "county": "Herefordshire",
+      "mapName": "Herefordshire",
+      "label": "Herefordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-herefordshire",
+        "herefordshire"
+      ],
+      "title": "What Really Happened in Herefordshire's UFO Skies?",
+      "summary": "Herefordshire has a genuine UFO record, but not a single landmark incident comparable with Rendlesham Forest or the Welsh “Broad Haven Triangle”.",
+      "url": "what-really-happened-in-herefordshires/",
+      "image": "assets/images/Herefordshire_be57fe-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-INVERNESS-SHIRE",
+      "iso": "UK-HC-INVERNESS-SHIRE",
+      "basename": "Inverness-shire_f61896",
+      "county": "Inverness-shire",
+      "mapName": "Inverness-shire",
+      "label": "Inverness-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-inverness-shire",
+        "inverness shire"
+      ],
+      "title": "What Really Happened In Inverness shire Skies?",
+      "summary": "Inverness-shire has a modest but distinctive place in the history of reported UFO sightings in Scotland.",
+      "url": "what-really-happened-in-inverness-shire/",
+      "image": "assets/images/Inverness-shire_f61896-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINROSS-SHIRE",
+      "iso": "UK-HC-KINROSS-SHIRE",
+      "basename": "Kinross-shire_c6236f",
+      "county": "Kinross-shire",
+      "mapName": "Kinross-shire",
+      "label": "Kinross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kinross-shire",
+        "kinross shire"
+      ],
+      "title": "What Really Happened in Kinross shire Skies?",
+      "summary": "Kinross-shire has a relatively small but significant place in Scotland’s UFO history, mainly because of its connection to the wider Perth and Kinross area...",
+      "url": "what-really-happened-in-kinross-shire/",
+      "image": "assets/images/Kinross-shire_c6236f-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "iso": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "basename": "Kirkcudbrightshire_97fbf2",
+      "county": "Kirkcudbrightshire",
+      "mapName": "Kirkcudbrightshire",
+      "label": "Kirkcudbrightshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kirkcudbrightshire",
+        "kirkcudbrightshire"
+      ],
+      "title": "What Really Happened in Kirkcudbrightshire's UFO Cases?",
+      "summary": "Kirkcudbrightshire has one particularly notable place in British UFO history: the Galloway village of Balmaclellan, where a 1955 “flying saucer” report...",
+      "url": "what-really-happened-in-37fddb/",
+      "image": "assets/images/Kirkcudbrightshire_97fbf2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANARKSHIRE",
+      "iso": "UK-HC-LANARKSHIRE",
+      "basename": "Lanarkshire_60db75",
+      "county": "Lanarkshire",
+      "mapName": "Lanarkshire",
+      "label": "Lanarkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lanarkshire",
+        "lanarkshire"
+      ],
+      "title": "What Really Happened in Lanarkshire's UFO Skies?",
+      "summary": "Lanarkshire has a place in Scotland’s UFO history, but it is not because of one universally recognised “classic” case comparable with West Lothian’s Dechmont...",
+      "url": "what-really-happened-in-lanarkshires-ufo/",
+      "image": "assets/images/Lanarkshire_60db75-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LEICESTERSHIRE",
+      "iso": "UK-HC-LEICESTERSHIRE",
+      "basename": "Leicestershire_f2eb49",
+      "county": "Leicestershire",
+      "mapName": "Leicestershire",
+      "label": "Leicestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-leicestershire",
+        "leicestershire"
+      ],
+      "title": "What Really Happened in Leicestershire Skies?",
+      "summary": "Leicestershire has a long record of UFO reports, but it is not known for a single nationally famous “close encounter” comparable with cases such as...",
+      "url": "what-really-happened-in-leicestershire/",
+      "image": "assets/images/Leicestershire_f2eb49-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MERIONETHSHIRE",
+      "iso": "UK-HC-MERIONETHSHIRE",
+      "basename": "Merionethshire_8af4e7",
+      "county": "Merionethshire",
+      "mapName": "Merionethshire",
+      "label": "Merionethshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-merionethshire",
+        "merionethshire"
+      ],
+      "title": "What Really Happened in Merionethshire Skies?",
+      "summary": "Merionethshire, the historic county of north-west Wales, is best known in UFO history for one dramatic event: the Berwyn Mountains incident of 23 January...",
+      "url": "what-really-happened-in-merionethshire/",
+      "image": "assets/images/Merionethshire_8af4e7-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MIDDLESEX",
+      "iso": "UK-HC-MIDDLESEX",
+      "basename": "Middlesex_8498da",
+      "county": "Middlesex",
+      "mapName": "Middlesex",
+      "label": "Middlesex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-middlesex",
+        "middlesex"
+      ],
+      "title": "What Really Happened in Middlesex Skies?",
+      "summary": "Middlesex has a long association with reports of unidentified flying objects, but the county’s UFO history is better understood as a record of unusual...",
+      "url": "what-really-happened-in-middlesex-skies/",
+      "image": "assets/images/Middlesex_8498da-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MIDLOTHIAN",
+      "iso": "UK-HC-MIDLOTHIAN",
+      "basename": "Midlothian_ff4e39",
+      "county": "Midlothian",
+      "mapName": "Midlothian",
+      "label": "Midlothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-midlothian",
+        "midlothian"
+      ],
+      "title": "What Really Happened in Midlothian's Skies?",
+      "summary": "Midlothian has a smaller and less documented UFO history than some Scottish areas, but it is not absent from the record.",
+      "url": "what-really-happened-in-midlothians/",
+      "image": "assets/images/Midlothian_ff4e39-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MORAYSHIRE",
+      "iso": "UK-HC-MORAYSHIRE",
+      "basename": "Morayshire_6abd28",
+      "county": "Morayshire",
+      "mapName": "Morayshire",
+      "label": "Morayshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-morayshire",
+        "morayshire"
+      ],
+      "title": "What Really Happened in Morayshire Skies?",
+      "summary": "Morayshire has a modest but interesting place in Scottish UFO history, shaped less by a single famous “mystery craft” and more by the area’s long association...",
+      "url": "what-really-happened-in-morayshire-skies/",
+      "image": "assets/images/Morayshire_6abd28-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-NORTHAMPTONSHIRE",
+      "iso": "UK-HC-NORTHAMPTONSHIRE",
+      "basename": "Northamptonshire_ad0dee",
+      "county": "Northamptonshire",
+      "mapName": "Northamptonshire",
+      "label": "Northamptonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northamptonshire",
+        "northamptonshire"
+      ],
+      "title": "What Really Happened in Northamptonshire's UFO Stories?",
+      "summary": "Northamptonshire has a long-running but relatively low-profile UFO history, centred less on large-scale “flap” events and more on a small number of memorable...",
+      "url": "what-really-happened-in-86c9dc/",
+      "image": "assets/images/Northamptonshire_ad0dee-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NOTTINGHAMSHIRE",
+      "iso": "UK-HC-NOTTINGHAMSHIRE",
+      "basename": "Nottinghamshire_a5a895",
+      "county": "Nottinghamshire",
+      "mapName": "Nottinghamshire",
+      "label": "Nottinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nottinghamshire",
+        "nottinghamshire"
+      ],
+      "title": "What Really Happened in Nottinghamshire Skies?",
+      "summary": "Nottinghamshire has a long but relatively low-profile history of UFO reports, centred less on a single famous “mystery” and more on repeated local sightings,...",
+      "url": "what-really-happened-in-nottinghamshire/",
+      "image": "assets/images/Nottinghamshire_a5a895-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ORKNEY",
+      "iso": "UK-HC-ORKNEY",
+      "basename": "Orkney_9ae683",
+      "county": "Orkney",
+      "mapName": "Orkney",
+      "label": "Orkney",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-orkney",
+        "orkney"
+      ],
+      "title": "What Really Happened in Orkney Skies?",
+      "summary": "Orkney has a long association with unusual sky reports, but it is not one of the best-documented UFO hotspots in the UK.",
+      "url": "what-really-happened-in-orkney-skies/",
+      "image": "assets/images/Orkney_9ae683-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-OXFORDSHIRE",
+      "iso": "UK-HC-OXFORDSHIRE",
+      "basename": "Oxfordshire_491609",
+      "county": "Oxfordshire",
+      "mapName": "Oxfordshire",
+      "label": "Oxfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-oxfordshire",
+        "oxfordshire"
+      ],
+      "title": "What Really Happened in Oxfordshire's Skies?",
+      "summary": "Oxfordshire has a long but relatively low-profile UFO history compared with better-known British locations such as Rendlesham Forest in Suffolk or Warminster...",
+      "url": "what-really-happened-in-oxfordshires/",
+      "image": "assets/images/Oxfordshire_491609-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEMBROKESHIRE",
+      "iso": "UK-HC-PEMBROKESHIRE",
+      "basename": "Pembrokeshire_b220ff",
+      "county": "Pembrokeshire",
+      "mapName": "Pembrokeshire",
+      "label": "Pembrokeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-pembrokeshire",
+        "pembrokeshire"
+      ],
+      "title": "What Really Happened in Pembrokeshire's Welsh Triangle?",
+      "summary": "Pembrokeshire’s UFO history is dominated by the extraordinary wave of reports that began around Broad Haven in 1977.",
+      "url": "what-really-happened-in-pembrokeshires/",
+      "image": "assets/images/Pembrokeshire_b220ff-overview.webp",
+      "pageCount": 5,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-PERTHSHIRE",
+      "iso": "UK-HC-PERTHSHIRE",
+      "basename": "Perthshire_258bcb",
+      "county": "Perthshire",
+      "mapName": "Perthshire",
+      "label": "Perthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-perthshire",
+        "perthshire"
+      ],
+      "title": "What Really Happened in Perthshire's UFO Cases?",
+      "summary": "Perthshire has one of the most recognisable UFO cases in Scottish history: the Calvine incident of August 1990, in which two walkers reported seeing and...",
+      "url": "what-really-happened-in-perthshires-ufo/",
+      "image": "assets/images/Perthshire_258bcb-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-RENFREWSHIRE",
+      "iso": "UK-HC-RENFREWSHIRE",
+      "basename": "Renfrewshire_6a148e",
+      "county": "Renfrewshire",
+      "mapName": "Renfrewshire",
+      "label": "Renfrewshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-renfrewshire",
+        "renfrewshire"
+      ],
+      "title": "What Really Happened in Renfrewshire Skies?",
+      "summary": "Renfrewshire has a small but interesting place in Scotland’s UFO history.",
+      "url": "what-really-happened-in-renfrewshire/",
+      "image": "assets/images/Renfrewshire_6a148e-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROXBURGHSHIRE",
+      "iso": "UK-HC-ROXBURGHSHIRE",
+      "basename": "Roxburghshire_8333b2",
+      "county": "Roxburghshire",
+      "mapName": "Roxburghshire",
+      "label": "Roxburghshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-roxburghshire",
+        "roxburghshire"
+      ],
+      "title": "What Really Happened in Roxburghshire Skies?",
+      "summary": "Roxburghshire, the historic Scottish county covering the Borders towns and countryside around places such as Kelso, Hawick, Jedburgh and Roxburgh, does not...",
+      "url": "what-really-happened-in-roxburghshire/",
+      "image": "assets/images/Roxburghshire_8333b2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-RUTLAND",
+      "iso": "UK-HC-RUTLAND",
+      "basename": "Rutland_424243",
+      "county": "Rutland",
+      "mapName": "Rutland",
+      "label": "Rutland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-rutland",
+        "rutland"
+      ],
+      "title": "What Really Happened in Rutland Skies?",
+      "summary": "Rutland has a small but distinctive place in the history of reported UFO sightings in England.",
+      "url": "what-really-happened-in-rutland-skies/",
+      "image": "assets/images/Rutland_424243-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SHETLAND",
+      "iso": "UK-HC-SHETLAND",
+      "basename": "Shetland_ce055c",
+      "county": "Shetland",
+      "mapName": "Shetland",
+      "label": "Shetland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shetland",
+        "shetland"
+      ],
+      "title": "What Really Happened in Shetland's Skies?",
+      "summary": "Shetland has a small but distinctive place in UK UFO history.",
+      "url": "what-really-happened-in-shetlands-skies/",
+      "image": "assets/images/Shetland_ce055c-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SHROPSHIRE",
+      "iso": "UK-HC-SHROPSHIRE",
+      "basename": "Shropshire_83e582",
+      "county": "Shropshire",
+      "mapName": "Shropshire",
+      "label": "Shropshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shropshire",
+        "shropshire"
+      ],
+      "title": "What Really Happened in Shropshire's Skies?",
+      "summary": "Shropshire has a long-running reputation among UFO researchers as one of England’s more active counties for reported unusual aerial sightings, with clusters...",
+      "url": "what-really-happened-in-shropshires/",
+      "image": "assets/images/Shropshire_83e582-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SOMERSET",
+      "iso": "UK-HC-SOMERSET",
+      "basename": "Somerset_24710f",
+      "county": "Somerset",
+      "mapName": "Somerset",
+      "label": "Somerset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-somerset",
+        "somerset"
+      ],
+      "title": "What Really Happened in Somerset's Skies?",
+      "summary": "Somerset has a long but relatively modest UFO history compared with better-known British hotspots such as Wiltshire’s Warminster or Suffolk’s Rendlesham Forest.",
+      "url": "what-really-happened-in-somersets-skies/",
+      "image": "assets/images/Somerset_24710f-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STAFFORDSHIRE",
+      "iso": "UK-HC-STAFFORDSHIRE",
+      "basename": "Staffordshire_e11f30",
+      "county": "Staffordshire",
+      "mapName": "Staffordshire",
+      "label": "Staffordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-staffordshire",
+        "staffordshire"
+      ],
+      "title": "What Really Happened in Staffordshire Skies?",
+      "summary": "Staffordshire has a small but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-staffordshire/",
+      "image": "assets/images/Staffordshire_e11f30-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STIRLINGSHIRE",
+      "iso": "UK-HC-STIRLINGSHIRE",
+      "basename": "Stirlingshire_47078a",
+      "county": "Stirlingshire",
+      "mapName": "Stirlingshire",
+      "label": "Stirlingshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-stirlingshire",
+        "stirlingshire"
+      ],
+      "title": "What Really Happened in Stirlingshire's UFO Hotspot?",
+      "summary": "Stirlingshire has one of the best-known UFO reputations in Scotland, largely because of the Bonnybridge and wider Falkirk Triangle wave of reports that...",
+      "url": "what-really-happened-in-stirlingshires/",
+      "image": "assets/images/Stirlingshire_47078a-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SURREY",
+      "iso": "UK-HC-SURREY",
+      "basename": "Surrey_aeac76",
+      "county": "Surrey",
+      "mapName": "Surrey",
+      "label": "Surrey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-surrey",
+        "surrey"
+      ],
+      "title": "What Really Happened in Surrey's UFO Cases?",
+      "summary": "Surrey has a long but relatively low-profile UFO history, shaped less by one universally recognised “classic” case and more by a steady record of local...",
+      "url": "what-really-happened-in-surreys-ufo/",
+      "image": "assets/images/Surrey_aeac76-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUSSEX",
+      "iso": "UK-HC-SUSSEX",
+      "basename": "Sussex_0f32ec",
+      "county": "Sussex",
+      "mapName": "Sussex",
+      "label": "Sussex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sussex",
+        "east sussex",
+        "west sussex",
+        "sussex"
+      ],
+      "title": "What Really Happened in Sussex Skies?",
+      "summary": "Sussex has one of the better-known local UFO traditions in southern England, although the strongest evidence is usually for unusual sightings rather than...",
+      "url": "what-really-happened-in-sussex-skies/",
+      "image": "assets/images/Sussex_0f32ec-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUTHERLAND",
+      "iso": "UK-HC-SUTHERLAND",
+      "basename": "Sutherland_6dbe51",
+      "county": "Sutherland",
+      "mapName": "Sutherland",
+      "label": "Sutherland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sutherland",
+        "sutherland"
+      ],
+      "title": "What Really Happened in Sutherland's Skies?",
+      "summary": "Sutherland, the historic county in the far north of Scotland, has a small but distinctive place in British UFO history.",
+      "url": "what-really-happened-in-sutherlands/",
+      "image": "assets/images/Sutherland_6dbe51-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-TYRONE",
+      "iso": "UK-HC-TYRONE",
+      "basename": "Tyrone_619a59",
+      "county": "Tyrone",
+      "mapName": "Tyrone",
+      "label": "Tyrone",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-tyrone",
+        "tyrone"
+      ],
+      "title": "What Really Happened in Tyrone's UFO Reports?",
+      "summary": "County Tyrone has no single UFO incident comparable with Britain’s best-known cases, and the surviving evidence is patchy.",
+      "url": "what-really-happened-in-tyrones-ufo/",
+      "image": "assets/images/Tyrone_619a59-overview.webp",
+      "pageCount": 5,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-WARWICKSHIRE",
+      "iso": "UK-HC-WARWICKSHIRE",
+      "basename": "Warwickshire_17be07",
+      "county": "Warwickshire",
+      "mapName": "Warwickshire",
+      "label": "Warwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-warwickshire",
+        "warwickshire"
+      ],
+      "title": "What Really Happened in Warwickshire's Skies?",
+      "summary": "Warwickshire has a long but uneven record of UFO reports, with most cases involving lights, unusual shapes, or distant objects rather than close encounters...",
+      "url": "what-really-happened-in-warwickshires/",
+      "image": "assets/images/Warwickshire_17be07-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-WEST-LOTHIAN",
+      "iso": "UK-HC-WEST-LOTHIAN",
+      "basename": "West_Lothian_1c9504",
+      "county": "West Lothian",
+      "mapName": "West Lothian",
+      "label": "West Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-west-lothian",
+        "west lothian"
+      ],
+      "title": "What Really Happened in West Lothian Skies?",
+      "summary": "West Lothian is best known in UFO history for one extraordinary case: the Dechmont Woods encounter near Livingston on 9 November 1979.",
+      "url": "what-really-happened-in-west-lothian/",
+      "image": "assets/images/West_Lothian_1c9504-photo1.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WIGTOWNSHIRE",
+      "iso": "UK-HC-WIGTOWNSHIRE",
+      "basename": "Wigtownshire_1186ed",
+      "county": "Wigtownshire",
+      "mapName": "Wigtownshire",
+      "label": "Wigtownshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wigtownshire",
+        "wigtownshire"
+      ],
+      "title": "What Really Happened in Wigtownshire Skies?",
+      "summary": "Wigtownshire, the historic county in south-west Scotland now largely within Dumfries and Galloway, has one of the strongest military-linked UFO stories in...",
+      "url": "what-really-happened-in-wigtownshire/",
+      "image": "assets/images/Wigtownshire_1186ed-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WORCESTERSHIRE",
+      "iso": "UK-HC-WORCESTERSHIRE",
+      "basename": "Worcestershire_9671d5",
+      "county": "Worcestershire",
+      "mapName": "Worcestershire",
+      "label": "Worcestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-worcestershire",
+        "worcestershire"
+      ],
+      "title": "What Really Happened in Worcestershire Skies?",
+      "summary": "Worcestershire has a long association with reports of unusual objects in the sky, but it is not one of Britain’s best-documented “UFO hotspot” counties.",
+      "url": "what-really-happened-in-worcestershire/",
+      "image": "assets/images/Worcestershire_9671d5-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CORNWALL",
+      "iso": "UK-HC-CORNWALL",
+      "basename": "Cornwall_4c96d0",
+      "county": "Cornwall",
+      "mapName": "Cornwall",
+      "label": "Cornwall",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cornwall",
+        "cornwall"
+      ],
+      "title": "What Really Lies Behind Cornwall's UFO Reports?",
+      "summary": "Cornwall has a long trail of reported UFO sightings, but no single incident has achieved the evidential weight or national prominence of Britain’s best-known...",
+      "url": "what-really-lies-behind-cornwalls-ufo/",
+      "image": "assets/images/Cornwall_4c96d0-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CROMARTYSHIRE",
+      "iso": "UK-HC-CROMARTYSHIRE",
+      "basename": "Cromartyshire_1a46f2",
+      "county": "Cromartyshire",
+      "mapName": "Cromartyshire",
+      "label": "Cromartyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cromartyshire",
+        "cromartyshire"
+      ],
+      "title": "What Really Lies Behind Cromartyshire UFO Reports?",
+      "summary": "Cromartyshire has a small but interesting place in the wider history of reported UFO phenomena in Scotland, although it is not known for a large,...",
+      "url": "what-really-lies-behind-cromartyshire/",
+      "image": "assets/images/Cromartyshire_1a46f2-overview.webp",
+      "pageCount": 5,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WILTSHIRE",
+      "iso": "UK-HC-WILTSHIRE",
+      "basename": "Wiltshire_7b9f94",
+      "county": "Wiltshire",
+      "mapName": "Wiltshire",
+      "label": "Wiltshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wiltshire",
+        "wiltshire"
+      ],
+      "title": "Wiltshire UFO Stories: Claims, Cases And Evidence",
+      "summary": "Wiltshire has one of the most recognisable UFO histories in the United Kingdom, largely because of the Warminster “Thing” flap of the 1960s, later reports...",
+      "url": "wiltshire-ufo-stories-claims-cases-and/",
+      "image": "assets/images/Wiltshire_7b9f94-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-YORKSHIRE",
+      "iso": "UK-HC-YORKSHIRE",
+      "basename": "Yorkshire_f09525",
+      "county": "Yorkshire",
+      "mapName": "Yorkshire",
+      "label": "Yorkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "east riding of yorkshire",
+        "north yorkshire",
+        "south yorkshire",
+        "uk-hc-yorkshire",
+        "west yorkshire",
+        "yorkshire"
+      ],
+      "title": "Yorkshire UFO Stories Between Mystery And Evidence",
+      "summary": "Yorkshire has one of the richer UFO traditions in Britain, not because it contains a single proven extraordinary event, but because it combines several...",
+      "url": "yorkshire-ufo-stories-between-mystery/",
+      "image": "assets/images/Yorkshire_f09525-overview.webp",
+      "pageCount": 5,
+      "region": "England"
+    }
+  ],
+  "matchedCount": 92,
+  "totalTopTopics": 92,
+  "source": "Generated from Stage 3 historic UK county collection pages; adapted from the Wikimedia Commons/Wikishire historic-counties SVG. Republic of Ireland counties remain visible but are intentionally muted and not linked.",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Isles_map_showing_UK,_Republic_of_Ireland,_and_historic_counties.svg",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Wikishire; Wikimedia Commons file by Visitor from Wikishire. Adapted for interactive UK county links."
+}

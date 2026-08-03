@@ -1,0 +1,1023 @@
+---
+level: 2
+basename: Derbyshire_ebae69_howden_moor_crash_sc_3a77c4
+parent_basename: Derbyshire_ebae69
+child_basenames: []
+sibling_basenames:
+- Derbyshire_ebae69_glossop_police_venus_3744cf
+- Derbyshire_ebae69_peak_district_1993_l_33c6cc
+- Derbyshire_ebae69_peak_district_sighti_6a5de2
+tags:
+- derbyshire
+- howden-moor
+keywords:
+- derbyshire
+- howden-moor
+affiliate_category: derbyshire
+show_ads: true
+description: Reports of lights, booms and low aircraft triggered a major search, but no wreckage or unexplained radar target was found.
+hero_summary: Reports of lights, booms and low aircraft triggered a major search, but no wreckage or unexplained radar target was found.
+layout: default
+permalink: /howden-moor/
+sidebar_expanded_urls:
+- /what-really-happened-in-derbyshires-ufo/
+nav_short_title: Howden Moor
+title: Did Anything Crash on Howden Moor?
+title_full: Did Anything Crash on Howden Moor? | Derbyshire UFOs
+display_title_short: Howden Moor
+display_title: Howden Moor
+heading_title: Did Anything Crash on Howden Moor?
+page_heading_title: Did Anything Crash on Howden Moor?
+source_count: 102
+infographic_count: 3
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: constellation
+site_typography_tone: editorial
+planned_sections:
+- The reports that triggered the search
+- Aircraft, helicopters and Hale Bopp
+- Why the crash story endured
+focal_unit_type: event_time_window
+topic_lens: historical_comparative
+topic_granularity: pillar
+search_intent: informational
+content_role: branch_hub
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-23 03:45:35'
+parent_title: Derbyshire UFOs
+parent_permalink: /what-really-happened-in-derbyshires-ufo/
+parent_nav_short_title: Derbyshire UFOs
+parent_heading_title: What Really Happened in Derbyshire's UFO Cases?
+ancestor_links:
+- basename: Derbyshire_ebae69
+  title: Derbyshire UFOs
+  permalink: /what-really-happened-in-derbyshires-ufo/
+  short_title: Derbyshire UFOs
+breadcrumb_links:
+- basename: Derbyshire_ebae69
+  title: Derbyshire UFOs
+  permalink: /what-really-happened-in-derbyshires-ufo/
+  short_title: Derbyshire UFOs
+sibling_links:
+- basename: Derbyshire_ebae69_peak_district_1993_l_33c6cc
+  title: 1993 Lights | What Really Happened in Derbyshire's UFO...
+  permalink: /1993-lights/
+  short_title: 1993 Lights
+  heading_title: What Crossed the Peak District in 1993?
+- basename: Derbyshire_ebae69_glossop_police_venus_3744cf
+  title: Glossop 1967 | What Really Happened in Derbyshire's UFO...
+  permalink: /glossop-1967/
+  short_title: Glossop 1967
+  heading_title: Did Police Mistake Venus for a UFO?
+- basename: Derbyshire_ebae69_peak_district_sighti_6a5de2
+  title: Why Sightings Happen | What Really Happened in Derbyshire's UFO...
+  permalink: /why-sightings-happen/
+  short_title: Why Sightings Happen
+  heading_title: Why Do Peak District Lights Look So Strange?
+up_link:
+  basename: Derbyshire_ebae69
+  title: Derbyshire UFOs
+  permalink: /what-really-happened-in-derbyshires-ufo/
+  short_title: Derbyshire UFOs
+has_inline_related_reports_panel: true
+prev_link:
+  basename: Derbyshire_ebae69_glossop_police_venus_3744cf
+  title: Glossop 1967 | What Really Happened in Derbyshire's UFO...
+  permalink: /glossop-1967/
+  short_title: Glossop 1967
+  heading_title: Did Police Mistake Venus for a UFO?
+next_link:
+  basename: Derbyshire_ebae69_peak_district_sighti_6a5de2
+  title: Why Sightings Happen | What Really Happened in Derbyshire's UFO...
+  permalink: /why-sightings-happen/
+  short_title: Why Sightings Happen
+  heading_title: Why Do Peak District Lights Look So Strange?
+header:
+  og_image: /assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-overview-social.jpg
+  preview_image: /assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-overview.webp
+share_hook: Reports of lights, booms and low aircraft triggered a major search, but no wreckage or unexplained radar target was found.
+image: /assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-overview-social.jpg
+---
+
+## Introduction
+
+Nothing was found to have crashed on Howden Moor on the night of 24–25 March 1997. The emergency was real: witnesses reported a low-flying aircraft, flashes, explosive sounds and an apparent descent towards the moors, prompting police, firefighters, mountain rescuers, search dogs and an RAF Sea King helicopter to mount an extensive operation. Yet searches produced no wreckage, casualties, impact site or missing aircraft. A later Ministry of Defence review confirmed that the Sea King searched twice and found nothing, while officials could find no record of Tornado fighters being scrambled to intercept an unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-overview.webp" | relative_url }}" alt="Overview image for Howden Moor" loading="eager" decoding="sync" fetchpriority="high">
+
+The case nevertheless became one of [Derbyshire]({{ 'what-really-happened-in-derbyshires-ufo/' | relative_url }})’s most elaborate UFO legends. Its durability comes from a genuine collision of confusing events: aircraft were seen at unusually low level, loud atmospheric or sonic disturbances were recorded, Comet Hale-Bopp was prominent in the sky, and official answers did not identify every aircraft or noise. The strongest conclusion is therefore narrower than either a crash story or a complete debunking: the search was triggered by credible reports of unusual aviation activity, but there is no verified evidence that any aircraft—conventional or otherwise—came down on the moors.
+
+## The reports that triggered the search
+
+The incident unfolded over the Dark Peak between Sheffield and the high moorland around the Howden, Midhope and Strines reservoirs. Although commonly described as a Derbyshire case, much of the initial reporting and emergency response lay across the modern South Yorkshire boundary. Howden Moor itself is within the historic county of Derbyshire, while places central to the search—including Bolsterstone, Stocksbridge and parts of the reservoir country—are now administered from South Yorkshire. That cross-boundary geography helps explain why accounts name several police areas, rescue teams and operational bases.
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/why-sightings-happen/' | relative_url }}"><span class="article-branch-link-short">Why Sightings Happen</span><span class="article-branch-link-heading">Why Do Peak District Lights Look So Strange?</span></a></li>
+<li><a href="{{ '/glossop-1967/' | relative_url }}"><span class="article-branch-link-short">Glossop 1967</span><span class="article-branch-link-heading">Did Police Mistake Venus for a UFO?</span></a></li>
+<li><a href="{{ '/1993-lights/' | relative_url }}"><span class="article-branch-link-short">1993 Lights</span><span class="article-branch-link-heading">What Crossed the Peak District in 1993?</span></a></li>
+<li><a href="{{ '/what-really-happened-in-derbyshires-ufo/' | relative_url }}"><span class="article-branch-link-short">What Really Happened in Derbyshire&#x27;s UFO...</span><span class="article-branch-link-heading">What Really Happened in Derbyshire&#x27;s UFO Cases?</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+The decisive reports arrived shortly after 10 pm on Monday 24 March. Witnesses near Bolsterstone described a low-flying aircraft travelling towards the moors, followed by a flash or orange glow. Other callers reported an explosion or believed that an aircraft had descended behind the ridgeline. From the witnesses’ positions, the aircraft’s disappearance behind dark, uneven ground could reasonably have looked like the final moments of a crash.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd16.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-title">UK UFOcase histories howden moor incidentoperation had been officially completed</span><span class="citation-popover-snippet">Many more aircraft were involved in this exercise than has been officially admitted, as is clear from the 13 low-flying complaints lodged...</span></span></span>
+
+Police treated the reports as a possible air accident rather than as a UFO investigation. That distinction matters. Emergency services did not need proof that an aircraft was missing before responding: multiple reports of a low aeroplane, a flash and a loud bang in remote terrain created a credible risk that survivors might be exposed overnight. A police helicopter began searching, fire crews assembled near the Strines area, and the RAF dispatched a Sea King search-and-rescue helicopter from E Flight, 202 Squadron. Ministry of Defence records place the first Sea King search between 11.25 pm and 2.55 am.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+Ground teams were then expanded for daylight searching on 25 March. Contemporary investigative accounts describe more than a hundred mountain-rescue volunteers and search-dog personnel being called into an operation covering broad stretches of moorland rather than one confirmed impact point. The scale is sometimes presented as proof that authorities knew something had crashed. In reality, it reflects the opposite problem: rescuers had reports from different viewpoints but no dependable location, beacon, wreckage trail or radar-derived coordinates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd15.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-snippet">“The Dangerous Flying Zone was standard procedure; it was placed because of all the helicopters th...</span></span></span>
+
+An RAF-controlled temporary flying restriction was established around the search area so that helicopters could operate without interference. Later UFO stories portrayed this as a secretive exclusion zone around recovered wreckage. Accounts from those involved describe it instead as normal air-safety management during a large helicopter search, particularly in airspace affected by traffic approaching Manchester. The restriction therefore confirms the seriousness of the rescue response, not the existence of a hidden crash site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd15.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-snippet">“The Dangerous Flying Zone was standard procedure; it was placed because of all the helicopters th...</span></span></span>
+
+The RAF Sea King returned for a second search between 8.15 am and 12.10 pm. By the afternoon, after aerial and ground searches had found no debris, fire, fuel, damaged vegetation or survivors, the operation was called off. The Ministry of Defence’s surviving summary is unequivocal on the practical result: “Nothing was found.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-1-dark.svg" | relative_url }}" alt="Howden Moor illustration 1" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## What the search did—and did not—establish
+
+The absence of wreckage is the central fact of the case. A substantial aircraft impact on open moorland would ordinarily be expected to leave some combination of debris, scorched ground, broken vegetation, fuel contamination, emergency transmissions or an aircraft reported overdue. None was identified. Manchester-area air-traffic checks reportedly found no aircraft missing from radar or unaccounted for, and search organisers lacked any firm evidence of a crash beyond the witness interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd15.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-snippet">“The Dangerous Flying Zone was standard procedure; it was placed because of all the helicopters th...</span></span></span>
+
+This does not mean that witnesses imagined everything. Several strands of the night’s activity appear to have been real:
+
+* **At least one low-flying aircraft was seen.** Accounts differ over its size, lighting and direction, but the reports were consistent enough to create a genuine crash alarm.
+* **Military aircraft were active over northern England that evening.** The Ministry of Defence later acknowledged a low-flying exercise, although it maintained that the exercise had ended before the principal crash reports.
+* **Loud explosive sounds occurred.** Seismic instruments recorded disturbances at about 9.52 pm and 10.06 pm. The sounds were widely described as sonic booms, although the identity of any aircraft responsible was not established publicly.
+* **Other lights were being reported in the region.** Some were described as triangular arrangements or orange lights, but witness descriptions were not uniform and were made from different locations and times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd16.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-title">UK UFOcase histories howden moor incidentoperation had been officially completed</span><span class="citation-popover-snippet">Many more aircraft were involved in this exercise than has been officially admitted, as is clear from the 13 low-flying complaints lodged...</span></span></span>
+
+Those components do not automatically belong to one sequence. A major weakness in the dramatic crash narrative is its tendency to combine every light, aircraft, boom and helicopter into a single pursuit ending in an impact. The evidence allows a less spectacular reconstruction: observers saw one or more military or civilian aircraft; loud sounds reinforced the impression that something was in trouble; an aircraft disappeared behind the moorland skyline; and emergency services acted on the possibility of a crash.
+
+The official Ministry of Defence UFO list for 1997 adds an important complication. It records a triangular green-yellow object with pulsing lights near Edale on 5 March, but it does not list a corresponding Howden Moor UFO report for 24 March. The omission does not prove that no unusual lights were seen—the principal calls went to police as a possible air accident—but it shows that the later “UFO crash” label was not simply copied from a contemporary national UFO log.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/16862/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W8PPY7LKGfY" title="Peak District Walk - Langsett to Crow Stones I Howden Moor Plane Crash site" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W8PPY7LKGfY" target="_blank" rel="noopener noreferrer">Peak District Walk - Langsett to Crow Stones I Howden Moor Plane Crash site</a></p><p class="youtube-embed-meta">Channel: Anthony Johnson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W8PPY7LKGfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W8PPY7LKGfY">Open on YouTube</a></p></div></div></div>
+
+## Aircraft, helicopters and Hale-Bopp
+
+### Were Tornados chasing an unknown object?
+
+The most dramatic version of the story claims that RAF Tornados were scrambled from RAF Coningsby to chase a triangular UFO and that either the UFO or one of the fighters crashed near Howden Reservoir. No official record located so far supports that sequence.
+
+The Ministry of Defence acknowledged that military low-flying activity took place over northern England on 24 March. Investigators also collected reports of jet aircraft crossing the Peak District during the relevant evening. This provided fertile ground for the interception theory, particularly because witnesses and officials disagreed about exactly when military activity had finished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd16.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-title">UK UFOcase histories howden moor incidentoperation had been officially completed</span><span class="citation-popover-snippet">Many more aircraft were involved in this exercise than has been officially admitted, as is clear from the 13 low-flying complaints lodged...</span></span></span>
+
+However, the later official search of RAF records found no record of Tornado aircraft being scrambled to intercept an unidentified aircraft on 24 or 25 March. The same response confirmed the Sea King rescue flights but did not identify any crashed or missing military aeroplane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+That leaves open the possibility that witnesses saw Tornados or other military aircraft already engaged in training. It does not support the stronger claim that fighters were launched in response to a UFO. “Aircraft were present” and “aircraft were pursuing an unknown craft” are not equivalent propositions.
+
+The sonic disturbances remain the most awkward unresolved element. An investigative reconstruction linked two seismic events, at approximately 9.52 pm and 10.06 pm, with aircraft exceeding the speed of sound. The Ministry of Defence said it had no record of RAF or NATO aircraft causing sonic booms in the area. That mismatch has often been interpreted as evidence of concealment. It may instead reflect incomplete logs, incorrect witness timing, aircraft belonging to another operation, or uncertainty over the precise source of the recorded disturbances. Whatever caused them, the booms are evidence of loud airborne or atmospheric events—not evidence that an aircraft struck the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd16.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-title">UK UFOcase histories howden moor incidentoperation had been officially completed</span><span class="citation-popover-snippet">Many more aircraft were involved in this exercise than has been officially admitted, as is clear from the 13 low-flying complaints lodged...</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-2-dark.svg" | relative_url }}" alt="Howden Moor illustration 2" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+### Why helicopters added to the confusion
+
+Helicopters were present both before and during the emergency response. A Peak District ranger later recalled watching Hale-Bopp when a low, slowly moving helicopter passed near Ladybower Reservoir. Police and RAF helicopters then searched the area after the crash calls. People looking outside after hearing an explosion could therefore encounter several different sights and sounds without knowing which belonged to the original report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uk-ufo.org/condign/casehowd15.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk-ufo.org">[UK UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk-ufo.org</span><span class="citation-popover-snippet">“The Dangerous Flying Zone was standard procedure; it was placed because of all the helicopters th...</span></span></span>
+
+This helps explain why recollections diverged. A witness might report “military aircraft” after seeing a rescue helicopter, while another might connect an earlier helicopter with the later search. Once the incident was presented as a pursuit, every aircraft in the vicinity could be absorbed into the same story.
+
+### Hale-Bopp was conspicuous, but not a complete explanation
+
+Comet Hale-Bopp was approaching its late-March 1997 peak and was unusually bright in the evening sky. Several local observers were deliberately outside watching it, increasing the number of people paying attention to aerial lights. A bright comet could explain some stationary or slowly perceived lights, particularly through broken cloud or when seen from a moving vehicle. It cannot, by itself, account for reports of a low aircraft, engine noise or a light visibly crossing a local skyline.
+
+Hale-Bopp’s main significance is therefore contextual. It created an exceptional night for sky-watching and supplied a conspicuous luminous object against which aircraft and other lights could be confused. Some witnesses may have described the comet; others were clearly describing moving aircraft. Treating every light as Hale-Bopp is as unhelpful as treating every light as a single unknown craft.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D8LKcpqYZYs" title="The Howden Moor UFO Mystery - did aliens come to Sheffield??" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D8LKcpqYZYs" target="_blank" rel="noopener noreferrer">The Howden Moor UFO Mystery - did aliens come to Sheffield??</a></p><p class="youtube-embed-meta">Channel: The Wanderlust Way</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D8LKcpqYZYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D8LKcpqYZYs">Open on YouTube</a></p></div></div></div>
+
+## Why the crash story endured
+
+The Howden Moor legend persisted because the search was large, public and inconclusive. A routine misidentification usually ends when an aircraft is identified or an astronomical explanation is demonstrated. Here, rescuers searched through the night, an RAF helicopter returned in daylight, temporary air restrictions were imposed, and no single official explanation accounted neatly for every reported sound and light. That combination leaves a narrative gap into which stronger claims can be placed.
+
+Later retellings introduced or amplified several ideas: a vast triangular craft, six pursuing Tornados, an aircraft crashing into a reservoir, recovered bodies and a military cover-up. These claims go well beyond the documented emergency. No publicly verified radar plot shows an unknown target being chased. No identified aircraft remained missing. No physical debris or casualty record has emerged, and the Ministry of Defence says it found no record of an interception scramble.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+Official ambiguity also helped the story. The Ministry of Defence’s position was not that every sighting had been explained, but that its records did not show a defence-significant event or the claimed scramble. Its UFO correspondence from the period was later transferred to The National Archives, where the relevant administrative files can be examined as public records. The existence of a preserved UFO file sometimes sounds mysterious in isolation, but the file largely records questions, press claims and government responses rather than evidence of recovered technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.nationalarchives.gov.uk/details/r/C11611892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Digital copy of DEFE 24/1997: UFO correspondence; with redactions &#124; The National ArchivesDigital copy of DEFE 24/1997: UFO corre...</span></span></span>
+
+Local geography added another layer. The moors contain reservoirs, steep valleys, restricted sightlines and large areas that are difficult to search quickly. Aircraft can vanish behind ridges while continuing safely at low level, and a distant light may appear close to the ground. Sound can arrive after the visible aircraft has passed or be reflected by terrain, encouraging witnesses to connect events that were separated in space.
+
+The emergency operation itself then became evidence within the legend: because so many professionals searched, something extraordinary must have happened. This reverses the logic of rescue work. Search teams mobilised because the potential consequences of ignoring a genuine crash were severe, not because a crash had already been confirmed. Their failure to find anything substantially weakened the crash claim.
+
+
+
+<img src="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-3-dark.svg" | relative_url }}" alt="Howden Moor illustration 3" data-theme-src-dark="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Derbyshire_ebae69_howden_moor_crash_sc_3a77c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Did anything crash on Howden Moor?
+
+On the available evidence, probably not. The case contains credible testimony that aircraft, unusual lights and powerful sounds were experienced over and around the Peak District on 24 March 1997. It also contains genuine gaps: the source of every reported aircraft and both seismic disturbances was not publicly pinned down, and timings in witness statements and military accounts do not fit perfectly.
+
+Those gaps justify describing parts of the night as unresolved. They do not justify describing a crash as established. The best-supported assessment separates the incident into three layers:
+
+**The confirmed event** was a major search-and-rescue operation prompted by reports of an apparent aircraft accident. The RAF Sea King searched during the night and again the next morning, alongside police and civilian rescue resources. Nothing was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+
+**The probable trigger** was a combination of low-flying aircraft, flashes or distant lights, and loud sonic or atmospheric disturbances. Witnesses interpreted an aircraft disappearing towards dark moorland as a descent or impact.
+
+**The later legend** joined those observations into a UFO chase and crash for which no physical, radar or aircraft-loss evidence has been verified.
+
+Within Derbyshire’s UFO history, Howden Moor matters less as evidence of an exotic vehicle than as an unusually clear example of how a real emergency can evolve into an enduring mystery. Unlike a simple distant-light report, it involved trained rescuers, aircraft, police communications and official scrutiny. Yet those same checks produced the case’s most important finding: an elaborate search took place, but no crashed craft was discovered.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ltlH4YfMGJc" title="The Night a UFO Fell Over Sheffield – And Vanished [Eerie&#x27;s Vault Episode #93]" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ltlH4YfMGJc" target="_blank" rel="noopener noreferrer">The Night a UFO Fell Over Sheffield – And Vanished [Eerie&#x27;s Vault Episode #93]</a></p><p class="youtube-embed-meta">Channel: Eerie&#x27;s Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ltlH4YfMGJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ltlH4YfMGJc">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anything Crash on Howden Moor?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+<p class="fr-book-desc">The Report on Unidentified Flying Objects, written by Captain Edward Ruppelt in 1956, was the first serious, unbiased account written abo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience: A Scientific Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+<p class="fr-book-desc">Cited by the New York Review of Books as &quot;the best brief for visitation,&quot; this classic study presents an analysis of UFO reports and conc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State%3A+Chronology+of+a+Coverup%2C+1941+1973+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State: Chronology of a Coverup, 1941-1973 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State: Chronology of a Coverup," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State%3A+Chronology+of+a+Coverup%2C+1941+1973+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State: Chronology of a Coverup,">UFOs and the National Security State: Chronology of a Coverup...</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
+        
+<p class="fr-book-desc">&quot;The documentation is spectacularly good, the best ever on the UFO subject. And the conclusion is overwhelmingly powerful.&quot; —Whitley Stri...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State%3A+Chronology+of+a+Coverup%2C+1941+1973+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
+        
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Impeccably researched, this riveting journalistic investigation separates fact from fiction, and documents th...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience: A Scientific Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State%3A+Chronology+of+a+Coverup%2C+1941+1973&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State: Chronology of a Coverup,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-reference="howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche" target="_blank" rel="sponsored noopener noreferrer">UFO memorabilia</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/234332447003?_skw=UFO+memorabilia&amp;hash=item368f4d611b%3Ag%3Ayn0AAOSw~r1htoYO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/234332447003?_skw=UFO+memorabilia&amp;hash=item368f4d611b%3Ag%3Ayn0AAOSw~r1htoYO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 2.00 | Shipping GBP 1.19</span><span>New</span><span>Seller: uk photo prints (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/234332447003?_skw=UFO+memorabilia&amp;hash=item368f4d611b%3Ag%3Ayn0AAOSw~r1htoYO&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/366358358306?_skw=UFO+memorabilia&amp;hash=item554ca8e922%3Ag%3AcOkAAOSwQb5hqPMn&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/366358358306?_skw=UFO+memorabilia&amp;hash=item554ca8e922%3Ag%3AcOkAAOSwQb5hqPMn&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 1.85 | Shipping GBP 1.20</span><span>New</span><span>Seller: davebowman28 (99.6% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/366358358306?_skw=UFO+memorabilia&amp;hash=item554ca8e922%3Ag%3AcOkAAOSwQb5hqPMn&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/236900078571?_skw=UFO+memorabilia&amp;hash=item37285853eb%3Ag%3Aip0AAeSwBP1qPpIi&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: UFO/UAP Disclosure Challenge Coin - 40mm - Manufacturing Typo on Coin !"><img src="{{ '/assets/images/marketplace-covers/3d7e40d40298b5812a0e.jpg' | relative_url }}" alt="Listing image for UFO/UAP Disclosure Challenge Coin - 40mm - Manufacturing Typo on Coin !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/236900078571?_skw=UFO+memorabilia&amp;hash=item37285853eb%3Ag%3Aip0AAeSwBP1qPpIi&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO/UAP Disclosure Challenge Coin - 40mm - Manufacturing Typo on Coin !</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 2.49 | Shipping GBP 1.55</span><span>New</span><span>Seller: outa-time-id (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/236900078571?_skw=UFO+memorabilia&amp;hash=item37285853eb%3Ag%3Aip0AAeSwBP1qPpIi&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/406965624675?_skw=UFO+memorabilia&amp;hash=item5ec10a9f63%3Ag%3AKgkAAeSw-UlqHUV2&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/406965624675?_skw=UFO+memorabilia&amp;hash=item5ec10a9f63%3Ag%3AKgkAAeSw-UlqHUV2&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 39.59 | Free shipping</span><span>New</span><span>Seller: posterglam (100.0% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/406965624675?_skw=UFO+memorabilia&amp;hash=item5ec10a9f63%3Ag%3AKgkAAeSw-UlqHUV2&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-mogg+-band+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson -series -programme -concert -cd -schenker -michael -mogg -band -lp" data-ebay-reference="howden-moor-did-anything-crash-on-howden-moor-derbyshire-ufo-memorabilia-gerry-anderson-series-programme-concert-cd-sche" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: UK Assets  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a8162dced915d74e33fdec0/RAF_FOI_2016_5052___RAF_Search_and_rescue_over_the_Peak_District_reports_in_March_1997_results.pdf</a>  
+
+2.<a id="endnote-2"></a>
+   Source: uk-ufo.org  
+   Title: UK UFOcase histories howden moor incidentoperation had been officially completed  
+   Link:<a href="https://www.uk-ufo.org/condign/casehowd16.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.uk-ufo.org/condign/casehowd16.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many more aircraft were involved in this exercise than has been officially admitted, as is clear from the 13 low-flying complaints lodged...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: uk-ufo.org  
+   Link:<a href="https://www.uk-ufo.org/condign/casehowd15.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.uk-ufo.org/condign/casehowd15.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Dangerous Flying Zone was standard procedure; it was placed because of all the helicopters th...</p></details>
+
+4.<a id="endnote-4"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: UK Assets  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/16862/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/16862/ufo_report_1997.pdf</a>  
+
+5.<a id="endnote-5"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C11611892" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11611892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital copy of DEFE 24/1997: UFO correspondence; with redactions | The National ArchivesDigital copy of DEFE 24/1997: UFO corre...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: GOV.UK  
+   Title: www.gov.uk Request records of deceased service personnel  
+   Link:<a href="https://www.gov.uk/guidance/request-records-of-deceased-service-personnel" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/request-records-of-deceased-service-personnel</a>  
+
+7.<a id="endnote-7"></a>
+   Source: GOV.UK  
+   Title: www.gov.uk Inquiry reports  
+   Link:<a href="https://www.gov.uk/government/collections/service-inquiry-si" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/service-inquiry-si</a>  
+
+8.<a id="endnote-8"></a>
+   Source: GOV.UK  
+   Title: www.gov.uk UF O reports in the UK  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+
+9.<a id="endnote-9"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: publishing.service.gov.uk Part 1.4 (1) Analysis and findings  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a747e1440f0b646cbc40408/XX177Part_1_4_1_analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a747e1440f0b646cbc40408/XX177Part_1_4_1_analysis.pdf</a>  
+
+10.<a id="endnote-10"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: 20140624 FOI 01746 Rendlesham UFO Incident1980  
+   Link:<a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/322941/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/322941/20140624_FOI_01746_Rendlesham_UFO_Incident1980.pdf</a>  
+
+11.<a id="endnote-11"></a>
+   Source: assets.publishing.service.gov.uk  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+
+12.<a id="endnote-12"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: 11 1975 G AXOP Append  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5422f550ed915d1374000547/11-1975_G-AXOP_Append.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422f550ed915d1374000547/11-1975_G-AXOP_Append.pdf</a>  
+
+13.<a id="endnote-13"></a>
+   Source: assets.publishing.service.gov.uk  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5422eecded915d1371000213/dft_avsafety_pdf_501173.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422eecded915d1371000213/dft_avsafety_pdf_501173.pdf</a>  
+
+14.<a id="endnote-14"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: dft avsafety pdf 500585  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5422fde6ed915d137100096d/dft_avsafety_pdf_500585.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5422fde6ed915d137100096d/dft_avsafety_pdf_500585.pdf</a>  
+
+15.<a id="endnote-15"></a>
+   Source: assets.publishing.service.gov.uk  
+   Title: raf brawdy  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a796999ed915d07d35b5480/raf_brawdy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a796999ed915d07d35b5480/raf_brawdy.pdf</a>  
+
+16.<a id="endnote-16"></a>
+   Source: aph.gov.au  
+   Link:<a href="https://www.aph.gov.au/binaries/hansard/senate/dailys/ds240397.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/binaries/hansard/senate/dailys/ds240397.pdf</a>  
+
+17.<a id="endnote-17"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C81190" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C81190</a>  
+
+18.<a id="endnote-18"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C11542529" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11542529</a>  
+
+19.<a id="endnote-19"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C1018" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C1018</a>  
+
+20.<a id="endnote-20"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C11527879" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11527879</a>  
+
+21.<a id="endnote-21"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/c/F266133" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/c/F266133</a>  
+
+22.<a id="endnote-22"></a>
+   Source: nationalarchives.gov.uk  
+   Title: pro Format Search.aspx  
+   Link:<a href="https://www.nationalarchives.gov.uk/pronom/Format/proFormatSearch.aspx?id=1997&amp;status=detailReport" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/pronom/Format/proFormatSearch.aspx?id=1997&amp;status=detailReport</a>  
+
+23.<a id="endnote-23"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C10518753" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C10518753</a>  
+
+24.<a id="endnote-24"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/c/F259826" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/c/F259826</a>  
+
+25.<a id="endnote-25"></a>
+   Source: nationalarchives.gov.uk  
+   Title: royal navy operations policy after 1945  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-policy-after-1945/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-policy-after-1945/</a>  
+
+26.<a id="endnote-26"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C11669731" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C11669731</a>  
+
+27.<a id="endnote-27"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/</a>  
+
+28.<a id="endnote-28"></a>
+   Source: discovery.nationalarchives.gov.uk  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C17109050" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C17109050</a>  
+
+29.<a id="endnote-29"></a>
+   Source: caselaw.nationalarchives.gov.uk  
+   Title: nationalarchives.gov.uk Search and browse  
+   Link:<a href="https://caselaw.nationalarchives.gov.uk/search-and-browse" target="_blank" rel="noopener noreferrer nofollow">https://caselaw.nationalarchives.gov.uk/search-and-browse</a>  
+
+30.<a id="endnote-30"></a>
+   Source: nationalarchives.gov.uk  
+   Title: Ministry of Defence service records project  
+   Link:<a href="https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/</a>  
+
+31.<a id="endnote-31"></a>
+   Source: nationalarchives.gov.uk  
+   Title: british army soldiers in service after 1945  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-soldiers-in-service-after-1945/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-soldiers-in-service-after-1945/</a>  
+
+32.<a id="endnote-32"></a>
+   Source: GOV.UK  
+   Title: www.gov.uk Get a copy of military records of service: Apply for your own records  
+   Link:<a href="https://www.gov.uk/get-copy-military-records-of-service/apply-for-your-own-records" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/get-copy-military-records-of-service/apply-for-your-own-records</a>  
+
+33.<a id="endnote-33"></a>
+   Source: GOV.UK  
+   Title: www.gov.uk Get a copy of military records of service: Overview  
+   Link:<a href="https://www.gov.uk/get-copy-military-records-of-service" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/get-copy-military-records-of-service</a>  
+
+34.<a id="endnote-34"></a>
+   Source: GOV.UK  
+   Link:<a href="https://www.gov.uk/get-copy-military-records-of-service/apply-for-the-records-of-a-deceased-serviceperson" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/get-copy-military-records-of-service/apply-for-the-records-of-a-deceased-serviceperson</a>  
+
+35.<a id="endnote-35"></a>
+   Source: uk-ufo.org  
+   Link:<a href="https://www.uk-ufo.org/condign/casehowd14.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.uk-ufo.org/condign/casehowd14.htm</a>  
+
+### Additional References
+
+36.<a id="endnote-36"></a>
+   Source: ufotransparency.com  
+   Link:<a href="https://ufotransparency.com/files/intl-uk-howden-moor-defe-24-1997-defe-24-1997-howden-moor-sheffield-1997" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-uk-howden-moor-defe-24-1997-defe-24-1997-howden-moor-sheffield-1997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyHowden Moor / Sheffield Incident, DEFE 24/1997 (March 1997 sonic boom and triangular craft reports), UK Ministry of Defen...</p></details>
+   Published: March 1997  
+
+37.<a id="endnote-37"></a>
+   Source: military-airshows.co.uk  
+   Title: Sheffield Incident  
+   Link:<a href="https://www.military-airshows.co.uk/unex6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.military-airshows.co.uk/unex6.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page Airshow Calendar 2026 News &amp; Press Releases UK Airshow Venues Photos &amp; Reviews The Unexplained Sheffield Incident Sheffield Inc...</p></details>
+
+38.<a id="endnote-38"></a>
+   Source: youtube.com  
+   Title: The Howden Moor UFO Mystery  
+   Link:<a href="https://www.youtube.com/watch?v=D8LKcpqYZYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D8LKcpqYZYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peak District Walk - Langsett to Crow Stones I Howden Moor Plane Crash site...</p></details>
+
+39.<a id="endnote-39"></a>
+   Source: youtube.com  
+   Title: Peak District Walk  
+   Link:<a href="https://www.youtube.com/watch?v=W8PPY7LKGfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8PPY7LKGfY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOWDEN MOORS AIRCRAFT WRECKS UPPER DERWENT VALLEY...</p></details>
+
+40.<a id="endnote-40"></a>
+   Source: youtube.com  
+   Title: HOWDEN MOORS AIRCRAFT WRECKS UPPER DERWENT VALLEY  
+   Link:<a href="https://www.youtube.com/watch?v=M4b1iyDgz4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M4b1iyDgz4o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British UFO Files | Full UFO Documentary | Unseen Footage [suspicious link removed]...</p></details>
+
+41.<a id="endnote-41"></a>
+   Source: commonslibrary.parliament.uk  
+   Title: cbp 8344  
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-8344/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-8344/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>questions in the House of Commons since 1997 - House of Commons LibraryJuly 13, 2026 — Urgent questions in the House of Commons since 199...</p></details>
+   Published: July 13, 2026  
+
+42.<a id="endnote-42"></a>
+   Source: moonlitmyths.blogspot.com  
+   Link:<a href="https://moonlitmyths.blogspot.com/2024/03/snippet-howden-moor-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://moonlitmyths.blogspot.com/2024/03/snippet-howden-moor-incident.html</a>  
+
+43.<a id="endnote-43"></a>
+   Source: findmypast.co.uk  
+   Link:<a href="https://www.findmypast.co.uk/discover/birth-marriage-death-and-parish-records/parish-baptisms/england-newspaper-birth-notices" target="_blank" rel="noopener noreferrer nofollow">https://www.findmypast.co.uk/discover/birth-marriage-death-and-parish-records/parish-baptisms/england-newspaper-birth-notices</a>  
+
+44.<a id="endnote-44"></a>
+   Source: en-academic.com  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/4980402" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/4980402</a>  
+
+45.<a id="endnote-45"></a>
+   Source: ufotransparency.com  
+   Link:<a href="https://ufotransparency.com/topics/uk-mod-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/topics/uk-mod-ufo-files</a>  
