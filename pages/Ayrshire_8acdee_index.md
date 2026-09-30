@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ayrshire-8acdee-index/
 description: Focused pages that expand on What Really Happened Above Ayrshire's Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ayrshire_8acdee
 parent_title: What Really Happened Above Ayrshire's Skies?

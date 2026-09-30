@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /renfrewshire-6a148e-index/
 description: Focused pages that expand on What Really Happened in Renfrewshire Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Renfrewshire_6a148e
 parent_title: What Really Happened in Renfrewshire Skies?

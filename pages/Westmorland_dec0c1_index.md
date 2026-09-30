@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /westmorland-dec0c1-index/
 description: Focused pages that expand on What Really Happened Above Westmorland?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Westmorland_dec0c1
 parent_title: What Really Happened Above Westmorland?
