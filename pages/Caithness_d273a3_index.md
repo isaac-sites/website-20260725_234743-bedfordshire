@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /caithness-d273a3-index/
 description: Focused pages that expand on What Really Happened in Caithness Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Caithness_d273a3
 parent_title: What Really Happened in Caithness Skies?

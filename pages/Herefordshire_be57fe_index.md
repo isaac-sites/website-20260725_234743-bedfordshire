@@ -8,6 +8,7 @@ permalink: /herefordshire-be57fe-index/
 description: Focused pages that expand on What Really Happened in Herefordshire's
   UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Herefordshire_be57fe
 parent_title: What Really Happened in Herefordshire's UFO...

@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 23:07:02'
+last_modified_at: '2026-07-23 23:07:02'
 parent_title: Angus UFO Files
 parent_permalink: /what-really-happened-in-angus-ufo/
 parent_nav_short_title: Angus UFO Files

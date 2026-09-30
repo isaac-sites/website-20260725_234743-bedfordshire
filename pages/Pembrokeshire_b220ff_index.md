@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pembrokeshire-b220ff-index/
 description: Focused pages that expand on What Really Happened in Pembrokeshire's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pembrokeshire_b220ff
 parent_title: What Really Happened in Pembrokeshire's...

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /inverness-shire-f61896-index/
 description: Focused pages that expand on What Really Happened In Inverness shire....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Inverness-shire_f61896
 parent_title: What Really Happened In Inverness shire...

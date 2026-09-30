@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-24 02:31:31'
+last_modified_at: '2026-07-24 02:31:31'
 parent_title: East Lothian UFOs
 parent_permalink: /east-lothians-ufo-stories-reports/
 parent_nav_short_title: East Lothian UFOs

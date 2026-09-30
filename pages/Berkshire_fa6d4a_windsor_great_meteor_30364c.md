@@ -221,6 +221,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-23 00:58:30'
+last_modified_at: '2026-07-23 00:58:30'
 parent_title: Berkshire
 parent_permalink: /what-really-happened-in-berkshires-ufo/
 parent_nav_short_title: Berkshire
