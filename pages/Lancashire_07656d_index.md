@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lancashire-07656d-index/
 description: 'Focused pages that expand on Lancashire UFO Reports: Mystery, Evidence....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lancashire_07656d
 parent_title: 'Lancashire UFO Reports: Mystery, Evidence...'

@@ -8,6 +8,7 @@ permalink: /kent-4e168a-index/
 description: 'Focused pages that expand on Kent''s UFO Cases: Evidence, Witnesses
   and....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kent_4e168a
 parent_title: 'Kent''s UFO Cases: Evidence, Witnesses and...'

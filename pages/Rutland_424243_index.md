@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rutland-424243-index/
 description: Focused pages that expand on What Really Happened in Rutland Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rutland_424243
 parent_title: What Really Happened in Rutland Skies?

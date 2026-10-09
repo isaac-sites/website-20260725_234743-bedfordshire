@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /radnorshire-2d75e1-index/
 description: Focused pages that expand on What Really Flew Over Radnorshire's Dark....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Radnorshire_2d75e1
 parent_title: What Really Flew Over Radnorshire's Dark...
