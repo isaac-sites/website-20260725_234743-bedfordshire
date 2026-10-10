@@ -8,6 +8,7 @@ permalink: /dunbartonshire-abd4f2-index/
 description: Focused pages that expand on What Really Happened in Dunbartonshire's
   UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dunbartonshire_abd4f2
 parent_title: What Really Happened in Dunbartonshire's UFO...

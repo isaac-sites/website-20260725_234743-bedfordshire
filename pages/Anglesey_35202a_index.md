@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /anglesey-35202a-index/
 description: Focused pages that expand on What Really Happened in Anglesey's UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Anglesey_35202a
 parent_title: What Really Happened in Anglesey's UFO...

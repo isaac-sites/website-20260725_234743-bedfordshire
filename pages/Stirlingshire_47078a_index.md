@@ -8,6 +8,7 @@ permalink: /stirlingshire-47078a-index/
 description: Focused pages that expand on What Really Happened in Stirlingshire's
   UFO....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Stirlingshire_47078a
 parent_title: What Really Happened in Stirlingshire's UFO...

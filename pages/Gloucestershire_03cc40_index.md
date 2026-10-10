@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gloucestershire-03cc40-index/
 description: Focused pages that expand on What Really Happened in Gloucestershire's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gloucestershire_03cc40
 parent_title: What Really Happened in Gloucestershire's...

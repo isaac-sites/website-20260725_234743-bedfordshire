@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /east-lothian-a7dd3d-index/
 description: 'Focused pages that expand on East Lothian''s UFO Stories: Reports,....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: East_Lothian_a7dd3d
 parent_title: 'East Lothian''s UFO Stories: Reports,...'

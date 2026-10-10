@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /somerset-24710f-index/
 description: Focused pages that expand on What Really Happened in Somerset's Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Somerset_24710f
 parent_title: What Really Happened in Somerset's Skies?

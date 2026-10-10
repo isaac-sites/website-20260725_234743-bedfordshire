@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cardiganshire-0418d7-index/
 description: Focused pages that expand on What Really Happened in Cardiganshire Skies?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cardiganshire_0418d7
 parent_title: What Really Happened in Cardiganshire Skies?

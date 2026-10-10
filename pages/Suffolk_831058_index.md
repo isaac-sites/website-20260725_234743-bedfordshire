@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /suffolk-831058-index/
 description: Focused pages that expand on What Happened in Suffolk's UFO Mysteries?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Suffolk_831058
 parent_title: What Happened in Suffolk's UFO Mysteries?

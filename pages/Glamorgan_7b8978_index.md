@@ -8,6 +8,7 @@ permalink: /glamorgan-7b8978-index/
 description: 'Focused pages that expand on Glamorgan''s UFO Mysteries: Cases, Claims
   And....'
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Glamorgan_7b8978
 parent_title: 'Glamorgan''s UFO Mysteries: Cases, Claims And...'

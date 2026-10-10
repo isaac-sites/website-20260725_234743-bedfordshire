@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /yorkshire-f09525-index/
 description: Focused pages that expand on Yorkshire UFO Stories Between Mystery And....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Yorkshire_f09525
 parent_title: Yorkshire UFO Stories Between Mystery And...

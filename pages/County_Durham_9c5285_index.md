@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /county-durham-9c5285-index/
 description: Focused pages that expand on What Really Happened in County Durham's....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: County_Durham_9c5285
 parent_title: What Really Happened in County Durham's...
