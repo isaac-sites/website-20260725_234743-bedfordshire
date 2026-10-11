@@ -910,7 +910,6 @@ For Kincardineshire, the significance of official records is therefore not that 
 28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 29.<a id="endnote-29"></a>
    Source: discovery.nationalarchives.gov.uk  

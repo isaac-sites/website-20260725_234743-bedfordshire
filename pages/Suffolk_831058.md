@@ -1239,7 +1239,6 @@ The best-supported conclusion is that Suffolk has a significant history of repor
 4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about this...</p></details>
 
 5.<a id="endnote-5"></a>

@@ -904,7 +904,6 @@ For Suffolk, this means the archive has become the main lasting record of offici
 17.<a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
@@ -959,7 +958,6 @@ For Suffolk, this means the archive has become the main lasting record of offici
 
 28.<a id="endnote-28"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 29.<a id="endnote-29"></a>
    Source: wired-gov.net  

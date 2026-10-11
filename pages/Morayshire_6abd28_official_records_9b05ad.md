@@ -965,7 +965,6 @@ For researchers and local historians, the archive trail remains valuable because
 
 40.<a id="endnote-40"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 41.<a id="endnote-41"></a>
    Source: theguardian.com  

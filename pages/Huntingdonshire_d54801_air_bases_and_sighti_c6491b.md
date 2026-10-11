@@ -858,7 +858,6 @@ For Huntingdonshire, these airfields provide a useful example of how UFO history
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  

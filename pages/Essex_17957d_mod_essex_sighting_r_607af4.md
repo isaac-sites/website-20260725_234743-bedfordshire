@@ -1112,7 +1112,6 @@ The fairest conclusion is that a small proportion of Essex reports cannot now be
 65.<a id="endnote-65"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 66.<a id="endnote-66"></a>
    Source: media.nationalarchives.gov.uk  

@@ -1357,7 +1357,6 @@ The surviving evidence suggests that Nairnshire’s UFO history is best understo
 32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 33.<a id="endnote-33"></a>
    Source: shop.nationalarchives.gov.uk  

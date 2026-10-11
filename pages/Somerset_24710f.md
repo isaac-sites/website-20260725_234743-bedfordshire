@@ -1332,7 +1332,6 @@ Somerset’s UFO history is therefore best understood as a record of human obser
 23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  

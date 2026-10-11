@@ -1531,7 +1531,6 @@ That does not make the subject valueless. Montgomeryshire shows how UFO history 
 60.<a id="endnote-60"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 61.<a id="endnote-61"></a>
    Source: nationalarchives.gov.uk  

@@ -1334,7 +1334,6 @@ For researchers and local historians, Staffordshire provides a useful example of
 22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 23.<a id="endnote-23"></a>
    Source: staffordshire.police.uk  

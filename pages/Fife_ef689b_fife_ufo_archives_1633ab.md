@@ -925,7 +925,6 @@ Fife’s archives therefore reveal a history of reporting rather than confirmati
 32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 ### Additional References
 

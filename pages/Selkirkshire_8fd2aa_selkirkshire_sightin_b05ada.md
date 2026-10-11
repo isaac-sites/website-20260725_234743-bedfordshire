@@ -892,7 +892,6 @@ This places Selkirkshire in an important but quieter part of Scottish UFO histor
 21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 22.<a id="endnote-22"></a>
    Source: discovery.nationalarchives.gov.uk  

@@ -902,7 +902,6 @@ For Shropshire, the official files therefore provide valuable evidence about how
 24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  

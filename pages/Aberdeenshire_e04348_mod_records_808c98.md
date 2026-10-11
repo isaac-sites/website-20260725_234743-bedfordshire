@@ -940,7 +940,6 @@ The main conclusion from the MoD records is therefore cautious: official files s
 
 36.<a id="endnote-36"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 ### Additional References
 
