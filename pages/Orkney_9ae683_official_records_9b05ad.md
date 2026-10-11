@@ -932,7 +932,6 @@ The Orkney record therefore remains one of documented reports and unresolved obs
 
 29.<a id="endnote-29"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 30.<a id="endnote-30"></a>
    Source: wired-gov.net  

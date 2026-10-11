@@ -939,7 +939,6 @@ Within Dorset’s UFO history, the flying-cross report matters because it shows 
 32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  

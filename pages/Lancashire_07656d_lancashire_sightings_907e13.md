@@ -916,7 +916,6 @@ The evidence does not show a confirmed Lancashire UFO phenomenon in the sense of
 27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  

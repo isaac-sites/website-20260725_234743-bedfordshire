@@ -771,7 +771,6 @@ Within Aberdeenshire’s UFO history, the Fraserburgh report is best classified 
 1.<a id="endnote-1"></a>
    Source: uk.news.yahoo.com  
    Title: News Video: Circular 'UFO' hovers above house in Aberdeen  
-   Link:https://uk.news.yahoo.com/video--circular--ufo--captured-hovering-above-house-near-aberdeen.html  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo NewsVideo: Circular &#x27;UFO&#x27; hovers above house in Aberdeen - Yahoo News UKOctober 18, 2012...</p></details>
    Published: October 18, 2012  
 

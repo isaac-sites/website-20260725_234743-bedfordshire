@@ -860,7 +860,6 @@ The lasting significance of North Wales cases is not that they establish a confi
 19.<a id="endnote-19"></a>
    Source: nhinewsnetwork.com  
    Title: united kingdom  
-   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 ### Additional References
 

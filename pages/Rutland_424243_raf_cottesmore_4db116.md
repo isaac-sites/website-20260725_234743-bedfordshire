@@ -865,7 +865,6 @@ The most balanced conclusion is that RAF Cottesmore shaped the setting in which 
 19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  

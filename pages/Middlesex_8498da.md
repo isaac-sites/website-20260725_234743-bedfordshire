@@ -1248,7 +1248,6 @@ The most balanced assessment is that Middlesex has a genuine history of UFO repo
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 8.<a id="endnote-8"></a>
    Source: images.nationalarchives.gov.uk  
