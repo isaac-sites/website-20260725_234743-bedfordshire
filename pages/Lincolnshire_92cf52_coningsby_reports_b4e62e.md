@@ -891,7 +891,7 @@ The most useful distinction is between an **unidentified observation** and an **
 27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports</a>  
+   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 28.<a id="endnote-28"></a>
    Source: discovery.nationalarchives.gov.uk  

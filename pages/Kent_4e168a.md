@@ -1310,7 +1310,7 @@ The county’s most important stories — West Malling in 1953, Manston in 1957 
 18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 19.<a id="endnote-19"></a>
    Source: discovery.nationalarchives.gov.uk  

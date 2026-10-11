@@ -872,7 +872,7 @@ For Argyllshire, the military connection is therefore best understood as a mecha
 16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: raf combat reports 1939 1945  
-   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports</a>  
+   Link:https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports  
 
 17.<a id="endnote-17"></a>
    Source: abct.org.uk  

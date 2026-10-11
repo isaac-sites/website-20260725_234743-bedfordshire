@@ -948,7 +948,7 @@ For Caernarfonshire, the MoD files place local UFO reports within a broader nati
 28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 29.<a id="endnote-29"></a>
    Source: libraries.croydon.gov.uk  
@@ -992,7 +992,7 @@ For Caernarfonshire, the MoD files place local UFO reports within a broader nati
 
 37.<a id="endnote-37"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/country/united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/country/united-kingdom/</a>  
+   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 38.<a id="endnote-38"></a>
    Source: openuap.space  

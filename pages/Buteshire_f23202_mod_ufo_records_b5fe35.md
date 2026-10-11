@@ -921,7 +921,7 @@ The wider lesson from the MoD archive is that official investigation was mainly 
 
 30.<a id="endnote-30"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/country/united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/country/united-kingdom/</a>  
+   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 31.<a id="endnote-31"></a>
    Source: ovniarchive.com  

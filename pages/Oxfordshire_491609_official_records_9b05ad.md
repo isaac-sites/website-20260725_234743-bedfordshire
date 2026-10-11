@@ -1014,7 +1014,7 @@ The legacy of Oxfordshire’s UFO investigations is therefore not a hidden offic
 43.<a id="endnote-43"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 44.<a id="endnote-44"></a>
    Source: images.nationalarchives.gov.uk  

@@ -972,7 +972,7 @@ The surviving MoD files therefore offer a more measured picture of Kent’s UFO 
 36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 37.<a id="endnote-37"></a>
    Source: images.nationalarchives.gov.uk  

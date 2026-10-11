@@ -949,7 +949,7 @@ Taken together, Lincolnshire’s newspapers and official files provide a more ba
 34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 35.<a id="endnote-35"></a>
    Source: media.nationalarchives.gov.uk  

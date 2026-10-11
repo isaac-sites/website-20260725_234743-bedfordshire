@@ -1062,7 +1062,7 @@ Aylesbury Vale should therefore remain an important chapter in Buckinghamshireâ€
 56.<a id="endnote-56"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 57.<a id="endnote-57"></a>
    Source: discovery.nationalarchives.gov.uk  
