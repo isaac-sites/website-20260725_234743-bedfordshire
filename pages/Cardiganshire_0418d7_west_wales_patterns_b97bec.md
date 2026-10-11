@@ -901,7 +901,7 @@ For Cardiganshire, the lesson from these comparisons is that a UFO pattern is no
 
 29.<a id="endnote-29"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/country/united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/country/united-kingdom/</a>  
+   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 30.<a id="endnote-30"></a>
    Source: inkl.com  

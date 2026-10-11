@@ -890,7 +890,7 @@ For researchers and the public, the Calvine investigation remains a useful examp
 
 33.<a id="endnote-33"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/country/united-kingdom/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/country/united-kingdom/</a>  
+   Link:https://nhinewsnetwork.com/country/united-kingdom/  
 
 ### Additional References
 

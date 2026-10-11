@@ -1280,7 +1280,7 @@ The evidence supports a history of reported unusual sightings, but not a confirm
 14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 15.<a id="endnote-15"></a>
    Source: images.nationalarchives.gov.uk  

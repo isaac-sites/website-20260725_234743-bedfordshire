@@ -1553,7 +1553,7 @@ The wider county record is more modest. Cumberland has experienced local sightin
 60.<a id="endnote-60"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948 2  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948-2/  
 
 61.<a id="endnote-61"></a>
    Source: Wikipedia  
